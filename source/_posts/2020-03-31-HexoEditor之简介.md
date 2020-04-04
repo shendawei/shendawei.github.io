@@ -1,7 +1,8 @@
 ---
 title: HexoEditor之简介
 date: 2020-03-31 20:06:07
-tags:
+categories:
+- [博客, 编辑器]
 
 ---
 

@@ -1,7 +1,8 @@
 ---
 title: 基于hexo+github搭建独立博客
 date: 2020-03-31 20:57:14
-tags:
+categories:
+- [博客, 环境安装]
 
 ---
 

@@ -1,7 +1,8 @@
 ---
 title: HexoEditor之快捷键教程
 date: 2020-03-31 20:07:21
-tags:
+categories:
+- [博客, 编辑器]
 
 ---
 

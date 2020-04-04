@@ -1,7 +1,8 @@
 ---
 title: HexoEditor使用教程
 date: 2020-03-31 20:05:35
-tags:
+categories:
+- [博客, 编辑器]
 
 ---
 

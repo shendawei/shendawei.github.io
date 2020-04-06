@@ -6,7 +6,7 @@ categories:
 
 ---
 
-[HexoEditor简介](2020-03-31-HexoEditor之简介.md)  
-[HexoEditor快捷键教程](2020-03-31-HexoEditor之快捷键教程.md)  
-[Markdown标准语法](MarkdownSyntaxReference.html.webarchive)  
-[Mou语法教程](2020-03-31-Mou语法教程.md)
+
+* {% post_link HexoEditor之简介 %}
+* {% post_link HexoEditor之快捷键教程 %}
+* {% post_link Mou语法教程 %}

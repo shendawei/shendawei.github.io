@@ -4,3 +4,9 @@ date: {{ date }}
 categories:
 - worklog
 ---
+今日工作：
+复制date
+<!--more-->
+
+
+明日计划：

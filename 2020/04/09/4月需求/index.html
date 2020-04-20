@@ -79,14 +79,14 @@
 
 
 
-<meta name="description" content="需求模版  状态包括：未开始，开发中，等待联调，联调中，已提测，已合主干">
+<meta name="description" content="需求模版  状态包括：待确认，不需开发，待排期，未开始，开发中，等待联调，联调中，已提测，已合主干">
 <meta property="og:type" content="article">
 <meta property="og:title" content="4月需求">
 <meta property="og:url" content="http://shendawei.cn/2020/04/09/4%E6%9C%88%E9%9C%80%E6%B1%82/index.html">
 <meta property="og:site_name" content="久久匠心">
-<meta property="og:description" content="需求模版  状态包括：未开始，开发中，等待联调，联调中，已提测，已合主干">
+<meta property="og:description" content="需求模版  状态包括：待确认，不需开发，待排期，未开始，开发中，等待联调，联调中，已提测，已合主干">
 <meta property="article:published_time" content="2020-04-09T10:23:21.000Z">
-<meta property="article:modified_time" content="2020-04-09T10:35:01.000Z">
+<meta property="article:modified_time" content="2020-04-20T03:31:49.000Z">
 <meta property="article:author" content="沈大伟">
 <meta name="twitter:card" content="summary">
 
@@ -316,8 +316,8 @@
               
                 <span class="post-meta-item-text">更新于&#58;</span>
               
-              <time title="更新于" itemprop="dateModified" datetime="2020-04-09T18:35:01+08:00">
-                2020-04-09
+              <time title="更新于" itemprop="dateModified" datetime="2020-04-20T11:31:49+08:00">
+                2020-04-20
               </time>
             
           </span>
@@ -374,7 +374,7 @@
       
         <p><strong>需求模版</strong></p>
 <blockquote>
-<p>状态包括：未开始，开发中，等待联调，联调中，已提测，已合主干</p>
+<p>状态包括：待确认，不需开发，待排期，未开始，开发中，等待联调，联调中，已提测，已合主干</p>
 </blockquote>
 <a id="more"></a>
 <figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br></pre></td><td class="code"><pre><span class="line">- [ ] xxx需求</span><br><span class="line">    - Jira：</span><br><span class="line">    - Svn：</span><br><span class="line">    - 文档：</span><br><span class="line">    - 功能点：</span><br><span class="line">    - 产品：</span><br><span class="line">    - 总排期：</span><br><span class="line">    - 个人开发排期：</span><br><span class="line">    - 分支：</span><br><span class="line">    - 模块：</span><br><span class="line">    - **状态：**</span><br></pre></td></tr></table></figure>
@@ -384,42 +384,55 @@
 <li>Jira：GOMELSA-462</li>
 <li>Svn：</li>
 <li>文档：暂看svn一店一页</li>
-<li>功能点：</li>
+<li>功能点：带安商品单子隐藏“质检报告”、“发票”、“商品返回方式及地址运能等信息”，展示“带安商品的提示语”</li>
 <li>产品：赵艳霞</li>
-<li>总排期：</li>
-<li>个人开发排期：</li>
+<li>总排期：4.14接口文档 4.16-4.17开发 联调待定 5.6上线 发包待定</li>
+<li>个人开发排期：4.08 - 4.10 ui开发 4.16根据接口调整逻辑</li>
 <li>分支：daiantuikuan0430</li>
 <li>模块：GReturn、GMaterialOrder</li>
-<li><strong>状态：开发中</strong></li>
+<li><strong>状态：等待联调</strong></li>
 </ul>
 </li>
 <li><input disabled="" type="checkbox"> 来购端增加店配需求<ul>
 <li>Jira：GOMELSA-661</li>
 <li>Svn：<a href="https://code.ds.gome.com.cn/svn/projects_doc/2020年项目/02_资本化项目/门店店配项目/来购增加店配需求" target="_blank" rel="noopener">https://code.ds.gome.com.cn/svn/projects_doc/2020年项目/02_资本化项目/门店店配项目/来购增加店配需求</a></li>
 <li>文档：<a href="https://kdocs.cn/l/sG01bKrjg" target="_blank" rel="noopener">https://kdocs.cn/l/sG01bKrjg</a> [金山文档] 来购增加店配需求开发功能点汇总_秦旭.xlsx</li>
-<li>功能点：</li>
+<li>功能点：接入层控制闪电送和门店配送的退换货类型&amp;商品返回方式</li>
 <li>产品：赵艳霞</li>
 <li>总排期：4月6日-4月15日开发 4月16日-4月20日联调 4月21日-4月27日测试 4月28日上线</li>
-<li>个人开发排期：</li>
+<li>个人开发排期：无</li>
 <li>分支：dianpei0430</li>
 <li>模块：SCreateOrder、SShopList、SOrder、SReturn</li>
-<li><strong>状态：未开始</strong></li>
+<li><strong>状态：不需开发</strong></li>
 </ul>
 </li>
-<li><input disabled="" type="checkbox"> 退货券延期需求<ul>
-<li>Jira：GOMELS-11655</li>
+<li><input disabled="" type="checkbox"> 来购端退货券延期需求<ul>
+<li>Jira：GOMELS-11279</li>
 <li>Svn：<a href="https://code.ds.gome.com.cn/svn/projects_doc/2018年项目/中台项目/前端组/01-需求/原型设计/2020年4月份需求/退券延期问题" target="_blank" rel="noopener">https://code.ds.gome.com.cn/svn/projects_doc/2018年项目/中台项目/前端组/01-需求/原型设计/2020年4月份需求/退券延期问题</a></li>
 <li>文档：</li>
-<li>功能点：</li>
+<li>功能点：取消／拒收／审核 详情页，增加“退券信息”模块</li>
 <li>产品：赵艳霞</li>
-<li>总排期：</li>
-<li>个人开发排期：</li>
-<li>分支：</li>
-<li>模块：</li>
-<li><strong>状态：未开始</strong></li>
+<li>总排期：4.13接口文档 4.17-4.20开发 4.21联调完成 4.22－4.27测试 4.28上线 发包待定</li>
+<li>个人开发排期：4.14-4.16</li>
+<li>分支：returncoupon0430</li>
+<li>模块：SShopList、SReturn</li>
+<li><strong>状态：等待联调</strong></li>
 </ul>
 </li>
-<li><input disabled="" type="checkbox"> 商城整站店铺名称展示优化<ul>
+<li><input disabled="" type="checkbox"> 来购端退换货待处理增加审核信息需求<ul>
+<li>Jira：</li>
+<li>Svn：<a href="https://code.ds.gome.com.cn/svn/projects_doc/2018年项目/中台项目/前端组/01-需求/原型设计/2020年4月份需求" target="_blank" rel="noopener">https://code.ds.gome.com.cn/svn/projects_doc/2018年项目/中台项目/前端组/01-需求/原型设计/2020年4月份需求</a></li>
+<li>文档：</li>
+<li>功能点：退换货待处理页面增加增加审核信息模块，支持处理通过、不通过；选择不通过选项时，要把退款信息屏蔽掉不显示；</li>
+<li>产品：赵艳霞</li>
+<li>总排期：4.14接口文档 4.17-4.20开发 4.20联调完成 4.21－4.27测试 4.28上线 发包待定</li>
+<li>个人开发排期：4.16看需求准备开发 4.17-4.20</li>
+<li>分支：returndeal4aduit0430</li>
+<li>模块：SReturn</li>
+<li><strong>状态：开发中</strong></li>
+</ul>
+</li>
+<li><input checked="" disabled="" type="checkbox"> 商城整站店铺名称展示优化<ul>
 <li>Jira：GOMELSA-705</li>
 <li>Svn：</li>
 <li>文档：<a href="https://kdocs.cn/l/sbcbkMALU" target="_blank" rel="noopener">https://kdocs.cn/l/sbcbkMALU</a> [金山文档] 一店一页问题.xlsx</li>
@@ -427,9 +440,9 @@
 <li>产品：黎雪</li>
 <li>总排期：</li>
 <li>个人开发排期：</li>
-<li>分支：</li>
+<li>分支：无</li>
 <li>模块：GMemHome</li>
-<li><strong>状态：产品讨论中</strong></li>
+<li><strong>状态：不需开发</strong></li>
 </ul>
 </li>
 </ul>
@@ -466,6 +479,10 @@
           <span class="post-nav-divider"></span>
 
           <div class="post-nav-prev post-nav-item">
+            
+              <a href="/2020/04/10/%E9%9C%80%E6%B1%82%E4%B8%8A%E6%8A%A5-1/" rel="prev" title="需求上报">
+                需求上报 <i class="fa fa-chevron-right"></i>
+              </a>
             
           </div>
         </div>
@@ -535,7 +552,7 @@
               
                 <a href="/archives/%7C%7C%20archive">
               
-                  <span class="site-state-item-count">30</span>
+                  <span class="site-state-item-count">39</span>
                   <span class="site-state-item-name">日志</span>
                 </a>
               </div>
@@ -557,7 +574,7 @@
               
               <div class="site-state-item site-state-tags">
                 <a href="/tags/index.html">
-                  <span class="site-state-item-count">1</span>
+                  <span class="site-state-item-count">2</span>
                   <span class="site-state-item-name">标签</span>
                 </a>
               </div>

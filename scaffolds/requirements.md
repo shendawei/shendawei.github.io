@@ -3,6 +3,8 @@ title: {{ title }}
 date: {{ date }}
 categories: 
 - 需求
+tags:
+- private
 ---
 **需求模版**
 > 状态包括：未开始，开发中，等待联调，联调中，已提测，已合主干

@@ -6,6 +6,8 @@ categories:
 
 ---
 
+简介、快捷键、Mou语法
+<!--more-->
 
 * {% post_link HexoEditor之简介 %}
 * {% post_link HexoEditor之快捷键教程 %}

@@ -29,19 +29,6 @@
       </categories>
   </entry>
   <entry>
-    <title>HexoEditor之简介</title>
-    <url>/2020/03/31/HexoEditor%E4%B9%8B%E7%AE%80%E4%BB%8B/</url>
-    <content><![CDATA[<blockquote>
-<p>软件来源：修改自<a href="https://github.com/Moeditor/Moeditor" target="_blank" rel="noopener">Moeditor</a><br>有了它，不必再羡慕MAC下的<a href="http://25.io/mou/" target="_blank" rel="noopener">Mou</a></p>
-</blockquote>
-<p><a href="https://github.com/zhuzhuyule/HexoEditor" target="_blank" rel="noopener">开源地址</a><br><a href="https://github.com/zhuzhuyule/HexoEditor/blob/master/doc/cn/README.md" target="_blank" rel="noopener">README - 中文</a><br><a href="https://akilarlxh.github.io/post/1da4f99e" target="_blank" rel="noopener">HexoEditor编辑器讲解</a><br><a href="http://www.sigalx.com/?p=73" target="_blank" rel="noopener">Moeditor编辑器讲解</a>  </p>
-]]></content>
-      <categories>
-        <category>博客</category>
-        <category>编辑器</category>
-      </categories>
-  </entry>
-  <entry>
     <title>HexoEditor之快捷键教程</title>
     <url>/2020/03/31/HexoEditor%E4%B9%8B%E5%BF%AB%E6%8D%B7%E9%94%AE%E6%95%99%E7%A8%8B/</url>
     <content><![CDATA[<p>标题<br>代码块<br>粗体<br>斜体<br>删除线<br>链接<br>图片<br>引用<br>有序列表<br>无序列表<br>段落<br>表格  </p>
@@ -218,16 +205,12 @@
       </categories>
   </entry>
   <entry>
-    <title>HexoEditor使用教程</title>
-    <url>/2020/03/31/HexoEditor%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B/</url>
-    <content><![CDATA[<p>简介、快捷键、Mou语法</p>
-<a id="more"></a>
-
-<ul>
-<li><a href="/2020/03/31/HexoEditor%E4%B9%8B%E7%AE%80%E4%BB%8B/" title="HexoEditor之简介">HexoEditor之简介</a></li>
-<li><a href="/2020/03/31/HexoEditor%E4%B9%8B%E5%BF%AB%E6%8D%B7%E9%94%AE%E6%95%99%E7%A8%8B/" title="HexoEditor之快捷键教程">HexoEditor之快捷键教程</a></li>
-<li><a href="/2020/03/31/Mou%E8%AF%AD%E6%B3%95%E6%95%99%E7%A8%8B/" title="Mou语法教程">Mou语法教程</a></li>
-</ul>
+    <title>HexoEditor之简介</title>
+    <url>/2020/03/31/HexoEditor%E4%B9%8B%E7%AE%80%E4%BB%8B/</url>
+    <content><![CDATA[<blockquote>
+<p>软件来源：修改自<a href="https://github.com/Moeditor/Moeditor" target="_blank" rel="noopener">Moeditor</a><br>有了它，不必再羡慕MAC下的<a href="http://25.io/mou/" target="_blank" rel="noopener">Mou</a></p>
+</blockquote>
+<p><a href="https://github.com/zhuzhuyule/HexoEditor" target="_blank" rel="noopener">开源地址</a><br><a href="https://github.com/zhuzhuyule/HexoEditor/blob/master/doc/cn/README.md" target="_blank" rel="noopener">README - 中文</a><br><a href="https://akilarlxh.github.io/post/1da4f99e" target="_blank" rel="noopener">HexoEditor编辑器讲解</a><br><a href="http://www.sigalx.com/?p=73" target="_blank" rel="noopener">Moeditor编辑器讲解</a>  </p>
 ]]></content>
       <categories>
         <category>博客</category>
@@ -309,17 +292,6 @@
       </categories>
   </entry>
   <entry>
-    <title>Hexo加密文章</title>
-    <url>/2020/03/31/Hexo%E5%8A%A0%E5%AF%86%E6%96%87%E7%AB%A0/</url>
-    <content><![CDATA[<h3 id="加密方案"><a href="#加密方案" class="headerlink" title="加密方案"></a>加密方案</h3><p>使用<a href="https://github.com/MikeCoder/hexo-blog-encrypt" target="_blank" rel="noopener">hexo-blog-encrypt</a>插件<br>遇到经典问题，可先读作者<a href="https://github.com/MikeCoder/hexo-blog-encrypt/issues" target="_blank" rel="noopener">Issues</a></p>
-<h3 id="参考文章"><a href="#参考文章" class="headerlink" title="参考文章"></a>参考文章</h3><p><a href="https://www.jianshu.com/p/e4203ee066e5" target="_blank" rel="noopener">简书：Hexo博客文章加密</a></p>
-]]></content>
-      <categories>
-        <category>博客</category>
-        <category>Hexo</category>
-      </categories>
-  </entry>
-  <entry>
     <title>Hexo之编译Bug</title>
     <url>/2020/03/31/Hexo%E4%B9%8B%E7%BC%96%E8%AF%91Bug/</url>
     <content><![CDATA[<p>bug模版</p>
@@ -373,260 +345,10 @@
       </categories>
   </entry>
   <entry>
-    <title>Markdown标准语法</title>
-    <url>/2020/03/31/Markdown%E6%A0%87%E5%87%86%E8%AF%AD%E6%B3%95/</url>
-    <content><![CDATA[<p>Part Ⅰ. Standard Markdown</p>
-<p>Strong and Emphasize<br><em>emphasize</em>   <strong>strong</strong><br><em>emphasize</em>   <strong>strong</strong><br>Links and Email<br>Inline:</p>
-<p>An <a href="http://url.com/" target="_blank" rel="noopener" title="Title">example</a><br>Reference-style labels (titles are optional):</p>
-<p>An <a href="http://example.com/" target="_blank" rel="noopener" title="Title">example</a>. Then, anywhere<br>else in the doc, define the link:</p>
-<p>Email:</p>
-<p>An email <a href="mailto:&#x65;&#x78;&#97;&#109;&#x70;&#x6c;&#x65;&#64;&#101;&#120;&#97;&#109;&#x70;&#x6c;&#101;&#46;&#x63;&#111;&#109;">&#x65;&#x78;&#97;&#109;&#x70;&#x6c;&#x65;&#64;&#101;&#120;&#97;&#109;&#x70;&#x6c;&#101;&#46;&#x63;&#111;&#109;</a> link.<br>Images<br>Inline (titles are optional):</p>
-<p><img src="/path/img.jpg" alt="alt text" title="Title"><br>Reference-style:</p>
-<p><img src="http://example.com/" alt="alt text" title="Title"></p>
-<p>Headers<br>Setext-style:</p>
-<h1 id="Header-1"><a href="#Header-1" class="headerlink" title="Header 1"></a>Header 1</h1><h2 id="Header-2"><a href="#Header-2" class="headerlink" title="Header 2"></a>Header 2</h2><p>atx-style (closing #’s are optional):</p>
-<h1 id="Header-1-1"><a href="#Header-1-1" class="headerlink" title="Header 1"></a>Header 1</h1><h2 id="Header-2-1"><a href="#Header-2-1" class="headerlink" title="Header 2"></a>Header 2</h2><h6 id="Header-6"><a href="#Header-6" class="headerlink" title="Header 6"></a>Header 6</h6><p>Lists<br>Ordered, without paragraphs:</p>
-<ol>
-<li>Foo</li>
-<li>Bar<br>Unordered, with paragraphs:</li>
-</ol>
-<ul>
-<li><p>A list item.</p>
-<p>With multiple paragraphs.</p>
-</li>
-<li><p>Bar<br>You can nest them:</p>
-</li>
-<li><p>Abacus</p>
-<ul>
-<li>answer</li>
-</ul>
-</li>
-<li><p>Bubbles</p>
-<ol>
-<li>bunk</li>
-<li>bupkis<ul>
-<li>BELITTLER</li>
-</ul>
-</li>
-<li>burper</li>
-</ol>
-</li>
-<li><p>Cunning<br>Blockquotes</p>
-<blockquote>
-<p>Email-style angle brackets<br>are used for blockquotes.</p>
-</blockquote>
-</li>
-</ul>
-<blockquote>
-<blockquote>
-<p>And, they can be nested.</p>
-</blockquote>
-</blockquote>
-<blockquote>
-<h4 id="Headers-in-blockquotes"><a href="#Headers-in-blockquotes" class="headerlink" title="Headers in blockquotes"></a>Headers in blockquotes</h4><ul>
-<li>You can quote a list.</li>
-<li>Etc.<br>Inline Code<br><code>&lt;code&gt;</code> spans are delimited<br>by backticks.</li>
-</ul>
-</blockquote>
-<p>You can include literal backticks<br>like <code>`this`</code>.<br>Block Code<br>Indent every line of a code block by at least 4 spaces or 1 tab.</p>
-<p>This is a normal paragraph.</p>
-<pre><code>This is a preformatted
-code block.</code></pre><p>Horizontal Rules<br>Three or more dashes or asterisks:</p>
-<hr>
-<hr>
-<hr>
-<p>Hard Line Breaks<br>End a line with two or more spaces:</p>
-<p>Roses are red,<br>Violets are blue.<br>Part Ⅱ. Extra Syntax</p>
-<p>Footnotes<br>Footnotes work mostly like reference-style links. A footnote is made of two things: a marker in the text that will become a superscript number; a footnote definition that will be placed in a list of footnotes at the end of the document. A footnote looks like this:</p>
-<p>That’s some text with a footnote.[^1]</p>
-<p>[^1]: And that’s the footnote.<br>Strikethrough<br>Wrap with 2 tilde ~ characters:</p>
-<p><del>Strikethrough</del><br>Fenced Code Blocks<br>Start with a line containing 3 or more backtick <code>characters, and ends with the first line with the same number of backtick</code>:</p>
-<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">Fenced code blocks are like Stardard</span><br><span class="line">Markdown’s regular code blocks, except that</span><br><span class="line">they’re not indented and instead rely on a</span><br><span class="line">start and end fence lines to delimit the code</span><br><span class="line">block.</span><br></pre></td></tr></table></figure>
-<p>Tables<br>A simple table looks like this:</p>
-<table>
-<thead>
-<tr>
-<th>First Header</th>
-<th>Second Header</th>
-<th>Third Header</th>
-</tr>
-</thead>
-<tbody><tr>
-<td>Content Cell</td>
-<td>Content Cell</td>
-<td>Content Cell</td>
-</tr>
-<tr>
-<td>Content Cell</td>
-<td>Content Cell</td>
-<td>Content Cell</td>
-</tr>
-<tr>
-<td>If you wish, you can add a leading and tailing pipe to each line of the table:</td>
-<td></td>
-<td></td>
-</tr>
-</tbody></table>
-<table>
-<thead>
-<tr>
-<th>First Header</th>
-<th>Second Header</th>
-<th>Third Header</th>
-</tr>
-</thead>
-<tbody><tr>
-<td>Content Cell</td>
-<td>Content Cell</td>
-<td>Content Cell</td>
-</tr>
-<tr>
-<td>Content Cell</td>
-<td>Content Cell</td>
-<td>Content Cell</td>
-</tr>
-<tr>
-<td>Specify alignement for each column by adding colons to separator lines:</td>
-<td></td>
-<td></td>
-</tr>
-</tbody></table>
-<table>
-<thead>
-<tr>
-<th align="left">First Header</th>
-<th align="center">Second Header</th>
-<th align="right">Third Header</th>
-</tr>
-</thead>
-<tbody><tr>
-<td align="left">Left</td>
-<td align="center">Center</td>
-<td align="right">Right</td>
-</tr>
-<tr>
-<td align="left">Left</td>
-<td align="center">Center</td>
-<td align="right">Right</td>
-</tr>
-<tr>
-<td align="left">Anchor</td>
-<td align="center"></td>
-<td align="right"></td>
-</tr>
-<tr>
-<td align="left">You can also add an anchor for an element such as Headers, then you can link to this anchor anywhere, when you click that link in the Preview view, it’ll auto scroll to the place of the destination anchor.</td>
-<td align="center"></td>
-<td align="right"></td>
-</tr>
-</tbody></table>
-<p>For example below is a normal h2 Header:</p>
-<h2 id="This-is-an-example"><a href="#This-is-an-example" class="headerlink" title="This is an example"></a>This is an example</h2><p>Now we add an anchor for it, here we use the name “anchor1” for the anchor, of course you can use any name you want.</p>
-<h2 id="This-is-an-example-1"><a href="#This-is-an-example-1" class="headerlink" title="This is an example"></a><a href="id:anchor1">This is an example</a></h2><p>If you want to link to this anchor, simply write like this:</p>
-<p>Click this <a href="#anchor1">link</a> in the Preview view will auto scroll to the place of the destination anchor.</p>
-]]></content>
-      <categories>
-        <category>Markdown</category>
-      </categories>
-  </entry>
-  <entry>
-    <title>Hexo提交源文件，部署博客</title>
-    <url>/2020/03/31/Hexo%E6%8F%90%E4%BA%A4%E6%BA%90%E6%96%87%E4%BB%B6%EF%BC%8C%E9%83%A8%E7%BD%B2%E5%8D%9A%E5%AE%A2/</url>
-    <content><![CDATA[<p>保存文章，发布博客<br>发布博客更新总结<br>提交源文件 &amp; 部署站点<br>在新电脑上修改</p>
-<a id="more"></a>
-<p>hexo搭建博客发布到个人服务器架构流程图<br><img src="image/hexo%E5%8D%9A%E5%AE%A2%E6%B5%81%E7%A8%8B%E5%9B%BE.jpeg" alt="image"><br>说明：我本人没有使用缓存tmp<br><img src="image/hexo%E5%8D%9A%E5%AE%A2%E4%B8%8A%E4%BC%A0%E6%9C%BA%E5%88%B6%E5%9B%BE.png" alt="image"></p>
-<h3 id="保存文章，发布博客"><a href="#保存文章，发布博客" class="headerlink" title="保存文章，发布博客"></a>保存文章，发布博客</h3><blockquote>
-<p>执行清除命令，发布博客，可行。  <code>clean适用于主题样式发生较大改动</code></p>
-</blockquote>
-<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">更新文章</span><br><span class="line">hexo clean &amp;&amp; hexo d [-g]</span><br></pre></td></tr></table></figure>
-
-<blockquote>
-<p>不执行清除命令，发布博客，可行</p>
-</blockquote>
-<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">更新文章</span><br><span class="line">hexo d -g</span><br></pre></td></tr></table></figure>
-
-<blockquote>
-<p>不执行清除命令，发布博客，不可行</p>
-</blockquote>
-<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">更新文章</span><br><span class="line">hexo s -g</span><br><span class="line">hexo d</span><br></pre></td></tr></table></figure>
-
-<h3 id="发布博客更新总结"><a href="#发布博客更新总结" class="headerlink" title="发布博客更新总结"></a>发布博客更新总结</h3><ul>
-<li><p>与预览<code>hexo s [-g]</code>无关系</p>
-</li>
-<li><p>git push，发布博客，不可行，<br>因为仅仅提交更新源码md文件</p>
-  <figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">git add .</span><br><span class="line">git commit</span><br><span class="line">git push</span><br></pre></td></tr></table></figure></li>
-<li><p>重点说明：仅仅修改文章，不涉及主题修改的，可以不执行clean命令</p>
-</li>
-<li><p>是否生成html新文件</p>
-  <figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">hexo s -g: 否</span><br><span class="line">hexo d -g: 是</span><br><span class="line">hexo g: 是</span><br></pre></td></tr></table></figure>
-<table>
-<thead>
-<tr>
-<th align="center">命令</th>
-<th align="center">是否生成html新文件</th>
-</tr>
-</thead>
-<tbody><tr>
-<td align="center">hexo s -g</td>
-<td align="center">否</td>
-</tr>
-<tr>
-<td align="center">hexo d -g</td>
-<td align="center">是</td>
-</tr>
-<tr>
-<td align="center">hexo g</td>
-<td align="center">是</td>
-</tr>
-</tbody></table>
-</li>
-</ul>
-<blockquote>
-<p>g/-g参数意义</p>
-<blockquote>
-<p>原来没认真研究横线-意义，总以为都会在本地生成新的html文件<br>经过多次不同命令发布尝试后，才知道横线-g相当于在内存生成html，所以在发布部署时，必须生成本地的html文件。  </p>
-</blockquote>
-</blockquote>
-<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">s -g是内存生成html，g || d -g是文件生成html，所以在部署时，生成新html上传，使用哪种参数，至关重要！</span><br></pre></td></tr></table></figure>
-
-<h3 id="提交源文件-amp-部署站点"><a href="#提交源文件-amp-部署站点" class="headerlink" title="提交源文件 &amp; 部署站点"></a>提交源文件 &amp; 部署站点</h3><p>提交源文件(git push): 触发的是master分支(源文件)，触发钩子；<code>但博客文件(静态文件public/)未发生上传新文件</code>。<br>部署站点(hexo deploy): 触发的是blog分支(静态文件)，触发钩子；<code>但博客文件(静态文件public/)上传新文件</code>。<br>操作示例：</p>
-<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">➜  shendawei git:(master) git push</span><br><span class="line">Counting objects: 20, done.</span><br><span class="line">Delta compression using up to 4 threads.</span><br><span class="line">Compressing objects: 100% (19&#x2F;19), done.</span><br><span class="line">Writing objects: 100% (20&#x2F;20), 20.34 KiB | 0 bytes&#x2F;s, done.</span><br><span class="line">Total 20 (delta 3), reused 0 (delta 0)</span><br><span class="line">remote: start hook.</span><br><span class="line">remote: Already on &#39;blog&#39;</span><br><span class="line">remote: end hook.</span><br><span class="line">To shendawei.cn:&#x2F;home&#x2F;git&#x2F;repos&#x2F;Doc.git</span><br><span class="line">   75bba7a..9c8dc7f  master -&gt; master</span><br></pre></td></tr></table></figure>
-<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">➜  shendawei git:(master) ✗ hexo d -g</span><br><span class="line">INFO  Start processing</span><br><span class="line">WARN  &#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;</span><br><span class="line">WARN  &#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D; ATTENTION! &#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;</span><br><span class="line">WARN  &#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;</span><br><span class="line">WARN   NexT repository is moving here: https:&#x2F;&#x2F;github.com&#x2F;theme-next </span><br><span class="line">WARN  &#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;</span><br><span class="line">WARN   It&#39;s rebase to v6.0.0 and future maintenance will resume there</span><br><span class="line">WARN  &#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;</span><br><span class="line">INFO  Files loaded in 689 ms</span><br><span class="line">INFO  Generated: 2020&#x2F;03&#x2F;31&#x2F;Hexo提交源文件，部署博客&#x2F;index.html</span><br><span class="line">INFO  Generated: index.html</span><br><span class="line">INFO  2 files generated in 936 ms</span><br><span class="line">INFO  Deploying: git</span><br><span class="line">INFO  Clearing .deploy_git folder...</span><br><span class="line">INFO  Copying files from public folder...</span><br><span class="line">INFO  Copying files from extend dirs...</span><br><span class="line">[master 7fd6702] Site updated: 2020-03-31 21:41:54</span><br><span class="line"> 2 files changed, 4 insertions(+), 4 deletions(-)</span><br><span class="line">Counting objects: 8, done.</span><br><span class="line">Delta compression using up to 4 threads.</span><br><span class="line">Compressing objects: 100% (5&#x2F;5), done.</span><br><span class="line">Writing objects: 100% (8&#x2F;8), 611 bytes | 0 bytes&#x2F;s, done.</span><br><span class="line">Total 8 (delta 4), reused 0 (delta 0)</span><br><span class="line">remote: start hook.</span><br><span class="line">remote: Already on &#39;blog&#39;</span><br><span class="line">remote: end hook.</span><br><span class="line">To shendawei.cn:&#x2F;home&#x2F;git&#x2F;repos&#x2F;Doc.git</span><br><span class="line">   8243221..7fd6702  HEAD -&gt; blog</span><br><span class="line">Branch master set up to track remote branch blog from git@shendawei.cn:&#x2F;home&#x2F;git&#x2F;repos&#x2F;Doc.git.</span><br><span class="line">INFO  Deploy done: git</span><br></pre></td></tr></table></figure>
-<p>总结  </p>
-<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">站点博客要更新，只能调用部署的方法。  </span><br><span class="line">部署的前提：主题样式未修改，直接hexo d -g;主题样式修改, hexo clean &amp;&amp; hexo d -g.    </span><br><span class="line">简而言之，只编辑文章内容时，部署站点博客，执行hexo d -g;提交源文件时，执行git commit, git push.</span><br></pre></td></tr></table></figure>
-
-<h3 id="在新电脑上修改"><a href="#在新电脑上修改" class="headerlink" title="在新电脑上修改"></a>在新电脑上修改</h3><p>不需要hexo init，不需要git init</p>
-<h4 id="编写文章"><a href="#编写文章" class="headerlink" title="编写文章"></a>编写文章</h4><ol>
-<li><p>下载仓库  </p>
- <figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">git clone git@shendawei.cn:&#x2F;home&#x2F;git&#x2F;repos&#x2F;Doc.git -b master shendawei</span><br><span class="line">cd shendawei</span><br></pre></td></tr></table></figure></li>
-<li><p>初始化submodule next</p>
- <figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">git submodule init</span><br></pre></td></tr></table></figure></li>
-<li><p>下载submodule next</p>
- <figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">git submodule update</span><br></pre></td></tr></table></figure></li>
-<li><p>下载npm包</p>
- <figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">npm install</span><br><span class="line">因为package.json已经配置过hexo&amp;hexo-deploy-git，不用单独install --save.</span><br></pre></td></tr></table></figure></li>
-<li><p>编写文章</p>
- <figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">hexo new 新文章</span><br><span class="line">编写新文章&#x2F;修改已有文章</span><br></pre></td></tr></table></figure></li>
-<li><p>预览效果/部署博客</p>
- <figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">hexo s -g &#x2F; hexo d -g</span><br><span class="line">修改主题式样时，才需hexo clean</span><br></pre></td></tr></table></figure></li>
-<li><p>提交文章  </p>
- <figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">git add .</span><br><span class="line">git commit -s -m &quot;message&quot;</span><br><span class="line">git push</span><br></pre></td></tr></table></figure>
-
-</li>
-</ol>
-<h4 id="修改主题"><a href="#修改主题" class="headerlink" title="修改主题"></a>修改主题</h4><ol>
-<li><p>cd主题目录(themes/next/)</p>
- <figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">cd themes&#x2F;next</span><br><span class="line">git submodule update下载的next，分支可能处于游离状态，需先切换到master</span><br><span class="line">git checkout master</span><br></pre></td></tr></table></figure></li>
-<li><p>修改主题文件代码</p>
- <figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">优化主题式样文件</span><br></pre></td></tr></table></figure></li>
-<li><p>提交主题changes</p>
- <figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">git add .</span><br><span class="line">git commit -s -m &quot;更新主题&quot;</span><br><span class="line">git push</span><br></pre></td></tr></table></figure></li>
-<li><p>返回根目录，提交submodule commit id变化</p>
- <figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">cd ..&#x2F;..</span><br><span class="line">➜  shendawei git:(master) ✗ git status </span><br><span class="line">On branch master</span><br><span class="line">Your branch is up-to-date with &#39;origin&#x2F;master&#39;.</span><br><span class="line">Changes to be committed:</span><br><span class="line">  (use &quot;git reset HEAD &lt;file&gt;...&quot; to unstage)</span><br><span class="line"></span><br><span class="line">	modified:   themes&#x2F;next</span><br><span class="line">git add .</span><br><span class="line">git commit -s -m &quot;Update submodule: next&quot;</span><br><span class="line">git push</span><br></pre></td></tr></table></figure>
-
-</li>
-</ol>
-<h3 id="参考文章"><a href="#参考文章" class="headerlink" title="参考文章"></a>参考文章</h3><p><a href="https://tding.top/archives/7f189df5.html" target="_blank" rel="noopener">Hexo 建站教程</a>  </p>
+    <title>Hexo加密文章</title>
+    <url>/2020/03/31/Hexo%E5%8A%A0%E5%AF%86%E6%96%87%E7%AB%A0/</url>
+    <content><![CDATA[<h3 id="加密方案"><a href="#加密方案" class="headerlink" title="加密方案"></a>加密方案</h3><p>使用<a href="https://github.com/MikeCoder/hexo-blog-encrypt" target="_blank" rel="noopener">hexo-blog-encrypt</a>插件<br>遇到经典问题，可先读作者<a href="https://github.com/MikeCoder/hexo-blog-encrypt/issues" target="_blank" rel="noopener">Issues</a></p>
+<h3 id="参考文章"><a href="#参考文章" class="headerlink" title="参考文章"></a>参考文章</h3><p><a href="https://www.jianshu.com/p/e4203ee066e5" target="_blank" rel="noopener">简书：Hexo博客文章加密</a></p>
 ]]></content>
       <categories>
         <category>博客</category>
@@ -634,27 +356,20 @@ code block.</code></pre><p>Horizontal Rules<br>Three or more dashes or asterisks
       </categories>
   </entry>
   <entry>
-    <title>NexT高亮主题</title>
-    <url>/2020/03/31/NexT%E9%AB%98%E4%BA%AE%E4%B8%BB%E9%A2%98/</url>
-    <content><![CDATA[<p>Fixed代码块背景框<br>hexo发布主题样式未及时更新</p>
+    <title>HexoEditor使用教程</title>
+    <url>/2020/03/31/HexoEditor%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B/</url>
+    <content><![CDATA[<p>简介、快捷键、Mou语法</p>
 <a id="more"></a>
 
-<h3 id="Fixed代码块背景框"><a href="#Fixed代码块背景框" class="headerlink" title="Fixed代码块背景框"></a>Fixed代码块背景框</h3><blockquote>
-<p>theme自定义路径：blog\themes\next\source\css_custom\custom.styl</p>
-<blockquote>
-<p>要点：站点样式最终由index.css和main.css决定，但index优先级高于main，所以再属性不能生效时，采用!important标记</p>
-</blockquote>
-</blockquote>
-<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">&#x2F;&#x2F; Custom styles － css.</span><br><span class="line">&#x2F;&#x2F; 去除代码块顶部边框</span><br><span class="line">table tr &#123;</span><br><span class="line">	border-top: none !important;</span><br><span class="line">&#125;</span><br><span class="line">&#x2F;&#x2F; 代码块整区域边框圆角效果</span><br><span class="line">.highlight &#123;</span><br><span class="line">	border-radius: 4px;</span><br><span class="line">&#125;</span><br><span class="line">&#x2F;&#x2F; 去除代码块代码区域背景框</span><br><span class="line">.highlight pre &#123;</span><br><span class="line">	border: none !important;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
-
-<h3 id="hexo发布主题样式未及时更新"><a href="#hexo发布主题样式未及时更新" class="headerlink" title="hexo发布主题样式未及时更新"></a>hexo发布主题样式未及时更新</h3><p>本地修改主题预览没问题，发布到自己服务器，内容更新但修改的主题样式没有更新</p>
-<blockquote>
-<p>调查过程：新的自定义主题修改式样，已经正确存储到自己服务器blog中<br>原因：浏览器缓存问题<br>解决方案：清除本地过去一小时的缓存的图片和文件  </p>
-</blockquote>
+<ul>
+<li><a href="/2020/03/31/HexoEditor%E4%B9%8B%E7%AE%80%E4%BB%8B/" title="HexoEditor之简介">HexoEditor之简介</a></li>
+<li><a href="/2020/03/31/HexoEditor%E4%B9%8B%E5%BF%AB%E6%8D%B7%E9%94%AE%E6%95%99%E7%A8%8B/" title="HexoEditor之快捷键教程">HexoEditor之快捷键教程</a></li>
+<li><a href="/2020/03/31/Mou%E8%AF%AD%E6%B3%95%E6%95%99%E7%A8%8B/" title="Mou语法教程">Mou语法教程</a></li>
+</ul>
 ]]></content>
       <categories>
         <category>博客</category>
-        <category>Hexo</category>
+        <category>编辑器</category>
       </categories>
   </entry>
   <entry>
@@ -670,7 +385,7 @@ code block.</code></pre><p>Horizontal Rules<br>Three or more dashes or asterisks
 <h4 id="Blockquotes"><a href="#Blockquotes" class="headerlink" title="Blockquotes"></a>Blockquotes</h4><blockquote>
 <p>Right angle brackets &gt; are used for block quotes.</p>
 </blockquote>
-<h4 id="Links-and-Email"><a href="#Links-and-Email" class="headerlink" title="Links and Email"></a>Links and Email</h4><p>An email <a href="mailto:&#x65;&#120;&#97;&#109;&#112;&#x6c;&#x65;&#64;&#101;&#120;&#97;&#x6d;&#112;&#x6c;&#101;&#46;&#x63;&#x6f;&#x6d;">&#x65;&#120;&#97;&#109;&#112;&#x6c;&#x65;&#64;&#101;&#120;&#97;&#x6d;&#112;&#x6c;&#101;&#46;&#x63;&#x6f;&#x6d;</a> link.</p>
+<h4 id="Links-and-Email"><a href="#Links-and-Email" class="headerlink" title="Links and Email"></a>Links and Email</h4><p>An email <a href="mailto:&#x65;&#x78;&#97;&#x6d;&#112;&#108;&#x65;&#64;&#x65;&#120;&#x61;&#109;&#x70;&#x6c;&#x65;&#46;&#x63;&#111;&#109;">&#x65;&#x78;&#97;&#x6d;&#112;&#108;&#x65;&#64;&#x65;&#120;&#x61;&#109;&#x70;&#x6c;&#x65;&#46;&#x63;&#111;&#109;</a> link.</p>
 <p>Simple inline link <a href="http://chenluois.com" target="_blank" rel="noopener">http://chenluois.com</a>, another inline link <a href="http://25.io/smaller/" target="_blank" rel="noopener">Smaller</a>, one more inline link with title <a href="http://resizesafari.com" target="_blank" rel="noopener" title="a Safari extension">Resize</a>.</p>
 <p>A <a href="http://25.io/mou/" target="_blank" rel="noopener" title="Markdown editor on Mac OS X">reference style</a> link. Input id, then anywhere in the doc, define the link with corresponding id:</p>
 <p>Titles ( or called tool tips ) in the links are optional.</p>
@@ -842,6 +557,134 @@ var Mou = exactlyTheAppIwant; </code></pre><h4 id="Ordered-Lists"><a href="#Orde
       </categories>
   </entry>
   <entry>
+    <title>Hexo提交源文件，部署博客</title>
+    <url>/2020/03/31/Hexo%E6%8F%90%E4%BA%A4%E6%BA%90%E6%96%87%E4%BB%B6%EF%BC%8C%E9%83%A8%E7%BD%B2%E5%8D%9A%E5%AE%A2/</url>
+    <content><![CDATA[<p>保存文章，发布博客<br>发布博客更新总结<br>提交源文件 &amp; 部署站点<br>在新电脑上修改</p>
+<a id="more"></a>
+<p>hexo搭建博客发布到个人服务器架构流程图<br><img src="image/hexo%E5%8D%9A%E5%AE%A2%E6%B5%81%E7%A8%8B%E5%9B%BE.jpeg" alt="image"><br>说明：我本人没有使用缓存tmp<br><img src="image/hexo%E5%8D%9A%E5%AE%A2%E4%B8%8A%E4%BC%A0%E6%9C%BA%E5%88%B6%E5%9B%BE.png" alt="image"></p>
+<h3 id="保存文章，发布博客"><a href="#保存文章，发布博客" class="headerlink" title="保存文章，发布博客"></a>保存文章，发布博客</h3><blockquote>
+<p>执行清除命令，发布博客，可行。  <code>clean适用于主题样式发生较大改动</code></p>
+</blockquote>
+<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">更新文章</span><br><span class="line">hexo clean &amp;&amp; hexo d [-g]</span><br></pre></td></tr></table></figure>
+
+<blockquote>
+<p>不执行清除命令，发布博客，可行</p>
+</blockquote>
+<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">更新文章</span><br><span class="line">hexo d -g</span><br></pre></td></tr></table></figure>
+
+<blockquote>
+<p>不执行清除命令，发布博客，不可行</p>
+</blockquote>
+<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">更新文章</span><br><span class="line">hexo s -g</span><br><span class="line">hexo d</span><br></pre></td></tr></table></figure>
+
+<h3 id="发布博客更新总结"><a href="#发布博客更新总结" class="headerlink" title="发布博客更新总结"></a>发布博客更新总结</h3><ul>
+<li><p>与预览<code>hexo s [-g]</code>无关系</p>
+</li>
+<li><p>git push，发布博客，不可行，<br>因为仅仅提交更新源码md文件</p>
+  <figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">git add .</span><br><span class="line">git commit</span><br><span class="line">git push</span><br></pre></td></tr></table></figure></li>
+<li><p>重点说明：仅仅修改文章，不涉及主题修改的，可以不执行clean命令</p>
+</li>
+<li><p>是否生成html新文件</p>
+  <figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">hexo s -g: 否</span><br><span class="line">hexo d -g: 是</span><br><span class="line">hexo g: 是</span><br></pre></td></tr></table></figure>
+<table>
+<thead>
+<tr>
+<th align="center">命令</th>
+<th align="center">是否生成html新文件</th>
+</tr>
+</thead>
+<tbody><tr>
+<td align="center">hexo s -g</td>
+<td align="center">否</td>
+</tr>
+<tr>
+<td align="center">hexo d -g</td>
+<td align="center">是</td>
+</tr>
+<tr>
+<td align="center">hexo g</td>
+<td align="center">是</td>
+</tr>
+</tbody></table>
+</li>
+</ul>
+<blockquote>
+<p>g/-g参数意义</p>
+<blockquote>
+<p>原来没认真研究横线-意义，总以为都会在本地生成新的html文件<br>经过多次不同命令发布尝试后，才知道横线-g相当于在内存生成html，所以在发布部署时，必须生成本地的html文件。  </p>
+</blockquote>
+</blockquote>
+<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">s -g是内存生成html，g || d -g是文件生成html，所以在部署时，生成新html上传，使用哪种参数，至关重要！</span><br></pre></td></tr></table></figure>
+
+<h3 id="提交源文件-amp-部署站点"><a href="#提交源文件-amp-部署站点" class="headerlink" title="提交源文件 &amp; 部署站点"></a>提交源文件 &amp; 部署站点</h3><p>提交源文件(git push): 触发的是master分支(源文件)，触发钩子；<code>但博客文件(静态文件public/)未发生上传新文件</code>。<br>部署站点(hexo deploy): 触发的是blog分支(静态文件)，触发钩子；<code>但博客文件(静态文件public/)上传新文件</code>。<br>操作示例：</p>
+<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">➜  shendawei git:(master) git push</span><br><span class="line">Counting objects: 20, done.</span><br><span class="line">Delta compression using up to 4 threads.</span><br><span class="line">Compressing objects: 100% (19&#x2F;19), done.</span><br><span class="line">Writing objects: 100% (20&#x2F;20), 20.34 KiB | 0 bytes&#x2F;s, done.</span><br><span class="line">Total 20 (delta 3), reused 0 (delta 0)</span><br><span class="line">remote: start hook.</span><br><span class="line">remote: Already on &#39;blog&#39;</span><br><span class="line">remote: end hook.</span><br><span class="line">To shendawei.cn:&#x2F;home&#x2F;git&#x2F;repos&#x2F;Doc.git</span><br><span class="line">   75bba7a..9c8dc7f  master -&gt; master</span><br></pre></td></tr></table></figure>
+<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">➜  shendawei git:(master) ✗ hexo d -g</span><br><span class="line">INFO  Start processing</span><br><span class="line">WARN  &#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;</span><br><span class="line">WARN  &#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D; ATTENTION! &#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;</span><br><span class="line">WARN  &#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;</span><br><span class="line">WARN   NexT repository is moving here: https:&#x2F;&#x2F;github.com&#x2F;theme-next </span><br><span class="line">WARN  &#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;</span><br><span class="line">WARN   It&#39;s rebase to v6.0.0 and future maintenance will resume there</span><br><span class="line">WARN  &#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;</span><br><span class="line">INFO  Files loaded in 689 ms</span><br><span class="line">INFO  Generated: 2020&#x2F;03&#x2F;31&#x2F;Hexo提交源文件，部署博客&#x2F;index.html</span><br><span class="line">INFO  Generated: index.html</span><br><span class="line">INFO  2 files generated in 936 ms</span><br><span class="line">INFO  Deploying: git</span><br><span class="line">INFO  Clearing .deploy_git folder...</span><br><span class="line">INFO  Copying files from public folder...</span><br><span class="line">INFO  Copying files from extend dirs...</span><br><span class="line">[master 7fd6702] Site updated: 2020-03-31 21:41:54</span><br><span class="line"> 2 files changed, 4 insertions(+), 4 deletions(-)</span><br><span class="line">Counting objects: 8, done.</span><br><span class="line">Delta compression using up to 4 threads.</span><br><span class="line">Compressing objects: 100% (5&#x2F;5), done.</span><br><span class="line">Writing objects: 100% (8&#x2F;8), 611 bytes | 0 bytes&#x2F;s, done.</span><br><span class="line">Total 8 (delta 4), reused 0 (delta 0)</span><br><span class="line">remote: start hook.</span><br><span class="line">remote: Already on &#39;blog&#39;</span><br><span class="line">remote: end hook.</span><br><span class="line">To shendawei.cn:&#x2F;home&#x2F;git&#x2F;repos&#x2F;Doc.git</span><br><span class="line">   8243221..7fd6702  HEAD -&gt; blog</span><br><span class="line">Branch master set up to track remote branch blog from git@shendawei.cn:&#x2F;home&#x2F;git&#x2F;repos&#x2F;Doc.git.</span><br><span class="line">INFO  Deploy done: git</span><br></pre></td></tr></table></figure>
+<p>总结  </p>
+<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">站点博客要更新，只能调用部署的方法。  </span><br><span class="line">部署的前提：主题样式未修改，直接hexo d -g;主题样式修改, hexo clean &amp;&amp; hexo d -g.    </span><br><span class="line">简而言之，只编辑文章内容时，部署站点博客，执行hexo d -g;提交源文件时，执行git commit, git push.</span><br></pre></td></tr></table></figure>
+
+<h3 id="在新电脑上修改"><a href="#在新电脑上修改" class="headerlink" title="在新电脑上修改"></a>在新电脑上修改</h3><p>不需要hexo init，不需要git init</p>
+<h4 id="编写文章"><a href="#编写文章" class="headerlink" title="编写文章"></a>编写文章</h4><ol>
+<li><p>下载仓库  </p>
+ <figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">git clone git@shendawei.cn:&#x2F;home&#x2F;git&#x2F;repos&#x2F;Doc.git -b master shendawei</span><br><span class="line">cd shendawei</span><br></pre></td></tr></table></figure></li>
+<li><p>初始化submodule next</p>
+ <figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">git submodule init</span><br></pre></td></tr></table></figure></li>
+<li><p>下载submodule next</p>
+ <figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">git submodule update</span><br></pre></td></tr></table></figure></li>
+<li><p>下载npm包</p>
+ <figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">npm install</span><br><span class="line">因为package.json已经配置过hexo&amp;hexo-deploy-git，不用单独install --save.</span><br></pre></td></tr></table></figure></li>
+<li><p>编写文章</p>
+ <figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">hexo new 新文章</span><br><span class="line">编写新文章&#x2F;修改已有文章</span><br></pre></td></tr></table></figure></li>
+<li><p>预览效果/部署博客</p>
+ <figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">hexo s -g &#x2F; hexo d -g</span><br><span class="line">修改主题式样时，才需hexo clean</span><br></pre></td></tr></table></figure></li>
+<li><p>提交文章  </p>
+ <figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">git add .</span><br><span class="line">git commit -s -m &quot;message&quot;</span><br><span class="line">git push</span><br></pre></td></tr></table></figure>
+
+</li>
+</ol>
+<h4 id="修改主题"><a href="#修改主题" class="headerlink" title="修改主题"></a>修改主题</h4><ol>
+<li><p>cd主题目录(themes/next/)</p>
+ <figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">cd themes&#x2F;next</span><br><span class="line">git submodule update下载的next，分支可能处于游离状态，需先切换到master</span><br><span class="line">git checkout master</span><br></pre></td></tr></table></figure></li>
+<li><p>修改主题文件代码</p>
+ <figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">优化主题式样文件</span><br></pre></td></tr></table></figure></li>
+<li><p>提交主题changes</p>
+ <figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">git add .</span><br><span class="line">git commit -s -m &quot;更新主题&quot;</span><br><span class="line">git push</span><br></pre></td></tr></table></figure></li>
+<li><p>返回根目录，提交submodule commit id变化</p>
+ <figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">cd ..&#x2F;..</span><br><span class="line">➜  shendawei git:(master) ✗ git status </span><br><span class="line">On branch master</span><br><span class="line">Your branch is up-to-date with &#39;origin&#x2F;master&#39;.</span><br><span class="line">Changes to be committed:</span><br><span class="line">  (use &quot;git reset HEAD &lt;file&gt;...&quot; to unstage)</span><br><span class="line"></span><br><span class="line">	modified:   themes&#x2F;next</span><br><span class="line">git add .</span><br><span class="line">git commit -s -m &quot;Update submodule: next&quot;</span><br><span class="line">git push</span><br></pre></td></tr></table></figure>
+
+</li>
+</ol>
+<h3 id="参考文章"><a href="#参考文章" class="headerlink" title="参考文章"></a>参考文章</h3><p><a href="https://tding.top/archives/7f189df5.html" target="_blank" rel="noopener">Hexo 建站教程</a>  </p>
+]]></content>
+      <categories>
+        <category>博客</category>
+        <category>Hexo</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>NexT高亮主题</title>
+    <url>/2020/03/31/NexT%E9%AB%98%E4%BA%AE%E4%B8%BB%E9%A2%98/</url>
+    <content><![CDATA[<p>Fixed代码块背景框<br>hexo发布主题样式未及时更新</p>
+<a id="more"></a>
+
+<h3 id="Fixed代码块背景框"><a href="#Fixed代码块背景框" class="headerlink" title="Fixed代码块背景框"></a>Fixed代码块背景框</h3><blockquote>
+<p>theme自定义路径：blog\themes\next\source\css_custom\custom.styl</p>
+<blockquote>
+<p>要点：站点样式最终由index.css和main.css决定，但index优先级高于main，所以再属性不能生效时，采用!important标记</p>
+</blockquote>
+</blockquote>
+<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">&#x2F;&#x2F; Custom styles － css.</span><br><span class="line">&#x2F;&#x2F; 去除代码块顶部边框</span><br><span class="line">table tr &#123;</span><br><span class="line">	border-top: none !important;</span><br><span class="line">&#125;</span><br><span class="line">&#x2F;&#x2F; 代码块整区域边框圆角效果</span><br><span class="line">.highlight &#123;</span><br><span class="line">	border-radius: 4px;</span><br><span class="line">&#125;</span><br><span class="line">&#x2F;&#x2F; 去除代码块代码区域背景框</span><br><span class="line">.highlight pre &#123;</span><br><span class="line">	border: none !important;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
+
+<h3 id="hexo发布主题样式未及时更新"><a href="#hexo发布主题样式未及时更新" class="headerlink" title="hexo发布主题样式未及时更新"></a>hexo发布主题样式未及时更新</h3><p>本地修改主题预览没问题，发布到自己服务器，内容更新但修改的主题样式没有更新</p>
+<blockquote>
+<p>调查过程：新的自定义主题修改式样，已经正确存储到自己服务器blog中<br>原因：浏览器缓存问题<br>解决方案：清除本地过去一小时的缓存的图片和文件  </p>
+</blockquote>
+]]></content>
+      <categories>
+        <category>博客</category>
+        <category>Hexo</category>
+      </categories>
+  </entry>
+  <entry>
     <title>new-first</title>
     <url>/2020/03/31/new-first/</url>
     <content><![CDATA[<p>重新整理hexo博客的几个关键点</p>
@@ -889,6 +732,104 @@ var Mou = exactlyTheAppIwant; </code></pre><h4 id="Ordered-Lists"><a href="#Orde
       <categories>
         <category>博客</category>
         <category>Hexo</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>基于hexo+github搭建独立博客</title>
+    <url>/2020/03/31/%E5%9F%BA%E4%BA%8Ehexo-github%E6%90%AD%E5%BB%BA%E7%8B%AC%E7%AB%8B%E5%8D%9A%E5%AE%A2/</url>
+    <content><![CDATA[<p>参考文章</p>
+<ul>
+<li><a href="https://manual.mackeeper.com/overview/uninstall/" target="_blank" rel="noopener">干掉mackeeper</a></li>
+<li><a href="https://www.cnblogs.com/MuYunyun/p/5927491.html" target="_blank" rel="noopener">hexo+github<code>1</code></a></li>
+<li><a href="http://www.cnblogs.com/MuYunyun/p/5922099.html" target="_blank" rel="noopener">搭建自己的云服务器&amp;解析域名</a></li>
+<li><a href="http://blog.csdn.net/li740207611/article/details/52142852" target="_blank" rel="noopener">blog=github+hexo+git<code>2</code></a></li>
+<li><a href="https://www.jianshu.com/p/ce1619874d34" target="_blank" rel="noopener">静态博客框架之Hexo &amp; Jekyll</a></li>
+<li><a href="https://www.jianshu.com/p/c4f145fdd637" target="_blank" rel="noopener">博客搭建可行性方案(jekyll, hexo, Wordpress)</a></li>
+<li><a href="http://blog.csdn.net/u011619283/article/details/52368759" target="_blank" rel="noopener">测试Node.js 和npm</a></li>
+<li><a href="https://hexo.io/zh-cn/docs/index.html" target="_blank" rel="noopener">Hexo Docs</a></li>
+</ul>
+<a id="more"></a>
+<h2 id="安装Hexo"><a href="#安装Hexo" class="headerlink" title="安装Hexo"></a>安装Hexo</h2><p>1.准备</p>
+<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">nodejs + git</span><br></pre></td></tr></table></figure>
+
+<p>2.安装</p>
+<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">npm install -g hexo-cli:需加sudo，否则会报权限错误</span><br></pre></td></tr></table></figure>
+
+<p>3.建站  </p>
+<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">hexo init blog</span><br><span class="line">:INFO  Cloning hexo-starter to ~&#x2F;hexo&#x2F;blog</span><br><span class="line">:Cloning into &#39;&#x2F;Users&#x2F;lixing&#x2F;hexo&#x2F;blog&#39;...</span><br><span class="line">:INFO  Install dependencies</span><br><span class="line">:INFO  Start blogging with Hexo!</span><br><span class="line">cd blog</span><br><span class="line">npm install</span><br></pre></td></tr></table></figure>
+
+<p>4.启动</p>
+<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">hexo server</span><br><span class="line">:INFO  Start processing</span><br><span class="line">:INFO  Hexo is running at http:&#x2F;&#x2F;localhost:4000&#x2F;. </span><br><span class="line">Press Ctrl+C to stop.</span><br><span class="line">并且会生成一个db.json文件。</span><br></pre></td></tr></table></figure>
+<p><a href="http://localhost:4000" target="_blank" rel="noopener">Hello World</a></p>
+<p>5.生成静态页面</p>
+<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">hexo new &quot;hell, hexo article&quot;</span><br><span class="line">：INFO  Created: ~&#x2F;hexo&#x2F;blog&#x2F;source&#x2F;_posts&#x2F;hell-hexo-article.md</span><br><span class="line">server未关闭时，创建的文章，自动同步到本地网页</span><br></pre></td></tr></table></figure>
+
+<h2 id="关联Github"><a href="#关联Github" class="headerlink" title="关联Github"></a>关联Github</h2><p>hexo本地设置好后，接下来就是开始关联github</p>
+<h4 id="1-创建ssh-key，添加ssh-agent-避免每次访问github要输入账号密码-，上传公钥至github-sshkeys"><a href="#1-创建ssh-key，添加ssh-agent-避免每次访问github要输入账号密码-，上传公钥至github-sshkeys" class="headerlink" title="1.创建ssh-key，添加ssh-agent(避免每次访问github要输入账号密码)，上传公钥至github sshkeys."></a>1.创建ssh-key，添加ssh-agent(避免每次访问github要输入账号密码)，上传公钥至github sshkeys.</h4><h6 id="为github生成shendawei0727-163-com-ssh公私密钥。"><a href="#为github生成shendawei0727-163-com-ssh公私密钥。" class="headerlink" title="为github生成shendawei0727@163.com ssh公私密钥。"></a>为github生成<a href="mailto:shendawei0727@163.com">shendawei0727@163.com</a> ssh公私密钥。</h6><p>ssh密码为手机号</p>
+<pre><code>➜  .ssh ssh-keygen -t rsa -b 4096 -C &quot;shendawei0727@163.com&quot;
+Generating public/private rsa key pair.
+Enter file in which to save the key (/Users/lixing/.ssh/id_rsa): 
+Enter passphrase (empty for no passphrase): 
+Enter same passphrase again: 
+Your identification has been saved in /Users/lixing/.ssh/id_rsa.
+Your public key has been saved in /Users/lixing/.ssh/id_rsa.pub.
+The key fingerprint is:
+SHA256:13pg4amiMEiqktqC1KMmSMKf2hP2Gpyk4h2oTZwnghU shendawei0727@163.com
+The key&apos;s randomart image is:
++---[RSA 4096]----+
+|                 |
+|                 |
+|  E       .      |
+|   .     . +     |
+|..o.    S * .    |
+|=B=*.    + o     |
+|%+@=* . . . .    |
+|%BoOoo .   .     |
+|O++++            |
++----[SHA256]-----+
+➜  .ssh </code></pre><h6 id="添加ssh-key到ssh-agent-存储ssh密码-passphrase-到keychain"><a href="#添加ssh-key到ssh-agent-存储ssh密码-passphrase-到keychain" class="headerlink" title="添加ssh key到ssh-agent,存储ssh密码(passphrase)到keychain"></a>添加ssh key到ssh-agent,存储ssh密码(passphrase)到keychain</h6><pre><code>后台开启ssh-agent
+➜  .ssh eval &quot;$(ssh-agent -s)&quot;
+Agent pid 21038
+执行添加
+➜  .ssh ssh-add -K id_rsa       
+Enter passphrase for id_rsa: 
+Passphrase updated in keychain: id_rsa
+Identity added: id_rsa (id_rsa)
+➜  .ssh </code></pre><h6 id="上传ssh-key到github"><a href="#上传ssh-key到github" class="headerlink" title="上传ssh-key到github"></a>上传ssh-key到github</h6><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">pbcopy &lt; ~&#x2F;.ssh&#x2F;id_rsa.pub</span><br><span class="line">将拷贝内容粘贴到github ssh-keys</span><br></pre></td></tr></table></figure>
+<p><img src="image/%E4%B8%8A%E4%BC%A0ssh-key.png" alt="image"></p>
+<h6 id="测试ssh-key是否成功"><a href="#测试ssh-key是否成功" class="headerlink" title="测试ssh-key是否成功"></a>测试ssh-key是否成功</h6><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">ssh -T git@github.com</span><br><span class="line">Hi sgz-xiaowu! You&#39;ve successfully authenticated, but GitHub does not provide shell access.</span><br></pre></td></tr></table></figure>
+
+<h4 id="2-在github创建新仓库-不勾选Initialize项，即不在服务端初始化仓库，而是由本地初始化仓库并上传至服务端"><a href="#2-在github创建新仓库-不勾选Initialize项，即不在服务端初始化仓库，而是由本地初始化仓库并上传至服务端" class="headerlink" title="2.在github创建新仓库(不勾选Initialize项，即不在服务端初始化仓库，而是由本地初始化仓库并上传至服务端)"></a>2.在github创建新仓库(不勾选Initialize项，即不在服务端初始化仓库，而是由本地初始化仓库并上传至服务端)</h4><h6 id="创建仓库"><a href="#创建仓库" class="headerlink" title="创建仓库"></a>创建仓库</h6><p>在网页端创建sgz-xiaowu.github.io.git<br><img src="image/%E5%88%9B%E5%BB%BA%E4%BB%93%E5%BA%93.png" alt="image"></p>
+<h6 id="初始化仓库-选择在本地命令行创建repo"><a href="#初始化仓库-选择在本地命令行创建repo" class="headerlink" title="初始化仓库[选择在本地命令行创建repo]"></a>初始化仓库[选择在本地命令行创建repo]</h6><p>终端Terminal，进入hexo blog目录，初始化git<br><img src="image/%E5%9C%A8%E5%93%AA%E5%88%9D%E5%A7%8B%E5%8C%96%E4%BB%93%E5%BA%93.png" alt="image"></p>
+<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">创建README.md</span><br><span class="line">echo &quot;# sgz.github.io&quot; &gt;&gt; README.md</span><br><span class="line">初始化仓库</span><br><span class="line">git init</span><br><span class="line">Initialized empty Git repository in &#x2F;Users&#x2F;lixing&#x2F;hexo&#x2F;blog&#x2F;.git&#x2F;</span><br><span class="line">本地自动创建master分支</span><br><span class="line">提交文件</span><br><span class="line">git add .</span><br><span class="line">git commit -m &quot;***&quot;</span><br><span class="line">上传仓库：远端添加origin</span><br><span class="line">git remote add origin git@github.com:sgz-xiaowu&#x2F;sgz-xiaowu.github.io.git</span><br><span class="line">上传分支（此处将master上传到remote origin的hexo分支：存储blog原始文件）</span><br><span class="line">git push -u origin master:hexo</span><br><span class="line">Counting objects: 114, done.</span><br><span class="line">Delta compression using up to 4 threads.</span><br><span class="line">Compressing objects: 100% (103&#x2F;103), done.</span><br><span class="line">Writing objects: 100% (114&#x2F;114), 522.97 KiB | 41.00 KiB&#x2F;s, done.</span><br><span class="line">Total 114 (delta 0), reused 0 (delta 0)</span><br><span class="line">To github.com:sgz-xiaowu&#x2F;sgz-xiaowu.github.io.git</span><br><span class="line"> * [new branch]      master -&gt; hexo</span><br><span class="line">Branch master set up to track remote branch hexo from origin.</span><br></pre></td></tr></table></figure>
+
+<h6 id="查看分支状态"><a href="#查看分支状态" class="headerlink" title="查看分支状态"></a>查看分支状态</h6><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">➜  blog git:(master) git branch -a</span><br><span class="line">* master</span><br><span class="line">  remotes&#x2F;origin&#x2F;hexo</span><br><span class="line">  ➜  blog git:(master) git branch -av</span><br><span class="line">* master              d167f5f first hexo commit</span><br><span class="line">  remotes&#x2F;origin&#x2F;hexo d167f5f first hexo commit</span><br></pre></td></tr></table></figure>
+
+<h6 id="创建origin-master分支-存储发布的静态网页"><a href="#创建origin-master分支-存储发布的静态网页" class="headerlink" title="创建origin/master分支,存储发布的静态网页"></a>创建origin/master分支,存储发布的静态网页</h6><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">此时远端只有hexo分支，而blog生成的静态html文件需推送到远端master分支，因为github pages要求使用master分支。</span><br><span class="line">在远端github上创建master分支：通过网页操作（master是基于hexo创建的，所以会有一次first commit，不影响）</span><br><span class="line">git pull</span><br><span class="line">From github.com:sgz-xiaowu&#x2F;sgz-xiaowu.github.io</span><br><span class="line"> * [new branch]      master     -&gt; origin&#x2F;master</span><br><span class="line">Already up-to-date.</span><br><span class="line">git status</span><br><span class="line">On branch master</span><br><span class="line">Your branch is up-to-date with &#39;origin&#x2F;hexo&#39;.</span><br><span class="line">nothing to commit, working tree clean</span><br><span class="line">&#x2F;&#x2F;说明：只是拉取了一下远端分支的状态，表明远端创建了一个master分支（网页创建），并不是本地master分支指向了origin&#x2F;master</span><br><span class="line">git branch -a</span><br><span class="line">* master -&gt; origin&#x2F;hexo</span><br><span class="line">  remotes&#x2F;origin&#x2F;hexo</span><br><span class="line">  remotes&#x2F;origin&#x2F;master</span><br></pre></td></tr></table></figure>
+
+<h6 id="提交博客原始md文件"><a href="#提交博客原始md文件" class="headerlink" title="提交博客原始md文件"></a>提交博客原始md文件</h6><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">git push origin HEAD:hexo</span><br><span class="line">##git push</span><br><span class="line">报错</span><br><span class="line">fatal: The upstream branch of your current branch does not match</span><br><span class="line">the name of your current branch.  To push to the upstream branch</span><br><span class="line">on the remote, use</span><br><span class="line">    git push origin HEAD:hexo</span><br><span class="line">    或</span><br><span class="line">    git push origin master:hexo</span><br><span class="line">To push to the branch of the same name on the remote, use</span><br><span class="line">    git push origin master</span><br><span class="line">    或</span><br><span class="line">    git push origin master:master</span><br><span class="line">因为本地master分支已配置指定远端分支为hexo，而此时配置流分支名已不相同，故push时需指明master:hexo或HEAD:hexo</span><br></pre></td></tr></table></figure>
+
+<h6 id="查阅帮助git-help-push-了解push分支含义"><a href="#查阅帮助git-help-push-了解push分支含义" class="headerlink" title="查阅帮助git help push,了解push分支含义"></a>查阅帮助git help push,了解push分支含义</h6><p>声明：以下match分支流指的是“<del>若本地分支已指定远端分支流，则推送到指定分支流；否则推送到和本地分支名相同的分支流</del> 本地分支名与远端分支名相同的分支流“。被推送的远端分支流，均用match分支流表示。</p>
+<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">git push &lt;&#x3D;&#x3D;&gt; git push origin &#x2F;&#x2F;推送当前本地分支到远端match分支流</span><br><span class="line">git push origin :  &#x2F;&#x2F;推送本地所有和origin match的分支到远端match分支流</span><br><span class="line">git push origin master &#x2F;&#x2F;查找本地master分支并推送到远端match分支流</span><br><span class="line">git push origin HEAD &#x2F;&#x2F;一种快捷方式，推送当前分支到远端match分支流</span><br><span class="line">git push origin HEAD:master &#x2F;&#x2F;推送当前分支到远端master分支</span><br><span class="line">git push origin master:hexo &#x2F;&#x2F;推送本地master分支到远端hexo分支，若远端没有hexo分支，则通过copy当前master分支，在origin创建hexo分支。</span><br><span class="line">git push origin :hexo &#x2F;&#x2F;冒号前没有分支名，意为查找远端hexo分支，删除hexo分支</span><br><span class="line">--------</span><br><span class="line">综上结论：1.命令中origin后的冒号，之前指代本地分支名，之后指代远端分支名。</span><br><span class="line">        2.有冒号，有本地分支名，无远端分支名：推送到远端同名分支</span><br><span class="line">        3.有冒号，无本地分支名，有远端分支名：删除远端分支</span><br><span class="line">        4.有冒号，本地分支名&amp;远端分支名均没有：推送本地所有分支到远端同名分支</span><br><span class="line">        5.有冒号，本地分支名&amp;远端分支名均有：推送本地分支到指定远端分支</span><br><span class="line">        6.无冒号，无分支名：推送本地当前分支到远端同名分支</span><br><span class="line">        7.无冒号，有一个分支名（只能有一个分支名）：推送本地指定分支到远端同名分支</span><br></pre></td></tr></table></figure>
+
+<h2 id="发布博客到Github"><a href="#发布博客到Github" class="headerlink" title="发布博客到Github"></a>发布博客到Github</h2><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">运行</span><br><span class="line">hexo s</span><br><span class="line">---</span><br><span class="line">终端打开新标签</span><br><span class="line">发布</span><br><span class="line">hexo d -g 或hexo g -d &#x2F;&#x2F;重新生成发布所有post</span><br><span class="line">检测文件变化，发布</span><br><span class="line">hexo g -w -d &#x2F;&#x2F;只生成发布变化的post</span><br><span class="line">---</span><br><span class="line">如果报错</span><br><span class="line">:ERROR Deployer not found: git</span><br><span class="line">安装git配置器</span><br><span class="line">npm install hexo-deployer-git --save</span><br></pre></td></tr></table></figure>
+<p><a href="https://hexo.io/zh-cn/docs/generating.html" target="_blank" rel="noopener">生成并部署到网站</a></p>
+<h2 id="Hexo-amp-Github流程"><a href="#Hexo-amp-Github流程" class="headerlink" title="Hexo&amp;Github流程"></a>Hexo&amp;Github流程</h2><ul>
+<li>hexo init必须在空目录下执行，会生成一个.gitignore文件</li>
+</ul>
+<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">.DS_Store</span><br><span class="line">Thumbs.db</span><br><span class="line">db.json</span><br><span class="line">*.log</span><br><span class="line">node_modules&#x2F;</span><br><span class="line">public&#x2F;</span><br><span class="line">.deploy*&#x2F;</span><br></pre></td></tr></table></figure>
+
+<ul>
+<li>git init会创建.git/目录</li>
+<li>hexo-deployer-git会创建.deploy_git/目录,并且初始化一个master分支，将本地public的内容发布到这里，并发布到github仓库origin master分支。</li>
+</ul>
+<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">修改_config.yml</span><br><span class="line"># Deployment</span><br><span class="line">## Docs: https:&#x2F;&#x2F;hexo.io&#x2F;docs&#x2F;deployment.html</span><br><span class="line">deploy:</span><br><span class="line">  type: git</span><br><span class="line">  repo: git@github.com:sgz-xiaowu&#x2F;sgz-xiaowu.github.io.git</span><br><span class="line">  branch: master</span><br></pre></td></tr></table></figure>
+
+<p><img src="image/blog%E7%9B%AE%E5%BD%95.png" alt="blog目录"></p>
+]]></content>
+      <categories>
+        <category>博客</category>
+        <category>环境安装</category>
       </categories>
   </entry>
   <entry>
@@ -1044,120 +985,6 @@ git --work-tree=/var/www/blog --git-dir=/home/git/repos/blog.git checkout blog -
       </categories>
   </entry>
   <entry>
-    <title>基于hexo+github搭建独立博客</title>
-    <url>/2020/03/31/%E5%9F%BA%E4%BA%8Ehexo-github%E6%90%AD%E5%BB%BA%E7%8B%AC%E7%AB%8B%E5%8D%9A%E5%AE%A2/</url>
-    <content><![CDATA[<p>参考文章</p>
-<ul>
-<li><a href="https://manual.mackeeper.com/overview/uninstall/" target="_blank" rel="noopener">干掉mackeeper</a></li>
-<li><a href="https://www.cnblogs.com/MuYunyun/p/5927491.html" target="_blank" rel="noopener">hexo+github<code>1</code></a></li>
-<li><a href="http://www.cnblogs.com/MuYunyun/p/5922099.html" target="_blank" rel="noopener">搭建自己的云服务器&amp;解析域名</a></li>
-<li><a href="http://blog.csdn.net/li740207611/article/details/52142852" target="_blank" rel="noopener">blog=github+hexo+git<code>2</code></a></li>
-<li><a href="https://www.jianshu.com/p/ce1619874d34" target="_blank" rel="noopener">静态博客框架之Hexo &amp; Jekyll</a></li>
-<li><a href="https://www.jianshu.com/p/c4f145fdd637" target="_blank" rel="noopener">博客搭建可行性方案(jekyll, hexo, Wordpress)</a></li>
-<li><a href="http://blog.csdn.net/u011619283/article/details/52368759" target="_blank" rel="noopener">测试Node.js 和npm</a></li>
-<li><a href="https://hexo.io/zh-cn/docs/index.html" target="_blank" rel="noopener">Hexo Docs</a></li>
-</ul>
-<a id="more"></a>
-<h2 id="安装Hexo"><a href="#安装Hexo" class="headerlink" title="安装Hexo"></a>安装Hexo</h2><p>1.准备</p>
-<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">nodejs + git</span><br></pre></td></tr></table></figure>
-
-<p>2.安装</p>
-<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">npm install -g hexo-cli:需加sudo，否则会报权限错误</span><br></pre></td></tr></table></figure>
-
-<p>3.建站  </p>
-<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">hexo init blog</span><br><span class="line">:INFO  Cloning hexo-starter to ~&#x2F;hexo&#x2F;blog</span><br><span class="line">:Cloning into &#39;&#x2F;Users&#x2F;lixing&#x2F;hexo&#x2F;blog&#39;...</span><br><span class="line">:INFO  Install dependencies</span><br><span class="line">:INFO  Start blogging with Hexo!</span><br><span class="line">cd blog</span><br><span class="line">npm install</span><br></pre></td></tr></table></figure>
-
-<p>4.启动</p>
-<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">hexo server</span><br><span class="line">:INFO  Start processing</span><br><span class="line">:INFO  Hexo is running at http:&#x2F;&#x2F;localhost:4000&#x2F;. </span><br><span class="line">Press Ctrl+C to stop.</span><br><span class="line">并且会生成一个db.json文件。</span><br></pre></td></tr></table></figure>
-<p><a href="http://localhost:4000" target="_blank" rel="noopener">Hello World</a></p>
-<p>5.生成静态页面</p>
-<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">hexo new &quot;hell, hexo article&quot;</span><br><span class="line">：INFO  Created: ~&#x2F;hexo&#x2F;blog&#x2F;source&#x2F;_posts&#x2F;hell-hexo-article.md</span><br><span class="line">server未关闭时，创建的文章，自动同步到本地网页</span><br></pre></td></tr></table></figure>
-
-<h2 id="关联Github"><a href="#关联Github" class="headerlink" title="关联Github"></a>关联Github</h2><p>hexo本地设置好后，接下来就是开始关联github</p>
-<h4 id="1-创建ssh-key，添加ssh-agent-避免每次访问github要输入账号密码-，上传公钥至github-sshkeys"><a href="#1-创建ssh-key，添加ssh-agent-避免每次访问github要输入账号密码-，上传公钥至github-sshkeys" class="headerlink" title="1.创建ssh-key，添加ssh-agent(避免每次访问github要输入账号密码)，上传公钥至github sshkeys."></a>1.创建ssh-key，添加ssh-agent(避免每次访问github要输入账号密码)，上传公钥至github sshkeys.</h4><h6 id="为github生成shendawei0727-163-com-ssh公私密钥。"><a href="#为github生成shendawei0727-163-com-ssh公私密钥。" class="headerlink" title="为github生成shendawei0727@163.com ssh公私密钥。"></a>为github生成<a href="mailto:shendawei0727@163.com">shendawei0727@163.com</a> ssh公私密钥。</h6><p>ssh密码为手机号</p>
-<pre><code>➜  .ssh ssh-keygen -t rsa -b 4096 -C &quot;shendawei0727@163.com&quot;
-Generating public/private rsa key pair.
-Enter file in which to save the key (/Users/lixing/.ssh/id_rsa): 
-Enter passphrase (empty for no passphrase): 
-Enter same passphrase again: 
-Your identification has been saved in /Users/lixing/.ssh/id_rsa.
-Your public key has been saved in /Users/lixing/.ssh/id_rsa.pub.
-The key fingerprint is:
-SHA256:13pg4amiMEiqktqC1KMmSMKf2hP2Gpyk4h2oTZwnghU shendawei0727@163.com
-The key&apos;s randomart image is:
-+---[RSA 4096]----+
-|                 |
-|                 |
-|  E       .      |
-|   .     . +     |
-|..o.    S * .    |
-|=B=*.    + o     |
-|%+@=* . . . .    |
-|%BoOoo .   .     |
-|O++++            |
-+----[SHA256]-----+
-➜  .ssh </code></pre><h6 id="添加ssh-key到ssh-agent-存储ssh密码-passphrase-到keychain"><a href="#添加ssh-key到ssh-agent-存储ssh密码-passphrase-到keychain" class="headerlink" title="添加ssh key到ssh-agent,存储ssh密码(passphrase)到keychain"></a>添加ssh key到ssh-agent,存储ssh密码(passphrase)到keychain</h6><pre><code>后台开启ssh-agent
-➜  .ssh eval &quot;$(ssh-agent -s)&quot;
-Agent pid 21038
-执行添加
-➜  .ssh ssh-add -K id_rsa       
-Enter passphrase for id_rsa: 
-Passphrase updated in keychain: id_rsa
-Identity added: id_rsa (id_rsa)
-➜  .ssh </code></pre><h6 id="上传ssh-key到github"><a href="#上传ssh-key到github" class="headerlink" title="上传ssh-key到github"></a>上传ssh-key到github</h6><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">pbcopy &lt; ~&#x2F;.ssh&#x2F;id_rsa.pub</span><br><span class="line">将拷贝内容粘贴到github ssh-keys</span><br></pre></td></tr></table></figure>
-<p><img src="image/%E4%B8%8A%E4%BC%A0ssh-key.png" alt="image"></p>
-<h6 id="测试ssh-key是否成功"><a href="#测试ssh-key是否成功" class="headerlink" title="测试ssh-key是否成功"></a>测试ssh-key是否成功</h6><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">ssh -T git@github.com</span><br><span class="line">Hi sgz-xiaowu! You&#39;ve successfully authenticated, but GitHub does not provide shell access.</span><br></pre></td></tr></table></figure>
-
-<h4 id="2-在github创建新仓库-不勾选Initialize项，即不在服务端初始化仓库，而是由本地初始化仓库并上传至服务端"><a href="#2-在github创建新仓库-不勾选Initialize项，即不在服务端初始化仓库，而是由本地初始化仓库并上传至服务端" class="headerlink" title="2.在github创建新仓库(不勾选Initialize项，即不在服务端初始化仓库，而是由本地初始化仓库并上传至服务端)"></a>2.在github创建新仓库(不勾选Initialize项，即不在服务端初始化仓库，而是由本地初始化仓库并上传至服务端)</h4><h6 id="创建仓库"><a href="#创建仓库" class="headerlink" title="创建仓库"></a>创建仓库</h6><p>在网页端创建sgz-xiaowu.github.io.git<br><img src="image/%E5%88%9B%E5%BB%BA%E4%BB%93%E5%BA%93.png" alt="image"></p>
-<h6 id="初始化仓库-选择在本地命令行创建repo"><a href="#初始化仓库-选择在本地命令行创建repo" class="headerlink" title="初始化仓库[选择在本地命令行创建repo]"></a>初始化仓库[选择在本地命令行创建repo]</h6><p>终端Terminal，进入hexo blog目录，初始化git<br><img src="image/%E5%9C%A8%E5%93%AA%E5%88%9D%E5%A7%8B%E5%8C%96%E4%BB%93%E5%BA%93.png" alt="image"></p>
-<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">创建README.md</span><br><span class="line">echo &quot;# sgz.github.io&quot; &gt;&gt; README.md</span><br><span class="line">初始化仓库</span><br><span class="line">git init</span><br><span class="line">Initialized empty Git repository in &#x2F;Users&#x2F;lixing&#x2F;hexo&#x2F;blog&#x2F;.git&#x2F;</span><br><span class="line">本地自动创建master分支</span><br><span class="line">提交文件</span><br><span class="line">git add .</span><br><span class="line">git commit -m &quot;***&quot;</span><br><span class="line">上传仓库：远端添加origin</span><br><span class="line">git remote add origin git@github.com:sgz-xiaowu&#x2F;sgz-xiaowu.github.io.git</span><br><span class="line">上传分支（此处将master上传到remote origin的hexo分支：存储blog原始文件）</span><br><span class="line">git push -u origin master:hexo</span><br><span class="line">Counting objects: 114, done.</span><br><span class="line">Delta compression using up to 4 threads.</span><br><span class="line">Compressing objects: 100% (103&#x2F;103), done.</span><br><span class="line">Writing objects: 100% (114&#x2F;114), 522.97 KiB | 41.00 KiB&#x2F;s, done.</span><br><span class="line">Total 114 (delta 0), reused 0 (delta 0)</span><br><span class="line">To github.com:sgz-xiaowu&#x2F;sgz-xiaowu.github.io.git</span><br><span class="line"> * [new branch]      master -&gt; hexo</span><br><span class="line">Branch master set up to track remote branch hexo from origin.</span><br></pre></td></tr></table></figure>
-
-<h6 id="查看分支状态"><a href="#查看分支状态" class="headerlink" title="查看分支状态"></a>查看分支状态</h6><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">➜  blog git:(master) git branch -a</span><br><span class="line">* master</span><br><span class="line">  remotes&#x2F;origin&#x2F;hexo</span><br><span class="line">  ➜  blog git:(master) git branch -av</span><br><span class="line">* master              d167f5f first hexo commit</span><br><span class="line">  remotes&#x2F;origin&#x2F;hexo d167f5f first hexo commit</span><br></pre></td></tr></table></figure>
-
-<h6 id="创建origin-master分支-存储发布的静态网页"><a href="#创建origin-master分支-存储发布的静态网页" class="headerlink" title="创建origin/master分支,存储发布的静态网页"></a>创建origin/master分支,存储发布的静态网页</h6><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">此时远端只有hexo分支，而blog生成的静态html文件需推送到远端master分支，因为github pages要求使用master分支。</span><br><span class="line">在远端github上创建master分支：通过网页操作（master是基于hexo创建的，所以会有一次first commit，不影响）</span><br><span class="line">git pull</span><br><span class="line">From github.com:sgz-xiaowu&#x2F;sgz-xiaowu.github.io</span><br><span class="line"> * [new branch]      master     -&gt; origin&#x2F;master</span><br><span class="line">Already up-to-date.</span><br><span class="line">git status</span><br><span class="line">On branch master</span><br><span class="line">Your branch is up-to-date with &#39;origin&#x2F;hexo&#39;.</span><br><span class="line">nothing to commit, working tree clean</span><br><span class="line">&#x2F;&#x2F;说明：只是拉取了一下远端分支的状态，表明远端创建了一个master分支（网页创建），并不是本地master分支指向了origin&#x2F;master</span><br><span class="line">git branch -a</span><br><span class="line">* master -&gt; origin&#x2F;hexo</span><br><span class="line">  remotes&#x2F;origin&#x2F;hexo</span><br><span class="line">  remotes&#x2F;origin&#x2F;master</span><br></pre></td></tr></table></figure>
-
-<h6 id="提交博客原始md文件"><a href="#提交博客原始md文件" class="headerlink" title="提交博客原始md文件"></a>提交博客原始md文件</h6><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">git push origin HEAD:hexo</span><br><span class="line">##git push</span><br><span class="line">报错</span><br><span class="line">fatal: The upstream branch of your current branch does not match</span><br><span class="line">the name of your current branch.  To push to the upstream branch</span><br><span class="line">on the remote, use</span><br><span class="line">    git push origin HEAD:hexo</span><br><span class="line">    或</span><br><span class="line">    git push origin master:hexo</span><br><span class="line">To push to the branch of the same name on the remote, use</span><br><span class="line">    git push origin master</span><br><span class="line">    或</span><br><span class="line">    git push origin master:master</span><br><span class="line">因为本地master分支已配置指定远端分支为hexo，而此时配置流分支名已不相同，故push时需指明master:hexo或HEAD:hexo</span><br></pre></td></tr></table></figure>
-
-<h6 id="查阅帮助git-help-push-了解push分支含义"><a href="#查阅帮助git-help-push-了解push分支含义" class="headerlink" title="查阅帮助git help push,了解push分支含义"></a>查阅帮助git help push,了解push分支含义</h6><p>声明：以下match分支流指的是“<del>若本地分支已指定远端分支流，则推送到指定分支流；否则推送到和本地分支名相同的分支流</del> 本地分支名与远端分支名相同的分支流“。被推送的远端分支流，均用match分支流表示。</p>
-<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">git push &lt;&#x3D;&#x3D;&gt; git push origin &#x2F;&#x2F;推送当前本地分支到远端match分支流</span><br><span class="line">git push origin :  &#x2F;&#x2F;推送本地所有和origin match的分支到远端match分支流</span><br><span class="line">git push origin master &#x2F;&#x2F;查找本地master分支并推送到远端match分支流</span><br><span class="line">git push origin HEAD &#x2F;&#x2F;一种快捷方式，推送当前分支到远端match分支流</span><br><span class="line">git push origin HEAD:master &#x2F;&#x2F;推送当前分支到远端master分支</span><br><span class="line">git push origin master:hexo &#x2F;&#x2F;推送本地master分支到远端hexo分支，若远端没有hexo分支，则通过copy当前master分支，在origin创建hexo分支。</span><br><span class="line">git push origin :hexo &#x2F;&#x2F;冒号前没有分支名，意为查找远端hexo分支，删除hexo分支</span><br><span class="line">--------</span><br><span class="line">综上结论：1.命令中origin后的冒号，之前指代本地分支名，之后指代远端分支名。</span><br><span class="line">        2.有冒号，有本地分支名，无远端分支名：推送到远端同名分支</span><br><span class="line">        3.有冒号，无本地分支名，有远端分支名：删除远端分支</span><br><span class="line">        4.有冒号，本地分支名&amp;远端分支名均没有：推送本地所有分支到远端同名分支</span><br><span class="line">        5.有冒号，本地分支名&amp;远端分支名均有：推送本地分支到指定远端分支</span><br><span class="line">        6.无冒号，无分支名：推送本地当前分支到远端同名分支</span><br><span class="line">        7.无冒号，有一个分支名（只能有一个分支名）：推送本地指定分支到远端同名分支</span><br></pre></td></tr></table></figure>
-
-<h2 id="发布博客到Github"><a href="#发布博客到Github" class="headerlink" title="发布博客到Github"></a>发布博客到Github</h2><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">运行</span><br><span class="line">hexo s</span><br><span class="line">---</span><br><span class="line">终端打开新标签</span><br><span class="line">发布</span><br><span class="line">hexo d -g 或hexo g -d &#x2F;&#x2F;重新生成发布所有post</span><br><span class="line">检测文件变化，发布</span><br><span class="line">hexo g -w -d &#x2F;&#x2F;只生成发布变化的post</span><br><span class="line">---</span><br><span class="line">如果报错</span><br><span class="line">:ERROR Deployer not found: git</span><br><span class="line">安装git配置器</span><br><span class="line">npm install hexo-deployer-git --save</span><br></pre></td></tr></table></figure>
-<p><a href="https://hexo.io/zh-cn/docs/generating.html" target="_blank" rel="noopener">生成并部署到网站</a></p>
-<h2 id="Hexo-amp-Github流程"><a href="#Hexo-amp-Github流程" class="headerlink" title="Hexo&amp;Github流程"></a>Hexo&amp;Github流程</h2><ul>
-<li>hexo init必须在空目录下执行，会生成一个.gitignore文件</li>
-</ul>
-<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">.DS_Store</span><br><span class="line">Thumbs.db</span><br><span class="line">db.json</span><br><span class="line">*.log</span><br><span class="line">node_modules&#x2F;</span><br><span class="line">public&#x2F;</span><br><span class="line">.deploy*&#x2F;</span><br></pre></td></tr></table></figure>
-
-<ul>
-<li>git init会创建.git/目录</li>
-<li>hexo-deployer-git会创建.deploy_git/目录,并且初始化一个master分支，将本地public的内容发布到这里，并发布到github仓库origin master分支。</li>
-</ul>
-<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">修改_config.yml</span><br><span class="line"># Deployment</span><br><span class="line">## Docs: https:&#x2F;&#x2F;hexo.io&#x2F;docs&#x2F;deployment.html</span><br><span class="line">deploy:</span><br><span class="line">  type: git</span><br><span class="line">  repo: git@github.com:sgz-xiaowu&#x2F;sgz-xiaowu.github.io.git</span><br><span class="line">  branch: master</span><br></pre></td></tr></table></figure>
-
-<p><img src="image/blog%E7%9B%AE%E5%BD%95.png" alt="blog目录"></p>
-]]></content>
-      <categories>
-        <category>博客</category>
-        <category>环境安装</category>
-      </categories>
-  </entry>
-  <entry>
-    <title>主流技术官网</title>
-    <url>/2020/04/01/%E4%B8%BB%E6%B5%81%E6%8A%80%E6%9C%AF%E5%AE%98%E7%BD%91/</url>
-    <content><![CDATA[<h3 id="概述"><a href="#概述" class="headerlink" title="概述"></a>概述</h3><p>本文收藏，主要是常见主流技术的官方网站链接。  </p>
-<p>第一：快速查找官方技术。<br>第二：进行标准技能学习。<br>第三：避免胡乱搜索，片段学习，降低学习效率。</p>
-<a id="more"></a>
-
-<h3 id="官方网站"><a href="#官方网站" class="headerlink" title="官方网站"></a>官方网站</h3><p>条目规范</p>
-<pre><code>技术： 站点：[link](http://) 收藏日期：2020-04-01</code></pre><ol>
-<li>技术：Hexo 站点：<a href="https://hexo.io/zh-cn/" target="_blank" rel="noopener">Hexo中文</a> 收藏日期：2020-04-01</li>
-</ol>
-]]></content>
-      <categories>
-        <category>收藏</category>
-      </categories>
-  </entry>
-  <entry>
     <title>Hello World</title>
     <url>/2024/05/18/2020-03-hello-world/</url>
     <content><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p>
@@ -1177,37 +1004,20 @@ Identity added: id_rsa (id_rsa)
 ]]></content>
   </entry>
   <entry>
-    <title>收藏博客</title>
-    <url>/2020/04/01/%E6%94%B6%E8%97%8F%E5%8D%9A%E5%AE%A2/</url>
-    <content><![CDATA[<h3 id="概述"><a href="#概述" class="headerlink" title="概述"></a>概述</h3><p>本文收藏，主要是收藏别人做的技术博客网站 ＋ 好的博客文章。  </p>
-<p>第一：主题样式完美，吸引力大。<br>第二：文章写的很不错，是自己特别感兴趣的。<br>第三：便于提升个人能力，与互联网牛人交流技术与心得感悟。  </p>
+    <title>主流技术官网</title>
+    <url>/2020/04/01/%E4%B8%BB%E6%B5%81%E6%8A%80%E6%9C%AF%E5%AE%98%E7%BD%91/</url>
+    <content><![CDATA[<h3 id="概述"><a href="#概述" class="headerlink" title="概述"></a>概述</h3><p>本文收藏，主要是常见主流技术的官方网站链接。  </p>
+<p>第一：快速查找官方技术。<br>第二：进行标准技能学习。<br>第三：避免胡乱搜索，片段学习，降低学习效率。</p>
 <a id="more"></a>
-<h3 id="技术博客收藏"><a href="#技术博客收藏" class="headerlink" title="技术博客收藏"></a>技术博客收藏</h3><p>条目规范</p>
-<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">博客名： 站点：[link](http:&#x2F;&#x2F;) 收藏日期：2020-04-01</span><br></pre></td></tr></table></figure>
 
-<ol>
-<li>博客名：Alan’s Blog 站点：<a href="https://www.alankeene.com/" target="_blank" rel="noopener">Alan’s Blog - Android</a>  收藏日期：2020-04-01</li>
-<li>博客名：小丁 站点：<a href="https://tding.top/" target="_blank" rel="noopener">小丁的个人博客</a>  收藏日期：2020-04-01</li>
-<li>博客名：Yearito’s Blog 站点：<a href="http://yearito.cn/top/" target="_blank" rel="noopener">Yearito’s Blog</a> 收藏日期：2020-04-01</li>
-<li>博客名：盒子部落 站点：<a href="https://www.hezibuluo.com/" target="_blank" rel="noopener">盒子部落</a> 收藏日期：2020-04-01</li>
-<li>博客名：hencoder - 扔物线 站点：<a href="https://hencoder.com/tag/hui-zhi/" target="_blank" rel="noopener">hencoder - 扔物线</a> 收藏日期：2020-04-01</li>
-<li>博客名：Amdoing 站点：<a href="http://www.amdoing.com/" target="_blank" rel="noopener">Amdoing</a> 收藏日期：2020-04-04</li>
-<li>博客名：虾丸派 站点：<a href="https://www.playpi.org/" target="_blank" rel="noopener">虾丸派</a> 收藏日期：2020-04-04</li>
-<li>博客名：MINDWARE 站点：<a href="https://zhailiange.com/" target="_blank" rel="noopener">MINDWARE</a> 收藏日期：2020-04-16</li>
-</ol>
-<h3 id="博客文章收藏"><a href="#博客文章收藏" class="headerlink" title="博客文章收藏"></a>博客文章收藏</h3><p>条目规范</p>
-<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">博文：[link](http:&#x2F;&#x2F;) 收藏日期：2020-04-01</span><br></pre></td></tr></table></figure>
-
-<ol>
-<li>博文：<a href="https://blog.csdn.net/qq_25867141/article/details/74194503" target="_blank" rel="noopener">当关闭通知权限后无法显示Toast的解决方案V2.0</a> 收藏日期：2020-04-01</li>
+<h3 id="官方网站"><a href="#官方网站" class="headerlink" title="官方网站"></a>官方网站</h3><p>条目规范</p>
+<pre><code>技术： 站点：[link](http://) 收藏日期：2020-04-01</code></pre><ol>
+<li>技术：Hexo 站点：<a href="https://hexo.io/zh-cn/" target="_blank" rel="noopener">Hexo中文</a> 收藏日期：2020-04-01</li>
 </ol>
 ]]></content>
       <categories>
         <category>收藏</category>
       </categories>
-      <tags>
-        <tag>博客收藏</tag>
-      </tags>
   </entry>
   <entry>
     <title>包管理Tools</title>
@@ -1244,6 +1054,190 @@ Identity added: id_rsa (id_rsa)
       <categories>
         <category>read</category>
       </categories>
+  </entry>
+  <entry>
+    <title>Hexo之引用自己的文章</title>
+    <url>/2020/04/05/Hexo%E4%B9%8B%E5%BC%95%E7%94%A8%E8%87%AA%E5%B7%B1%E7%9A%84%E6%96%87%E7%AB%A0/</url>
+    <content><![CDATA[<p>Hexo编写博客，使用md文档，采用markdown语法，可以快捷地引用各种文章、图片。</p>
+<a id="more"></a>
+<h3 id="引用网络链接文章"><a href="#引用网络链接文章" class="headerlink" title="引用网络链接文章"></a>引用网络链接文章</h3><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">[link](http:&#x2F;&#x2F;)</span><br></pre></td></tr></table></figure>
+<h3 id="引用网络图片"><a href="#引用网络图片" class="headerlink" title="引用网络图片"></a>引用网络图片</h3><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">![image](http:&#x2F;&#x2F;)</span><br></pre></td></tr></table></figure>
+<p>但有些时候，我们需要引用自己已有的一篇md文档，此时采用标准的markdown链接语法，就非常费劲。必须知道Hexo将博文转换以后的命令规则，比如默认的规则是”/年/月/日/文章名”, 但这样做显然缺乏灵活性和可维护性。</p>
+<h3 id="引用其他-站内-文章"><a href="#引用其他-站内-文章" class="headerlink" title="引用其他(站内)文章"></a>引用其他(站内)文章</h3><p>引用其他(站内)文章，可以采用Hexo内置的标签插件方式<a href="https://hexo.io/zh-cn/docs/tag-plugins.html#%E5%BC%95%E7%94%A8%E6%96%87%E7%AB%A0" target="_blank" rel="noopener">引用文章</a></p>
+<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">&#123;% post_path filename %&#125;</span><br><span class="line">&#123;% post_link filename [title] [escape] %&#125;</span><br><span class="line">在使用此标签时可以忽略文章文件所在的路径或者文章的永久链接信息、如语言、日期。</span><br></pre></td></tr></table></figure>
+<p>比如要引用我的“2020-03-31-HexoEditor之简介.md”文档</p>
+<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">&#123;% post_link HexoEditor之简介 %&#125;</span><br></pre></td></tr></table></figure>
+<p>filename文件名，并不是包含日期的“2020-03-31-HexoEditor之简介”，而是hexo new创建文章时的title name，这里的filename即是“HexoEditor之简介”。<br>[title]是显示的链接文字，默认链接文字是文章的标题，此处的title是自定义显示的文本。<br>[escape]默认会对文章的标题和自定义标题里的特殊字符进行转义，使用escape选项，能够禁止对特殊字符进行转义。</p>
+<h3 id="参考文章"><a href="#参考文章" class="headerlink" title="参考文章"></a>参考文章</h3><ol>
+<li><a href="https://www.mls-tech.info/hexo/hexo-use-internal-link/" target="_blank" rel="noopener">如何在Hexo的博文中引用自己的文章</a></li>
+<li><a href="/2020/03/31/HexoEditor%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B/" title="HexoEditor使用教程">HexoEditor使用教程</a></li>
+</ol>
+]]></content>
+      <categories>
+        <category>博客</category>
+        <category>Hexo</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>Hexo之七牛图床</title>
+    <url>/2020/04/06/Hexo%E4%B9%8B%E4%B8%83%E7%89%9B%E5%9B%BE%E5%BA%8A/</url>
+    <content><![CDATA[<h3 id="注册"><a href="#注册" class="headerlink" title="注册"></a>注册</h3><p>七牛注册<a href="https://portal.qiniu.com/signup" target="_blank" rel="noopener">官网</a></p>
+<h3 id="登录"><a href="#登录" class="headerlink" title="登录"></a>登录</h3><p>七牛登录<a href="https://sso.qiniu.com/?client_id=PIapUKqa3u6S24H868BelwrG0OFu8dS7AxVQ8oz8HznLXhgrl2BnjaO9cs9LzxK2&redirect_url=https:%2F%2Fportal.qiniu.com%2Fapi%2Fgaea%2Fsso%2Fsignin%3F" target="_blank" rel="noopener">官网</a><br>帐号信息：163邮箱 绑定手机号</p>
+<a id="more"></a>
+<h3 id="入门文档"><a href="#入门文档" class="headerlink" title="入门文档"></a>入门文档</h3><p><a href="https://developer.qiniu.com/kodo/manual/1233/console-quickstart" target="_blank" rel="noopener">对象存储快速入门</a><br><a href="https://developer.qiniu.com/kodo/manual/3978/the-basic-concept" target="_blank" rel="noopener">对象存储基本概念</a><br><a href="https://developer.qiniu.com/kodo/manual/1202/download-token" target="_blank" rel="noopener">安全机制－下载私有空间资源</a><code>只能程序化获取了</code><br><a href="https://developer.qiniu.com/faq?tag=%E5%85%A5%E9%97%A8%E7%AD%94%E7%96%91" target="_blank" rel="noopener">入门答疑</a></p>
+<h3 id="创建资源空间：对象存储"><a href="#创建资源空间：对象存储" class="headerlink" title="创建资源空间：对象存储"></a>创建资源空间：对象存储</h3><ul>
+<li>空间名称<br>以前的七牛(记得是18年初)，自己随便起名字images就可以；今天起名称，发现<br>名称会被校验是否占用，开始试了好几个名字，都被占用，最后才找到一个合适可用的名称sycres。</li>
+<li>存储区域<br>选择离自己较近的区域”华北”，以前随便选的华东，只是用来玩玩。</li>
+<li>访问控制<br>分为公共空间和私有空间。必须设为公共空间，因为私有空间不可复制外链、外链不可访问(cdn测试域名，可以预览和复制外链，但只有一个月有效期)。通过查阅下载凭证文档，了解了私有空间的资源，需要通过sdk和客户端程序来使用。</li>
+<li>CDN域名<br>正常情况下，必须绑定一个自定义域名，最多可绑定10个域名。没有外链域名时，无法预览、下载、复制外链。</li>
+<li>CDN测试域名<br>创建一个空间时，七牛会自动分配一个测试域名。七牛融合 CDN 测试域名（以 clouddn.com/qiniucdn.com/qnssl.com/qbox.me 结尾），每个域名每日限总流量 10GB，每个测试域名自创建起30个自然日后系统会自动回收，仅供测试使用并且不支持 Https 访问，详情查看<a href="https://developer.qiniu.com/fusion/kb/1319/test-domain-access-restriction-rules" target="_blank" rel="noopener">七牛测试域名使用规范</a>。<br>sycres的测试域名是q8cq2ed7c.bkt.clouddn.com，有效期至05.06。</li>
+</ul>
+<h3 id="管理资源"><a href="#管理资源" class="headerlink" title="管理资源"></a>管理资源</h3><p>空间创建好以后，控制台空间文件管理，就可以进行上传图片，复制图片链接，就可在博客引用访问了。</p>
+<h3 id="上传图片工具"><a href="#上传图片工具" class="headerlink" title="上传图片工具"></a>上传图片工具</h3><p>如果每次都需要像上面一样上传图片的操作就比较麻烦了。幸运的是，现在已经有很多三方工具和插件了，使用工具或插件，才能简单方便地上传和使用外链。</p>
+<ul>
+<li>网上推荐的工具：<br><a href="http://mpic.lzhaofu.cn/" target="_blank" rel="noopener">MPic</a> 看官网，没有mac支持<br><a href="https://github.com/Molunerfinn/PicGo" target="_blank" rel="noopener">PicGo</a><br>现在用Hexo写博客，就先不研究上面的工具了。</li>
+<li>插件：<br>采用hexo-qiniu-sync插件<br><a href="https://github.com/gyk001/hexo-qiniu-sync" target="_blank" rel="noopener">hexo-qiniu-sync</a><br>github before 3year star 358，配置细分详细。<br><a href="https://github.com/qiniu" target="_blank" rel="noopener">github-七牛</a><br><a href="https://github.com/howardliu-cn/hexo-deployer-qiniucloud2" target="_blank" rel="noopener">hexo-deployer-qiniucloud2</a><br>github before 3month star 1，配置简单</li>
+</ul>
+<h3 id="插件参考文章"><a href="#插件参考文章" class="headerlink" title="插件参考文章"></a>插件参考文章</h3><ol>
+<li><a href="http://blog.rexking6.top/2017/03/28/hexo%E7%9A%84%E5%9B%BE%E7%89%87%E4%BB%A5%E5%8F%8A%E5%9B%BE%E5%BA%8A/" target="_blank" rel="noopener">hexo的图片以及图床</a></li>
+<li><a href="https://yuchen-lea.github.io/2016-01-21-use-qiniu-store-file-for-hexo/" target="_blank" rel="noopener">使用七牛为Hexo存储图片等资源</a></li>
+<li><a href="https://www.jianshu.com/p/6991e8e7f01b" target="_blank" rel="noopener">Hexo七牛插件安装与使用</a></li>
+</ol>
+<blockquote>
+<p>使用七牛插件后引用图片  </p>
+</blockquote>
+<p>md语法</p>
+<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">![进京证](http:&#x2F;&#x2F;cdn.shendawei.cn&#x2F;cdn&#x2F;images&#x2F;%E4%BA%91%E9%A1%B6%E9%AB%98%E5%8E%9F.jpg)</span><br><span class="line">图片中文名称，会被转义成字符，所以尽量使用英文命名。</span><br></pre></td></tr></table></figure>
+<p><img src="http://cdn.shendawei.cn/cdn/images/%E4%BA%91%E9%A1%B6%E9%AB%98%E5%8E%9F.jpg" alt="进京证"><br>hexo标签插件</p>
+<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">&#123;% qnimg 云顶高原.jpg %&#125;</span><br></pre></td></tr></table></figure>
+<img src="http://cdn.shendawei.cn/cdn/images/云顶高原.jpg">
+<p>发布博客同步图片流程</p>
+<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">git add, git commit</span><br><span class="line">git push</span><br><span class="line">&#x2F;&#x2F;hexo clean 修改主题式样时，执行clean</span><br><span class="line">hexo d -g</span><br><span class="line">hexo qiniu s</span><br></pre></td></tr></table></figure>]]></content>
+      <categories>
+        <category>博客</category>
+        <category>Hexo</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>Hexo之高效编写文章</title>
+    <url>/2020/04/07/Hexo%E4%B9%8B%E9%AB%98%E6%95%88%E7%BC%96%E5%86%99%E6%96%87%E7%AB%A0/</url>
+    <content><![CDATA[<h3 id="背景"><a href="#背景" class="headerlink" title="背景"></a>背景</h3><p>为了Hexo更好地撰写博客，一直想找个符合个人想法的markdown编辑器，试用过SublimeText3、Gitbook、小书匠，看过主流笔记类编辑器，总不能满足自己的需求。</p>
+<a id="more"></a>
+<p>经过长期探索，发现一款很不错的HexoEditor，专为Hexo博客实现的编辑器，颜值高、纯白的画面太美；但是在Windows、Mac上均尝试后，还是发现一些瑕疵，比如</p>
+<ol>
+<li>新建Post经常无反应，不能成功创建md文档</li>
+<li>创建Post md成功了，文件名称是固定的时间串202004051730.md，手动修改title后，自动修改的文件名不会带时间格式，不可以生成_config.xml配置的自定义格式</li>
+<li>设置了Hexo配置文件_config.xml，却不起作用</li>
+<li>设置Tag模板目录不能添加，还不懂什么意思</li>
+<li>右键Hexo同步文件名，会去除文件名的时间格式，仅保留title为文件名 等等</li>
+</ol>
+<h3 id="调研"><a href="#调研" class="headerlink" title="调研"></a>调研</h3><p>在baidu google搜索了很久，看了很多文章，仍然没有一个我需要的解决方案；但终究有几篇文章，各自提供了一点思路。在这些思路的帮助下，我最终硬着头皮尝试并总结出一套适合自己的方案，并且这个方案，帮我达到了更高效的撰写博客。<br>在此，先列出对我高效方案有益的几篇文章，以示感谢：</p>
+<ol>
+<li><a href="https://blog.csdn.net/zkzk96871/article/details/84344853?depth_1-utm_source=distribute.pc_relevant.none-task-blog-BlogCommendFromBaidu-2&utm_source=distribute.pc_relevant.none-task-blog-BlogCommendFromBaidu-2" target="_blank" rel="noopener">在Hexo new之后立即打开Markdown文稿</a> </li>
+<li><a href="https://blog.csdn.net/senupp/article/details/103986447" target="_blank" rel="noopener">Hexo写文章创建文件自动打开编辑器</a></li>
+<li><a href="https://blog.csdn.net/maosidiaoxian/article/details/85220394" target="_blank" rel="noopener">如何在Hexo中对文章md文件分类</a></li>
+<li><a href="https://akilarlxh.github.io/post/1da4f99e" target="_blank" rel="noopener">Hexo-editor专用的编辑器</a></li>
+</ol>
+<p>简要说下，上面3篇文章，其实写的不怎么样，但提供的思路有两个：</p>
+<ul>
+<li>hexo new生成的md文件，按年月在_posts里进行目录分类，不同于categories分类哦！</li>
+<li>hexo new生成md文件后，自动打开HexoEditor编辑器，省去后期在大量文章里寻找刚创建的md文件。</li>
+</ul>
+<h3 id="实践方案"><a href="#实践方案" class="headerlink" title="实践方案"></a>实践方案</h3><ol>
+<li><p>HexoEditor设置Hexo配置、渲染主题、图片(虽然很容易配置七牛，但不太敢上传，暂时用hexo qiniu s进行上传图片)</p>
+<img src="http://cdn.shendawei.cn/cdn/images//2020-04-07-Hexo之高效编写文章/20200408022525497.png">
+<img src="http://cdn.shendawei.cn/cdn/images//2020-04-07-Hexo之高效编写文章/20200408014341364.png">
+<img src="http://cdn.shendawei.cn/cdn/images//2020-04-07-Hexo之高效编写文章/20200408014510501.png"></li>
+<li><p>修改站点配置_config.xml，实现md文件按年月进行目录分类，方便后期对文章的管理查阅</p>
+<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">permalink: :year&#x2F;:month&#x2F;:day&#x2F;:title&#x2F; # blog article link</span><br><span class="line">new_post_name: :year-:month&#x2F;:year-:month-:day-:title.md # File name of new posts</span><br></pre></td></tr></table></figure>
+<blockquote>
+<p>每个时间field前面必须跟着:冒号，这是语法，否则取不到对应的时间。</p>
+</blockquote>
+</li>
+<li><p>安装shelljs插件，实现自动部署加载JS脚本</p>
+<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">npm install --save shelljs</span><br></pre></td></tr></table></figure></li>
+<li><p>创建scripts目录，编写auto_open.js脚本，hexo new后自动调用命令，打开HexoEditor</p>
+<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">在hexo根目录下</span><br><span class="line">mkdir scripts&amp;&amp;cd scripts</span><br><span class="line">touch auto_open.js</span><br><span class="line">vim auto_open.js</span><br><span class="line">输入代码</span><br><span class="line">var exec &#x3D; require(&#39;child_process&#39;).exec;</span><br><span class="line"></span><br><span class="line">hexo.on(&#39;new&#39;, function(data) &#123;</span><br><span class="line">    exec(&#39;open -a &quot;&#x2F;Applications&#x2F;HexoEditor.app&quot;  &#39; + [data.path]);</span><br><span class="line">&#125;);</span><br><span class="line">保存退出:wq</span><br></pre></td></tr></table></figure></li>
+<li><p>hexo new新文档测试，自动打开HexoEditor。编写md文档文本内容，利用HexoEditor预览、与发布后的博客同样的主题效果</p>
+<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">hexo new autoopen</span><br><span class="line">...</span><br><span class="line">INFO  -----------------------------------------------------------</span><br><span class="line">INFO  qiniu state: online</span><br><span class="line">INFO  qiniu sync:  true</span><br><span class="line">INFO  qiniu local dir:  cdn</span><br><span class="line">INFO  qiniu url:   http:&#x2F;&#x2F;cdn.shendawei.cn&#x2F;cdn</span><br><span class="line">INFO  -----------------------------------------------------------</span><br><span class="line">INFO  Created: ~&#x2F;Development&#x2F;hexo&#x2F;shendawei&#x2F;source&#x2F;_posts&#x2F;2020-04&#x2F;2020-04-07-autoopen.md</span><br></pre></td></tr></table></figure>
+<blockquote>
+<p>这样生成的2020-04-07-autoopen.md，就存在于_posts/2020-04/目录下，实现了目录分类效果<br>自动打开HexoEditor，并且打开的是2020-04-07-autoopen.md文档<br>尽情编写md文档，右侧预览的效果，即是发布后的效果！！  </p>
+</blockquote>
+</li>
+<li><p>截图粘贴图片，生成可用的md语法图片引用，主要是获取图片路径，不手动填写图片路径</p>
+<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">微信Control + Command + A快捷键截图</span><br><span class="line">Control + V粘贴到md文档</span><br><span class="line">以2020-04-07-templatetest.md文档为例子，粘贴后效果</span><br><span class="line">image</span><br><span class="line">![](&#x2F;2020-04-07-templatetest&#x2F;20200407110022073.png)</span><br><span class="line">且在图片设置的默认资源库&#x2F;cdn&#x2F;images&#x2F;下，自动生成复制的图片20200407110022073.png，且以文档文件名为相对目录。</span><br></pre></td></tr></table></figure>
+<blockquote>
+<p>md语法引用本地相对路径，本地预览可以看到图片，但发布到博客后，将加载不出来。<br>HexoEditor粘贴生成的图片名，仍以长时间串为格式，只能委屈接受了；如果图片名必须展示意义，就做个手动改名吧。。</p>
+</blockquote>
+<p> image<br> <img src="/2020-04-07-templatetest/20200407110022073.png" alt=""></p>
+</li>
+<li><p>采用Hexo标签插件语法，改造图片引用</p>
+<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">label 七牛标签引用格式</span><br><span class="line">&#123;% qnimg &#x2F;2020-04-07-templatetest&#x2F;20200407110022073.png %&#125;</span><br></pre></td></tr></table></figure>
+<blockquote>
+<p>使用七牛标签引用相对路径，本地预览看不到图片，但发布到博客后，可以正常显示图片，且自动转换为七牛图床对应的图片外链。<br>正常文档里，引用改造后，应删除md语法的图片引用。</p>
+</blockquote>
+<p> label</p>
+ <img src="http://cdn.shendawei.cn/cdn/images//2020-04-07-templatetest/20200407110022073.png"></li>
+<li><p>完成博客撰写后，在GithubDesktop里，commit改动文档</p>
+<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">git add .</span><br><span class="line">git commit -m &quot;&quot;</span><br></pre></td></tr></table></figure></li>
+<li><p>Terminal终端执行git push修改到文档到服务器仓库</p>
+<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">git push</span><br></pre></td></tr></table></figure></li>
+<li><p>发布博客</p>
+<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">hexo d -g</span><br></pre></td></tr></table></figure></li>
+<li><p>七牛插件，上传图片到七牛图床</p>
+<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">hexo qiniu s</span><br></pre></td></tr></table></figure>
+
+</li>
+</ol>
+<h3 id="结语"><a href="#结语" class="headerlink" title="结语"></a>结语</h3><p>最后，谨以列出本文的目录结构致敬！</p>
+<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">~&#x2F;Development&#x2F;hexo&#x2F;shendawei&#x2F;source&#x2F;_posts&#x2F;2020-04&#x2F;2020-04-07-Hexo之高效编写文章.md</span><br></pre></td></tr></table></figure>]]></content>
+      <categories>
+        <category>博客</category>
+        <category>Hexo</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>autoopen</title>
+    <url>/2020/04/07/autoopen/</url>
+    <content><![CDATA[<p>仅用作hexo new文档后，自动打开HexoEditor测试使用！！</p>
+]]></content>
+      <categories>
+        <category>博客</category>
+        <category>Hexo</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>收藏博客</title>
+    <url>/2020/04/01/%E6%94%B6%E8%97%8F%E5%8D%9A%E5%AE%A2/</url>
+    <content><![CDATA[<h3 id="概述"><a href="#概述" class="headerlink" title="概述"></a>概述</h3><p>本文收藏，主要是收藏别人做的技术博客网站 ＋ 好的博客文章。  </p>
+<p>第一：主题样式完美，吸引力大。<br>第二：文章写的很不错，是自己特别感兴趣的。<br>第三：便于提升个人能力，与互联网牛人交流技术与心得感悟。  </p>
+<a id="more"></a>
+<h3 id="技术博客收藏"><a href="#技术博客收藏" class="headerlink" title="技术博客收藏"></a>技术博客收藏</h3><p>条目规范</p>
+<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">博客名： 站点：[link](http:&#x2F;&#x2F;) 收藏日期：2020-04-01</span><br></pre></td></tr></table></figure>
+
+<ol>
+<li>博客名：Alan’s Blog 站点：<a href="https://www.alankeene.com/" target="_blank" rel="noopener">Alan’s Blog - Android</a>  收藏日期：2020-04-01</li>
+<li>博客名：小丁 站点：<a href="https://tding.top/" target="_blank" rel="noopener">小丁的个人博客</a>  收藏日期：2020-04-01</li>
+<li>博客名：Yearito’s Blog 站点：<a href="http://yearito.cn/top/" target="_blank" rel="noopener">Yearito’s Blog</a> 收藏日期：2020-04-01</li>
+<li>博客名：盒子部落 站点：<a href="https://www.hezibuluo.com/" target="_blank" rel="noopener">盒子部落</a> 收藏日期：2020-04-01</li>
+<li>博客名：hencoder - 扔物线 站点：<a href="https://hencoder.com/tag/hui-zhi/" target="_blank" rel="noopener">hencoder - 扔物线</a> 收藏日期：2020-04-01</li>
+<li>博客名：Amdoing 站点：<a href="http://www.amdoing.com/" target="_blank" rel="noopener">Amdoing</a> 收藏日期：2020-04-04</li>
+<li>博客名：虾丸派 站点：<a href="https://www.playpi.org/" target="_blank" rel="noopener">虾丸派</a> 收藏日期：2020-04-04</li>
+<li>博客名：MINDWARE 站点：<a href="https://zhailiange.com/" target="_blank" rel="noopener">MINDWARE</a> 收藏日期：2020-04-16</li>
+</ol>
+<h3 id="博客文章收藏"><a href="#博客文章收藏" class="headerlink" title="博客文章收藏"></a>博客文章收藏</h3><p>条目规范</p>
+<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">博文：[link](http:&#x2F;&#x2F;) 收藏日期：2020-04-01</span><br></pre></td></tr></table></figure>
+
+<ol>
+<li>博文：<a href="https://blog.csdn.net/qq_25867141/article/details/74194503" target="_blank" rel="noopener">当关闭通知权限后无法显示Toast的解决方案V2.0</a> 收藏日期：2020-04-01</li>
+</ol>
+]]></content>
+      <categories>
+        <category>收藏</category>
+      </categories>
+      <tags>
+        <tag>博客收藏</tag>
+      </tags>
   </entry>
   <entry>
     <title>Hexo之分类-标签-自定义页面</title>
@@ -1307,55 +1301,6 @@ Identity added: id_rsa (id_rsa)
       </categories>
   </entry>
   <entry>
-    <title>Hexo之引用自己的文章</title>
-    <url>/2020/04/05/Hexo%E4%B9%8B%E5%BC%95%E7%94%A8%E8%87%AA%E5%B7%B1%E7%9A%84%E6%96%87%E7%AB%A0/</url>
-    <content><![CDATA[<p>Hexo编写博客，使用md文档，采用markdown语法，可以快捷地引用各种文章、图片。</p>
-<a id="more"></a>
-<h3 id="引用网络链接文章"><a href="#引用网络链接文章" class="headerlink" title="引用网络链接文章"></a>引用网络链接文章</h3><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">[link](http:&#x2F;&#x2F;)</span><br></pre></td></tr></table></figure>
-<h3 id="引用网络图片"><a href="#引用网络图片" class="headerlink" title="引用网络图片"></a>引用网络图片</h3><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">![image](http:&#x2F;&#x2F;)</span><br></pre></td></tr></table></figure>
-<p>但有些时候，我们需要引用自己已有的一篇md文档，此时采用标准的markdown链接语法，就非常费劲。必须知道Hexo将博文转换以后的命令规则，比如默认的规则是”/年/月/日/文章名”, 但这样做显然缺乏灵活性和可维护性。</p>
-<h3 id="引用其他-站内-文章"><a href="#引用其他-站内-文章" class="headerlink" title="引用其他(站内)文章"></a>引用其他(站内)文章</h3><p>引用其他(站内)文章，可以采用Hexo内置的标签插件方式<a href="https://hexo.io/zh-cn/docs/tag-plugins.html#%E5%BC%95%E7%94%A8%E6%96%87%E7%AB%A0" target="_blank" rel="noopener">引用文章</a></p>
-<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">&#123;% post_path filename %&#125;</span><br><span class="line">&#123;% post_link filename [title] [escape] %&#125;</span><br><span class="line">在使用此标签时可以忽略文章文件所在的路径或者文章的永久链接信息、如语言、日期。</span><br></pre></td></tr></table></figure>
-<p>比如要引用我的“2020-03-31-HexoEditor之简介.md”文档</p>
-<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">&#123;% post_link HexoEditor之简介 %&#125;</span><br></pre></td></tr></table></figure>
-<p>filename文件名，并不是包含日期的“2020-03-31-HexoEditor之简介”，而是hexo new创建文章时的title name，这里的filename即是“HexoEditor之简介”。<br>[title]是显示的链接文字，默认链接文字是文章的标题，此处的title是自定义显示的文本。<br>[escape]默认会对文章的标题和自定义标题里的特殊字符进行转义，使用escape选项，能够禁止对特殊字符进行转义。</p>
-<h3 id="参考文章"><a href="#参考文章" class="headerlink" title="参考文章"></a>参考文章</h3><ol>
-<li><a href="https://www.mls-tech.info/hexo/hexo-use-internal-link/" target="_blank" rel="noopener">如何在Hexo的博文中引用自己的文章</a></li>
-<li><a href="/2020/03/31/HexoEditor%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B/" title="HexoEditor使用教程">HexoEditor使用教程</a></li>
-</ol>
-]]></content>
-      <categories>
-        <category>博客</category>
-        <category>Hexo</category>
-      </categories>
-  </entry>
-  <entry>
-    <title>autoopen</title>
-    <url>/2020/04/07/autoopen/</url>
-    <content><![CDATA[<p>仅用作hexo new文档后，自动打开HexoEditor测试使用！！</p>
-]]></content>
-      <categories>
-        <category>博客</category>
-        <category>Hexo</category>
-      </categories>
-  </entry>
-  <entry>
-    <title>templatetest</title>
-    <url>/2020/04/07/templatetest/</url>
-    <content><![CDATA[<p>templatetest<br>仅用作HexoEditor截图粘贴自动生成图片引用测试使用！！</p>
-<a id="more"></a>
-<p>image<br><img src="/2020-04-07-templatetest/20200407110022073.png" alt=""></p>
-<p>label</p>
-<img src="http://cdn.shendawei.cn/cdn/images//2020-04-07-templatetest/20200407110022073.png">
-
-<p><img src="/2020-04-07-templatetest/20200407110308191.png" alt=""></p>
-<img src="http://cdn.shendawei.cn/cdn/images//2020-04-07-templatetest/20200407110308191.png">]]></content>
-      <categories>
-        <category>博客</category>
-        <category>Hexo</category>
-      </categories>
-  </entry>
-  <entry>
     <title>android-as-dev-template</title>
     <url>/2020/04/08/android-as-dev-template/</url>
     <content><![CDATA[<h3 id="AndroidStudio模板注释"><a href="#AndroidStudio模板注释" class="headerlink" title="AndroidStudio模板注释"></a>AndroidStudio模板注释</h3><h4 id="类注释模板：-File-and-Code-Templates"><a href="#类注释模板：-File-and-Code-Templates" class="headerlink" title="类注释模板： File and Code Templates"></a>类注释模板： File and Code Templates</h4><a id="more"></a>
@@ -1402,28 +1347,6 @@ Identity added: id_rsa (id_rsa)
       </tags>
   </entry>
   <entry>
-    <title>4月需求</title>
-    <url>/2020/04/09/4%E6%9C%88%E9%9C%80%E6%B1%82/</url>
-    <content><![CDATA[<div class="hbe hbe-container" id="hexo-blog-encrypt" data-wpm="抱歉, 这个密码看着不太对, 请再试试." data-whm="抱歉, 这个文章不能被校验, 不过您还是能看看解密后的内容.">
-  <script id="hbeData" type="hbeData" data-hmacdigest="41cab29146a4e75d63bbe3db9995395a5cfbabb29ec5cf1c02873672c8931cbd">a531e13b27d4bffc69a9f4f9c25aa4be0c5022419b6f03cfb23df80ef1688a912cfde932648e847876d68767909293e50137c03804b8f5b80505f42770d88f359680b351ed1d9410157606b0df5d93324cbd0a3ab0f339be64378296a8654950a23062464163ad2af190dd2607a9f62dee25c2d7ce2834a1833178a0708812c174001e3ad14a09753b1792a890464a7dcb75a9311f54fdea7bbaf6b35a76c4af6dc876177411dc680e001fd91c891e121deed98a374bc3e9f97cbdfac6bdf1bf8b7272f88cefdaef3d6d10a334bb402c1372900f943d5adc27df7f7f7f66ee5d62ea0f9fb44051e4b0f11a5d33acd61a9d0be381b278c6c7764d700a31c56dd55a56b10fa77dfb022ea47a5b7ac448bacf7512f52f4a89a153281e910563fac7ea2589222e3e444bad45fc13e8ec71b515fe501ab6a7d2112e523ad6b5f0d77e31c1199acc2746387787cc1c5e214906ca7a84d6542cb500d4e95b626994c9643cb90e017614e8aefa7683bcac2e0a45ad508aab764f60d2e8d01555fa261c18cd9250d3a60f422e1c81d2db438e8435eb09cc3755bc278882525692e6ffc2ad490ac03a2798f007bc38b6ae9cf3ec82e5419cf7f45722b9ab76416f7e9f426c82f7d7f2d88f8e2a23fc0e9cf97cd025a8c1e574fa742b4eb22fab0787a381368d34b44c96b8c9648bbf8db5e1fa389ac5f8b3d5e12cf7be504dd79255677de3c3256ab281ca5119938b8c9fdfadfd7468dbeb30b9d11b1c6aa6822cf3850bb62b6a6dd630a1b60a20a20ddcbc127ceaba18abc0c42e34e8e61eadaf8174a4de38bd60bbad195956077c98252217f6c6f00241217270485898a1f760c50771d23db99c5f19c3c26bec844c65538a9b40988033f7de1eb526015a980fd8d661a51975f14f6516d8c1ae3108d97d1bf42274597a4d2f3c776cad654efc0e7549bba2aa37e3d22b13448505032b0d59313ca21667ba938077dd8090c3a1f395d9ab41fba4583a9fe479eaa0e809cf9dc0ef1cbcf45171a30f2ea7c7c3932f6ed5718393b5651a150a49275a8da1f8f2880d545b942b81d9ff391154bdc9734ba18110ecafbeaa13afa0635769c7b480662dff2a61a4c979652d0b40c2784c316fc41738937223e03be9b1dee36a76620a037ef68d6de2a3151ff5dc8d70ae5e1614d75f7ce65c56cee99aafa65112332f123678559eff2d089c86a2fe71ffaebd93a45c910d4a3c5c07d884a17f7969498ceb6b525485b4adfa60694e98355f58b9abd3320fb36f657de706efe1ef6b2d641761faa8d688f7b81e94cf998000c9cba3253a47d25c50b99dc417856e500718e3cab55508fcc47f516e794b812287120cffd9314b02fc7273c9d3eb94f90c7a67ac1127ad48643b66d84ab42ee444b89513eef596a167ffdd17477f3983a7e57f0e997fb23e05212fa6da86cbe2027822f3aef7c25f192d4a5bd7950107d1f3d046b9036ed6917cb149a885f6722c76ce5e82d618820469d5f344ead21be5bbb17d95f3ec870a80adc69b5ace8efaee81a0f808012b8fa7500479d73f532e4f8ce3f17a0a90e30f335a747b1371bdd576808569c6ae13c8ce219f3f45a9dcb32008c63427404f7583e8b652f8a37ef61707858722d9ef2700a58571431f5155dd82a1e0b59b697bc17a0ab5cc0050fcdc3f25ffaa3315c6e17309e94259b7aa2cb41fc749cd88c548418a2583020f71141fd754bb8f9f11240e9a7b15cfbaa4da30a6b2996d2d906e6b145e468774e93231396311ec3891171d8fb9ede90d6fc7b5b9a436d9dc7c14f9a64080e11e6d00cdb5f8068ae2c835c000ba0abe51b58a2d92fdca4210264686c537695ee4f5cf3d68a182e7517446134f84b7b86bdfce5986a3b7806637fea6d6c9297d48f62e6a40b0256de228c0782519c9c23f428f5aad0dee826c9d371626557b74b0adb68984e5f4f2987247c857bbe780fa7965e72b4d40c9a79e13cfa98121c6bd057a2b68dbb784fe30081abaaff59d09e30714f2f266adf59c28068f1ccc0f56fafea39f27a387334b6b0271a330572420e205c1c89d8d4dd19f8c7db94e820fef2b82c11fb28540f8b0246e82096bbc6ea8cad0379aa4977fcfcef1fe2bc756efd117ee909579085d78b3a290e2722157662e4bc60cafa98f9c585de5249c3e3e34d662c8f468ff5e124a774fb20a56f70d135a5058a4d2502ed9994b8059d7e29778a027af4df4edaaeee379de2f27f547b3fd7c9fc9e356c66d4b23c1c47c25f8151a8ff1ef4f6482d06532209a66af99e670e17425c3868ec59c548b0de1001350f1ec72d62e5ada63f929d2f527f18f5cff4785625bcc3dacab7cbb093653acd318b097eb0a9581e1670274d0626c33c4c179903869585d8b4284fbbcb6ee389a5cef97e7fe4e20c2a2e503ff2f7522dc143c3275bf2a3f8ba2c7fac9e849bcf0334929286725931aa434015920ea2b6529c0b75b0057dc23bd8f38d7e7612012b611dee2e27b78b99e78e5509defd0d3bb32283542cd3d94bad7006ded105fa054abc182ffc3c5e7b05c56ebbb7ae22d8e6d89f8f285ff812e3cb95500031c0a8f639f6ac1ae4fb7e5e0bc3f64604dcd1f68d65232d2a8a31252b93b5e107bf784eb9f77859a8c085853a0379a50929f5d6e79f2cb7aba1032f1d2f8ff2bd66e48ff701b9fee014bfb81e99f928f0e51a419860713a541db1ea15f3d123dd8b195ff124f4430c54257b0530ffeed13f43d95682029d56a9dc15e537544a86d7e9974f11313db1e04ae656cd2be26949ddb9cb6230be06ec7a1872decb7c75ba3ecb7a7aa4deda12ceab5449d4c7ac17703637c4cf6d4bdb6d27de52fd8b5aef963be11cf0a477f8ec18cef2af8ef3b912cde7f464588442bfc807420ef9b6e9571f477be366e2a4a24689539e99024a73bde582b59c7355e11460074c300aea444b6aef01c8bdad3c3e4763ad7b9b06a48954424c9392f1f63f71506e751ee9cc0a23bd00a41814eb083522373ec2b0df8988b9277f9b4f86ba927968a9e9c531a84db82642c7a1336c08dbaf6627b26e1dd984f8f280b68c8122615e0d3689ff973e90631a21fb6c201ed98c1c5d3735c8f0157feceaba493966e0f17afc4c1f436a7ba015a47379becc091e66329728b4fdb8ed11a2705f7f5ddfaa87edaa22aa5351985cbe670abb7cdad4ece9605b15b5d3f2245afbd7e13e791ce89856300e5cc5e5f4a436ec2715094eed4ff016cd8aa13ed43b74de2bee5612eb08619f4f299cf4861ced448866d12b745d5a5c8249c933749f535d10f470d6c1f0716a8d896d0573ded43ac7b838e596d3f386dfa1700a4760ebb526a0e7217d0787ea030c64177905075e5171d51e04f24540eab3e204cdc2a00d5c506f835a685e3d9cd0c3f405fec225261ad17b78ee961f91f0ef79b76e5da8c6872301e608bfd5d77dc7836a8fa8cb40edaed2a985215bcebbf98eca53601396ea1809520c78ca77e5add300b5db3ba2e05bcb12ccca140e58f2f4432d39f4f982f25f8b8f654dc1b87094822dc940d3ddab9ec820ac637964e02043e9718170ed1d2fe72968c9843da1f669eafe31fe418a19e0a03cbe40a2991271831d919bcf6155c1560c992c3c6242900ab4cb795f3e6713c6b55fc3ff78b3d866468ba6b4a2a45be6a2a160436a7f2302702bf0d3e0ac78cb0d571b8cc12a57c0f0cc5288d10555d8b8c1b5fe71835fdcd72017cee5d6ce4091c6a87ec5ca86705402bd04afafc1092fd3c50c59e4f8bbe887d657b73185f274b7649a547404860de390cf9fe9b8505e4e1f56a9bb954dbfef798d3b3f1d43f367b92b45d649f0ce80096cd4dd32811a04aeff4f16fb112f9726fe0ea9c105daea624c7f13d717b2aa4b5b7c8d75352c37c3357495762e72be84096aacd32dfa8b35e07de32e2ea7fd06191d5cfbca0ef1fa2a267c065d2a22ad797c7fe3e5615fcf1d1e19c60f8a39e2265a76fcf36bde6d222b87bd4092ff76607889875fdfe97d2eff7177aa7369603b9950bd2a6543233946c703d98517b18ef940c963c279ee94b833a6eddecc687fa4d7dfdd84b9f5333a6f889152c4694fe256136198fd5784cafcd3e9f2ca15d85290ea778546a4e40307fe5fb4ef903f89f127397a693a28a134512b73b3375460a0315a0f00a567297d2bf64667bd8bc8407e60c1e0832149d87768a188062068e584487c6cf92a3bb4fb6a325437cc91f815b1562fb96aca3ade3cc21b3554c47fca05aa40b10f96f4c10b873765edfedf9a61d3e74b4a38e5dda09f62919251b54e8be1f36c821e5e1d58b32a38ecd8896295cd0dab8facbdef5053657e5003fe96a12809a774b02348b59d2b4cc5b078ecd13fd72bb1cc46e89c07b6929b3ca65015f1cb1c8e224d2fe4ef9ee3efd5bae92b054f674c4d75c84a654a1ac22684daa2ba37b496331cdc7d8380ff36f1e1c4c8393ccc9139ced08844560278b434ac2d7f8bb1bb829173e2bc6602ac6f6bc7be72cfcc0f8fcb976077c33dc803315064a96e3716139acb4cd77c4b4162249dfd58dc5f0fcfda07290aa90cf3112574bb4505055d1a75de5d86837c21f0a9a3b291832ff3bd8b269a687a737b91c46556e2730466a1ff5f611a8b52aabde22b65261233d277fe35b33518d09ed7f250ad76667fceccf45638098dda847b598f7c8b3ca1dba672ab115f60794d4f1e7f77870c91f32ee95b72a576b0e4fb6a5ebdd1240f235eb6bd5501f79f99b8a9a9bce5b3c6cb6409e4a98b03cbdbee909a0a67757b4a4d6c49b6fdbd7cc9e0b3fc2f2036d1b77920cf64b65fcc15445ee5c62804754f1b6b1351dd3fe30c474e450ecf0161435659b25e1376f48aedf162c8fe4052d3182f915473623a512260cac74e22824ec7878dd247acc8696a62f51c961c141ba87370ee870753677c20836a3018f5e27b6d09de0c34c48e5617ed304e4fd7171a00171a7be217f82ed05a6ccd44f23a9b368c193c87d3a6d0c84cf835c49ac24a52de4c4be846271b004efd5db67e737b690f3a7a73e6f9db0da970f4c580e9129198d84e1d24fac9413395df25e2eee54d033009c4ac626714fad109ef78eb5ebc706eb2a41215499a19ffcd6262cbfb547d181195151c64e0676fda511aaea61cfb2f7e402072ad4e7169a7f1a2d8143b95d03de9f1eb78e7121b52ee7b8fb810efb48acd486f9357c29524900515d53aea15b3e9a26e6fccf648bc5c013a1bd5b7945803f278d5f1d8e5ae3164a490a5a230e97a0c5ef910407c6a9fb8b725b846f23b9d88ac26bc2f2c69f8dce7a26f4537c9a302ccc8568a0d25e2ab9ae1a5af3fc836af010c237d34b8ef73fbdf3078e89389e780ed346b014f1485fc9c272e61d87dac43d66426a6cf8a2cb0be221ae15a629aa939ad1d40f92b415ff21d97a36c439f54b73d9c887e7f960c58e050580a6c58f6764447eb88e1e84c19066ab87f2f2545638e87d67ffaf31d7b01baeed85453c3025401c59fea86f05e13ad9829faac6cdf201b49969bcc0696d14c8a998eade7917c07b8b04b78f55054f7bcade7fde8780b0f1d78364161872851a2f01f4d8dc88d79d39b573bc8e8ac955a4fb0b0e00ae7ac8f754d94c26f9163bb8504e6d7a6d44e9dc36511a693147e0a8e77c0348d558da8749de6588ac3ee9365aa9efe802bbdc8dd57877810a63a456f3c00fb93e421bc325dee241d6066dddc974c56a4065f12128cbd1e88d79cb25820ee7d14e01d2a7e366c7b6d8fd6b547e532171c17b529598cb458244d35ad1e41e4e7b935f7a47973e2522bf4ca2e7578e0452a11692673ed48a0e5d9f6cedfa846bc0676b6648ce4963701099b7079bd8cc18efe717cd87154fbd5af3e1c314fe66c36054c364b32208ef57409144c0312bb91ebf490e65fcccedec29c90137da2cf255d54bde31703fd216e2785ec8bcb293617dcf755f9d2be9298aca5f79ab9ee527a2ec40e6ae10d583cc7c33330852e752899414d44baa1b09c2db121e3e8baa699c1805ac043aa73223a0a3e8f1996e53edb0c1d1c82434c1e812624b6a2e5ef6a8a21961e20c8b223834fe71926154bccaa5a33f8fbafdedc71b3bdd67ce561355eee94ad6cb723d81a3750044911a5e5d05821858320e104f4ef8c1df91a01a150492683be195a1d63db118fd9b467d3d023145220e11dd4e2dff5e56ee0228a7a37dba5f7954f779c6d6a06cb53629c7c8cd04faecab23ca380c37d1f629264c4319a49bec0f50d5c2d935f23c673a8dbc1b1990fb2068e9dafb7fd0a4366859cb5318687293af3003030353ba224c557c2d171fc116887f08f90a20b79163cdf39c15a05cb7ea4a95e787ade03da4df209a61ca572eb6ba7c589eeac602b1eaf3f5df01bba4e995d7af852061f1af5dd90ab954690f3503aaaa7ba99f6dc960084ccc4f2a6fd33ff46d15eae7b5f3eeae5e12f4316c776e4f08046c68ccd5886e768e84de5a4b39aa9e14b1eba960926532f20a2baf4552931254354f5d7d245bdd93fe07e4440651b917d3e3ded01ffaf504199612e32da2519cef4cd134155f457eacda46d6aa434383773ed01ee45b1f1b83c1166267e8b00d3ad5afbbe65faf247f00c684f02dcfe74bfdf35e3c20c41c8a0d4acf1b3d116e57d04d58d4e0b5f9f8b7f66dfa1ebf7d7681fddee24c89222e3553027ea53ca5146dcd631c441cf5ad9120bb7b10578e86aa05a66c50e16cabe8f306a484b90b598e4ae6c386fdaac0372fe683cba7545d1f57d2972acaab05d410ff726c3f191b9fcca1ab6190212675d7c70635601b24fc2dc7965939f232ec5f0c7c007316a55759a728ac0e8b2d539ef08940d967012fc5a930c117ac75777c17dfa2c6a20501904e5517b9b1a8e98fcefb0be06fb2a4626fcdc16d9cc269e98669af5af6e7f514a019635d14ec0f8d48b7fb08653d3c9a4e58fc281fbc5e29c7ef104a95c8311bb3d36e9179c48eb03bfeeb8c93180d53e3276b30148672e4df4ee44f5396f66f506ee3a0604cba6bac5441ecebc10cd805d9e806ea90ed625a85fcfcdbfbc92dceceeb25d9b953a859f2ae327464c6c4ce3e9da96688396b0da3d281a1eba01afd74f7ce283c0a6bb33cec4c4c2b99687b301439ce2ab4d7e8651ed755aa9e1c7b2140d5a04e0f7bd6658a6a0ff33f49039107d8cfd6db3f2e0918e3987ca9b50577ca1e03e5ecbb1916eabdbd9e80b7b6ad1ec5601ddb65e802800a5620913f672011972c567929360ef61e3299504ffd87cd78c0cc61c230c89da42ef12037b5a7bd19f8c28986bd6dcce56e2a1385ba1f7650899aa4046d2db9ed5aab690732e7a013772da8789085317df0c76bd0fbc0e6eeef4e7e3d1919dbd806c639e52d9e11dd2ee841e04226fa3d876ed6a32dd196a978c451d79fbb856999a2ec0a995331427e56a0cc1c67a87160fce844445e6de59e4981cafc25ac13f62e907808c01c6ed0ad90f268334544b6ad62ff0a90424038d5c449539ec8c0616cee0f727e15b234b9d7e7a8553570ef92b3717e3e65e989a8966a1ca7b662eb972d2506cb6f0c0030153e89c1a87a7fecf9b21b42465ee732fc5ed38bec71b097bbed3b102c580dfc0fa8f864522f3ebcbce240ecc2</script>
-  <div class="hbe hbe-content">
-    <div class="hbe hbe-input hbe-input-default">
-      <input class="hbe hbe-input-field hbe-input-field-default" type="password" id="hbePass">
-      <label class="hbe hbe-input-label hbe-input-label-default" for="hbePass">
-        <span class="hbe hbe-input-label-content hbe-input-label-content-default">您好, 这里需要密码.</span>
-      </label>
-    </div>
-  </div>
-</div>
-<script data-pjax src="/lib/hbe.js"></script><link href="/css/hbe.style.css" rel="stylesheet" type="text/css">]]></content>
-      <categories>
-        <category>需求</category>
-      </categories>
-      <tags>
-        <tag>private</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>国美我的改版</title>
     <url>/2020/04/08/%E5%9B%BD%E7%BE%8E%E6%88%91%E7%9A%84%E6%94%B9%E7%89%88/</url>
     <content><![CDATA[<div class="hbe hbe-container" id="hexo-blog-encrypt" data-wpm="抱歉, 这个密码看着不太对, 请再试试." data-whm="抱歉, 这个文章不能被校验, 不过您还是能看看解密后的内容.">
@@ -1446,45 +1369,20 @@ Identity added: id_rsa (id_rsa)
       </tags>
   </entry>
   <entry>
-    <title>日志</title>
-    <url>/2020/04/11/%E6%97%A5%E5%BF%97/</url>
-    <content><![CDATA[<div class="hbe hbe-container" id="hexo-blog-encrypt" data-wpm="抱歉, 这个密码看着不太对, 请再试试." data-whm="抱歉, 这个文章不能被校验, 不过您还是能看看解密后的内容.">
-  <script id="hbeData" type="hbeData" data-hmacdigest="11db5c66dcdffb1ad932929f5c3ebd76626f903a5f8c838a66fcac5c26643ac4">a531e13b27d4bffc69a9f4f9c25aa4be32aa23a37b47b0f5cfec4153c8e5afd983238a28d1828f9e67fc928f352691288bf62849740cdda70297a9b1884f2c12e9b151c9a7e7a3257321da07ee96570dbbde561500f41ac799ceaf179cae60c9b06f450a3b752c1f8c164e2dd2367e8b482da1d2fe805f5a410a51b7d89eec4a365fee961a347f910bf928bcfef1237e975221988860015f7e708fff71639d9f07b524dcf2b1747a36c90aa737e222315330716e6be260b0e4f121a9ba129bf7c078b75b8748a2fafd1dc6a058b8f6b1bc6bb788ff0087df64e457ef3f9bf51deb9e18b8899d3ba45ebd003046c1ff7e0089c483325e83070d5705f654d23971b7621f23f26df3c5477d9cd4b516a91f20887e024e043e00e6241b3a8e92382296d15aedf0d34ec7647bb21d9c4a5c7f7bae15e2283ce3162ca61e3dbb96197b29dfadeebfae91742873f05904b1ddb05083e4cc8f40ad61cc091bce199ba6f22fd94f9b030480620fc4314391a665d7dc9149bcaf756d46065ae4ec6dccad2c3780e0fbda98e240453948acc72359d37db5c9937c0aed1f170b11628eaec0d76bdd60664cb1c9851ef9added00732583b99b77ea6056700bbaf3e9a86f98d5c7189690ddd73360acd65161bd9cabd2b030104a2a64ea58bf2c9163eb4da5d45d13c8bd6ccce74e852c60eb44bf3e09d06602ed4b5582287ee1ff709b82b2aee5b0c74a0b057d5f8462e2096061415c9069ca8551b38b118d33e14068d82bf8abc3bfa68884bbae87eca8e0bab8f6a3974d0283ac6d336c8cc65486de3ae93ac3a985a52051aa802fddf77a83ae39283f0d8bc8ecd772ea0db8e17830da9b74ce6c8f62f0838dfa29bde2212b8369fff74a2eb49304307cd6598f94ebc2730bc54038bde7a8fdffab566c1cc35cbab48ef751af2d0487be8af61b3c306bfb3e24857675abc74e671d13d23aa46ad2429d872e636a9fd88fe2c076ea9ad574271cbe812be802c3c7f01a18d4057172466a9c564f559e66022f47482c9d08447f9a099d4f2d3b1a4aee82e30e6b8b2034e485e176a5474511254b703e398898b8d9afa499cca8b419434e1adacfc58f0d08ef79e5d8008760003a0f29248e5e7d80735891115650f3a71a5a6f4b1719650fc6ab9cf1f0d285a9b2b46c80825fc9b95879031161457655f0c1ff3adccf66c17aa8ab09118698fce8e16316609b0129da30a0eef0c3b365c57cf5491fab28a1a41880aeb3d1e501781dae471e106c9c429920d9f220f11b6237a740d1f5313d4cf9743df4c05062bb619478169434d6853d7918f7b41441c0c8aa00e59062f3a96197dd7c063361df9b8faac9d58da0496de727440c3e5843b6d9f8672c18e9877e4f5b18bcc61686c244587d96b793742a71de4fc0198ddf9bd94fa31cb00832105cd59667d5d2b2f912b8d7a090bf5308c5f70ce97b3992947e47fa6d3451aba6285dfb03af0155fe673e09740296f25e2d44dfc8b5eb4d8e3386174cbdabaaef5e549ea787adb1b1b2934a61b1b48e60b937c33e1a67e1cbc643e942846e2d57ce02ba1ab1711eeaad8ecbf664cf8d5799029ff9028336edc065a7304f388fb4ff37620d3b50d31da7fafa6e2aca838c9a34cc57f07daaebfda8837f7e539a56ac8cc26a1fbd9b027eb0570051b41fab7b7be3b35777ddefe2b6235d6f2d3fd4e3ee8c4e9db5f1cf72b97a43f7f4e2cb21001826ba276d4854ba55ac106be2deda3369ecab958be0bdb96975a133fafe58ceeece5080fa3694a103e1cdfa72bc0867ef941abf7a068e765133b0b2cb3df47277558daa029024a0ea7ccabce5cced6b85b6484721d5aba42b3c400ada168dee963a0b8b58dcc1fa92a3cc3152148e430c6aab57481c7796a54cd5d</script>
-  <div class="hbe hbe-content">
-    <div class="hbe hbe-input hbe-input-default">
-      <input class="hbe hbe-input-field hbe-input-field-default" type="password" id="hbePass">
-      <label class="hbe hbe-input-label hbe-input-label-default" for="hbePass">
-        <span class="hbe hbe-input-label-content hbe-input-label-content-default">您好, 这里需要密码.</span>
-      </label>
-    </div>
-  </div>
-</div>
-<script data-pjax src="/lib/hbe.js"></script><link href="/css/hbe.style.css" rel="stylesheet" type="text/css">]]></content>
+    <title>templatetest</title>
+    <url>/2020/04/07/templatetest/</url>
+    <content><![CDATA[<p>templatetest<br>仅用作HexoEditor截图粘贴自动生成图片引用测试使用！！</p>
+<a id="more"></a>
+<p>image<br><img src="/2020-04-07-templatetest/20200407110022073.png" alt=""></p>
+<p>label</p>
+<img src="http://cdn.shendawei.cn/cdn/images//2020-04-07-templatetest/20200407110022073.png">
+
+<p><img src="/2020-04-07-templatetest/20200407110308191.png" alt=""></p>
+<img src="http://cdn.shendawei.cn/cdn/images//2020-04-07-templatetest/20200407110308191.png">]]></content>
       <categories>
-        <category>worklog</category>
+        <category>博客</category>
+        <category>Hexo</category>
       </categories>
-      <tags>
-        <tag>private</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>妈药费纪录</title>
-    <url>/2020/04/10/%E5%A6%88%E8%8D%AF%E8%B4%B9%E7%BA%AA%E5%BD%95/</url>
-    <content><![CDATA[<div class="hbe hbe-container" id="hexo-blog-encrypt" data-wpm="抱歉, 这个密码看着不太对, 请再试试." data-whm="抱歉, 这个文章不能被校验, 不过您还是能看看解密后的内容.">
-  <script id="hbeData" type="hbeData" data-hmacdigest="b44329d2da19990ac1a439093c61acaabd2d249cbf22d22a0196c6aac577d405">a531e13b27d4bffc69a9f4f9c25aa4beb650dc50d7c7faa35b8c77e0467ccd872ddd7aafc648131582fa1ba37a23934c9499362038b0b5aaf7fca0554b19c4af5fc3ad5707e20b2a6f88bf0d81989efe271dcf3550c52a72646c03764a7e425310b494e28c84048225c3d35e98c6ccc1871571afd86b5c7d48435bf5aea90007c3b666f5455fe321837a9e7e392482a4768de6ba695e21dc7519b28b214655659ecfbbc2366612301e7a7e72e6b10a1f9f523a17e80ab23c35d8b4b7a5698a5d43c628463b6e18fea751172fa41094045d3525924c78f48c73c4b7e001d9266bbaca97b409496a43e87db85232672cf108aee413ba137d104561b4dbd80f586c24534acbd4130b4a640f1e2e625164dcf36b338fe51a1116e5f075f09cc97456a1a797ded09c93761fa61ded3540d49f512f11e960f4ab775c52565671b546fee1633f720a93aac166b7b5f0d523bae5dbffccd45453a01609fbf103dad16175af8a9bf2fe8c23036c59eea6e4c3c52427a0f2da90ec045185b598d6b4c3d55ce8917fe407fd83727261383fafb1c89e2f18e7154b317b7fce66b63e394ca85d9fe9324bd0da625a825665100023edd6b970206774ad725f42e5730b458ee52e27e4440f85b6eb3f5b740ec98cec6249a6911320d87d6fb38db9b87a28f162cd1913c408b9b7a1890247cc7a9a5f0dd05fed1019376d21b72d5163d5c879d9ea19e9e4b5cebf35ab13017ed12b8a3bf455d71ac0b15eaa730d9dfa2fecf888b0ac50325b500e402a64738fd42076361b4d6b9e298febad957852923134f7116abaf381aaaa38eb1ec33910156e2b504a1c303aab69c623c3fec5d4fc2c0918aebd689014ec9e2d39b08404cab92fad3ca7a8e163d16fd72853cba1460cd20d15eceb50b27aa71f8c84dacd0567e71fe91bdc1dd42c21faaaea2bb5dbc872f3d043f4c70db7153d7a61223bc430e51107808347006d277e721f79accf80f9416b9a6291872d56d8343c5fb13592e276513ca3dae91dcd1593acfeaae27c2310420113ada8815518d4b2d8c597999b3fc756b54f510cda42fe4beb588050bbba8b3d6810d980bd6907b308468d964668eab4f698cdfa848b075c9104188a8c4fb79569633e0dda80015bc0863912e9c6a35b3a0957401efbf8cc87ebb0a8daf87fc8515e4edd5fbcb40eb9dc92cfbc385ccc0b94c8e868630e54c395f3cee0945d8116e56860e86bd76cacf8970214dd88f04954c092b899851d7e2377cbd9654a53b2bf01e6a42c5387777ddd6e06b6ae61ed763a6c5a498fc15672d5bf421a6687281c0b1ec3a590c051de5b777df9740430a3bb12bd3fb4e48e13d66459502de626094a30c39103c3a926a6135b949ac6397b0ff2f37349301a6c3738f089363dba485aff75453eb4e6f2ee31d75ec0128462ae569aa0a610517f22f140f73c46c85d3fea1fc60a2bca2bff9b81b0cdcd7c6b4abdc0ea1e3d40045c4bf8836511d7a8efd31a17cc0aba8f979447d6549d8ef3c40ac415714629d651eb689b83edb68c0cbfc36c3bd5d8946282f773d3ce5e1506da1ca22515b8bbc30fbbdae3b4151b4634bcc667b71d64474d7fc40223e4ba77e0423a6a31e072579de954cb191954dc67b2c180e0be1732c44884074d03b301ec17d91bcded22f48a996d8eaa84c8f093730608c2b01bbe6026b7b0aced13d47c2dd8db4a256496343d405d827cebe2648cadb2267f464a0764eb64fc0d7a9f903032ff72a4923a3820e063526de4092539a4e4bdcbd2bf13634a3d0f17996ca2a7edc01f692d6aa263d507c7578aab9749f1b704d3a3b8ace2b0909a6d339101267a99bc632f4cdf9a5fb3479bc3ec4bc2320a48c4520a5c9f89a279e0cbdb28dcc1a1a8cca4b00feba9fea1cd712bf81541e1f7ed4b5beb7e849170a82fefcfa62dfe81847b2061eab2073b06b92812bb4b97995545bfffedca2b12c4499fdb48681df0fda61ef6b5a4942c38b90962233158e23bba63343c8ff184147256fda8f5ed1535a14b4a55195c581de14f54497adb5bad54cde7ea0a97e8f506826a3edc2940076f574bfd794d121ca908f96359ad4d8c3b7a1dd6b1abbbeaaec00c7d9e8c9cfe3d11e90a6e1094ba56adc28d55bb04cd8e1d51b55796fb964ec4ffff4df98677722835a56544b03cbbc4781d7ed0153932b103db86429bb5db073e499e774956b1e6cff603f610da7b87d014b96fcb84ce83ac9740f1f8b2d14df4521e2e21e4a7338b36a6d8e4a4f79d5c8f1da4c1f8deba9c47d4b599aa270cf8cd98a1701ffb884b0d536f137000f5c06c9b82fb04b091d4963e12b4c8d67d61f734014ed32757ba892167ec65fd6c69d8cfcb34cdacd5a8f6e58cc15b595b1d8b913c65680206bbf923c0b062586dab06860318d5ed56c63a006f</script>
-  <div class="hbe hbe-content">
-    <div class="hbe hbe-input hbe-input-default">
-      <input class="hbe hbe-input-field hbe-input-field-default" type="password" id="hbePass">
-      <label class="hbe hbe-input-label hbe-input-label-default" for="hbePass">
-        <span class="hbe hbe-input-label-content hbe-input-label-content-default">您好, 这里需要密码.</span>
-      </label>
-    </div>
-  </div>
-</div>
-<script data-pjax src="/lib/hbe.js"></script><link href="/css/hbe.style.css" rel="stylesheet" type="text/css">]]></content>
-      <tags>
-        <tag>private</tag>
-      </tags>
   </entry>
   <entry>
     <title>首页改版</title>
@@ -1504,6 +1402,47 @@ Identity added: id_rsa (id_rsa)
       <categories>
         <category>worklog</category>
       </categories>
+      <tags>
+        <tag>private</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>4月需求</title>
+    <url>/2020/04/09/4%E6%9C%88%E9%9C%80%E6%B1%82/</url>
+    <content><![CDATA[<div class="hbe hbe-container" id="hexo-blog-encrypt" data-wpm="抱歉, 这个密码看着不太对, 请再试试." data-whm="抱歉, 这个文章不能被校验, 不过您还是能看看解密后的内容.">
+  <script id="hbeData" type="hbeData" data-hmacdigest="41cab29146a4e75d63bbe3db9995395a5cfbabb29ec5cf1c02873672c8931cbd">a531e13b27d4bffc69a9f4f9c25aa4be0c5022419b6f03cfb23df80ef1688a912cfde932648e847876d68767909293e50137c03804b8f5b80505f42770d88f359680b351ed1d9410157606b0df5d93324cbd0a3ab0f339be64378296a8654950a23062464163ad2af190dd2607a9f62dee25c2d7ce2834a1833178a0708812c174001e3ad14a09753b1792a890464a7dcb75a9311f54fdea7bbaf6b35a76c4af6dc876177411dc680e001fd91c891e121deed98a374bc3e9f97cbdfac6bdf1bf8b7272f88cefdaef3d6d10a334bb402c1372900f943d5adc27df7f7f7f66ee5d62ea0f9fb44051e4b0f11a5d33acd61a9d0be381b278c6c7764d700a31c56dd55a56b10fa77dfb022ea47a5b7ac448bacf7512f52f4a89a153281e910563fac7ea2589222e3e444bad45fc13e8ec71b515fe501ab6a7d2112e523ad6b5f0d77e31c1199acc2746387787cc1c5e214906ca7a84d6542cb500d4e95b626994c9643cb90e017614e8aefa7683bcac2e0a45ad508aab764f60d2e8d01555fa261c18cd9250d3a60f422e1c81d2db438e8435eb09cc3755bc278882525692e6ffc2ad490ac03a2798f007bc38b6ae9cf3ec82e5419cf7f45722b9ab76416f7e9f426c82f7d7f2d88f8e2a23fc0e9cf97cd025a8c1e574fa742b4eb22fab0787a381368d34b44c96b8c9648bbf8db5e1fa389ac5f8b3d5e12cf7be504dd79255677de3c3256ab281ca5119938b8c9fdfadfd7468dbeb30b9d11b1c6aa6822cf3850bb62b6a6dd630a1b60a20a20ddcbc127ceaba18abc0c42e34e8e61eadaf8174a4de38bd60bbad195956077c98252217f6c6f00241217270485898a1f760c50771d23db99c5f19c3c26bec844c65538a9b40988033f7de1eb526015a980fd8d661a51975f14f6516d8c1ae3108d97d1bf42274597a4d2f3c776cad654efc0e7549bba2aa37e3d22b13448505032b0d59313ca21667ba938077dd8090c3a1f395d9ab41fba4583a9fe479eaa0e809cf9dc0ef1cbcf45171a30f2ea7c7c3932f6ed5718393b5651a150a49275a8da1f8f2880d545b942b81d9ff391154bdc9734ba18110ecafbeaa13afa0635769c7b480662dff2a61a4c979652d0b40c2784c316fc41738937223e03be9b1dee36a76620a037ef68d6de2a3151ff5dc8d70ae5e1614d75f7ce65c56cee99aafa65112332f123678559eff2d089c86a2fe71ffaebd93a45c910d4a3c5c07d884a17f7969498ceb6b525485b4adfa60694e98355f58b9abd3320fb36f657de706efe1ef6b2d641761faa8d688f7b81e94cf998000c9cba3253a47d25c50b99dc417856e500718e3cab55508fcc47f516e794b812287120cffd9314b02fc7273c9d3eb94f90c7a67ac1127ad48643b66d84ab42ee444b89513eef596a167ffdd17477f3983a7e57f0e997fb23e05212fa6da86cbe2027822f3aef7c25f192d4a5bd7950107d1f3d046b9036ed6917cb149a885f6722c76ce5e82d618820469d5f344ead21be5bbb17d95f3ec870a80adc69b5ace8efaee81a0f808012b8fa7500479d73f532e4f8ce3f17a0a90e30f335a747b1371bdd576808569c6ae13c8ce219f3f45a9dcb32008c63427404f7583e8b652f8a37ef61707858722d9ef2700a58571431f5155dd82a1e0b59b697bc17a0ab5cc0050fcdc3f25ffaa3315c6e17309e94259b7aa2cb41fc749cd88c548418a2583020f71141fd754bb8f9f11240e9a7b15cfbaa4da30a6b2996d2d906e6b145e468774e93231396311ec3891171d8fb9ede90d6fc7b5b9a436d9dc7c14f9a64080e11e6d00cdb5f8068ae2c835c000ba0abe51b58a2d92fdca4210264686c537695ee4f5cf3d68a182e7517446134f84b7b86bdfce5986a3b7806637fea6d6c9297d48f62e6a40b0256de228c0782519c9c23f428f5aad0dee826c9d371626557b74b0adb68984e5f4f2987247c857bbe780fa7965e72b4d40c9a79e13cfa98121c6bd057a2b68dbb784fe30081abaaff59d09e30714f2f266adf59c28068f1ccc0f56fafea39f27a387334b6b0271a330572420e205c1c89d8d4dd19f8c7db94e820fef2b82c11fb28540f8b0246e82096bbc6ea8cad0379aa4977fcfcef1fe2bc756efd117ee909579085d78b3a290e2722157662e4bc60cafa98f9c585de5249c3e3e34d662c8f468ff5e124a774fb20a56f70d135a5058a4d2502ed9994b8059d7e29778a027af4df4edaaeee379de2f27f547b3fd7c9fc9e356c66d4b23c1c47c25f8151a8ff1ef4f6482d06532209a66af99e670e17425c3868ec59c548b0de1001350f1ec72d62e5ada63f929d2f527f18f5cff4785625bcc3dacab7cbb093653acd318b097eb0a9581e1670274d0626c33c4c179903869585d8b4284fbbcb6ee389a5cef97e7fe4e20c2a2e503ff2f7522dc143c3275bf2a3f8ba2c7fac9e849bcf0334929286725931aa434015920ea2b6529c0b75b0057dc23bd8f38d7e7612012b611dee2e27b78b99e78e5509defd0d3bb32283542cd3d94bad7006ded105fa054abc182ffc3c5e7b05c56ebbb7ae22d8e6d89f8f285ff812e3cb95500031c0a8f639f6ac1ae4fb7e5e0bc3f64604dcd1f68d65232d2a8a31252b93b5e107bf784eb9f77859a8c085853a0379a50929f5d6e79f2cb7aba1032f1d2f8ff2bd66e48ff701b9fee014bfb81e99f928f0e51a419860713a541db1ea15f3d123dd8b195ff124f4430c54257b0530ffeed13f43d95682029d56a9dc15e537544a86d7e9974f11313db1e04ae656cd2be26949ddb9cb6230be06ec7a1872decb7c75ba3ecb7a7aa4deda12ceab5449d4c7ac17703637c4cf6d4bdb6d27de52fd8b5aef963be11cf0a477f8ec18cef2af8ef3b912cde7f464588442bfc807420ef9b6e9571f477be366e2a4a24689539e99024a73bde582b59c7355e11460074c300aea444b6aef01c8bdad3c3e4763ad7b9b06a48954424c9392f1f63f71506e751ee9cc0a23bd00a41814eb083522373ec2b0df8988b9277f9b4f86ba927968a9e9c531a84db82642c7a1336c08dbaf6627b26e1dd984f8f280b68c8122615e0d3689ff973e90631a21fb6c201ed98c1c5d3735c8f0157feceaba493966e0f17afc4c1f436a7ba015a47379becc091e66329728b4fdb8ed11a2705f7f5ddfaa87edaa22aa5351985cbe670abb7cdad4ece9605b15b5d3f2245afbd7e13e791ce89856300e5cc5e5f4a436ec2715094eed4ff016cd8aa13ed43b74de2bee5612eb08619f4f299cf4861ced448866d12b745d5a5c8249c933749f535d10f470d6c1f0716a8d896d0573ded43ac7b838e596d3f386dfa1700a4760ebb526a0e7217d0787ea030c64177905075e5171d51e04f24540eab3e204cdc2a00d5c506f835a685e3d9cd0c3f405fec225261ad17b78ee961f91f0ef79b76e5da8c6872301e608bfd5d77dc7836a8fa8cb40edaed2a985215bcebbf98eca53601396ea1809520c78ca77e5add300b5db3ba2e05bcb12ccca140e58f2f4432d39f4f982f25f8b8f654dc1b87094822dc940d3ddab9ec820ac637964e02043e9718170ed1d2fe72968c9843da1f669eafe31fe418a19e0a03cbe40a2991271831d919bcf6155c1560c992c3c6242900ab4cb795f3e6713c6b55fc3ff78b3d866468ba6b4a2a45be6a2a160436a7f2302702bf0d3e0ac78cb0d571b8cc12a57c0f0cc5288d10555d8b8c1b5fe71835fdcd72017cee5d6ce4091c6a87ec5ca86705402bd04afafc1092fd3c50c59e4f8bbe887d657b73185f274b7649a547404860de390cf9fe9b8505e4e1f56a9bb954dbfef798d3b3f1d43f367b92b45d649f0ce80096cd4dd32811a04aeff4f16fb112f9726fe0ea9c105daea624c7f13d717b2aa4b5b7c8d75352c37c3357495762e72be84096aacd32dfa8b35e07de32e2ea7fd06191d5cfbca0ef1fa2a267c065d2a22ad797c7fe3e5615fcf1d1e19c60f8a39e2265a76fcf36bde6d222b87bd4092ff76607889875fdfe97d2eff7177aa7369603b9950bd2a6543233946c703d98517b18ef940c963c279ee94b833a6eddecc687fa4d7dfdd84b9f5333a6f889152c4694fe256136198fd5784cafcd3e9f2ca15d85290ea778546a4e40307fe5fb4ef903f89f127397a693a28a134512b73b3375460a0315a0f00a567297d2bf64667bd8bc8407e60c1e0832149d87768a188062068e584487c6cf92a3bb4fb6a325437cc91f815b1562fb96aca3ade3cc21b3554c47fca05aa40b10f96f4c10b873765edfedf9a61d3e74b4a38e5dda09f62919251b54e8be1f36c821e5e1d58b32a38ecd8896295cd0dab8facbdef5053657e5003fe96a12809a774b02348b59d2b4cc5b078ecd13fd72bb1cc46e89c07b6929b3ca65015f1cb1c8e224d2fe4ef9ee3efd5bae92b054f674c4d75c84a654a1ac22684daa2ba37b496331cdc7d8380ff36f1e1c4c8393ccc9139ced08844560278b434ac2d7f8bb1bb829173e2bc6602ac6f6bc7be72cfcc0f8fcb976077c33dc803315064a96e3716139acb4cd77c4b4162249dfd58dc5f0fcfda07290aa90cf3112574bb4505055d1a75de5d86837c21f0a9a3b291832ff3bd8b269a687a737b91c46556e2730466a1ff5f611a8b52aabde22b65261233d277fe35b33518d09ed7f250ad76667fceccf45638098dda847b598f7c8b3ca1dba672ab115f60794d4f1e7f77870c91f32ee95b72a576b0e4fb6a5ebdd1240f235eb6bd5501f79f99b8a9a9bce5b3c6cb6409e4a98b03cbdbee909a0a67757b4a4d6c49b6fdbd7cc9e0b3fc2f2036d1b77920cf64b65fcc15445ee5c62804754f1b6b1351dd3fe30c474e450ecf0161435659b25e1376f48aedf162c8fe4052d3182f915473623a512260cac74e22824ec7878dd247acc8696a62f51c961c141ba87370ee870753677c20836a3018f5e27b6d09de0c34c48e5617ed304e4fd7171a00171a7be217f82ed05a6ccd44f23a9b368c193c87d3a6d0c84cf835c49ac24a52de4c4be846271b004efd5db67e737b690f3a7a73e6f9db0da970f4c580e9129198d84e1d24fac9413395df25e2eee54d033009c4ac626714fad109ef78eb5ebc706eb2a41215499a19ffcd6262cbfb547d181195151c64e0676fda511aaea61cfb2f7e402072ad4e7169a7f1a2d8143b95d03de9f1eb78e7121b52ee7b8fb810efb48acd486f9357c29524900515d53aea15b3e9a26e6fccf648bc5c013a1bd5b7945803f278d5f1d8e5ae3164a490a5a230e97a0c5ef910407c6a9fb8b725b846f23b9d88ac26bc2f2c69f8dce7a26f4537c9a302ccc8568a0d25e2ab9ae1a5af3fc836af010c237d34b8ef73fbdf3078e89389e780ed346b014f1485fc9c272e61d87dac43d66426a6cf8a2cb0be221ae15a629aa939ad1d40f92b415ff21d97a36c439f54b73d9c887e7f960c58e050580a6c58f6764447eb88e1e84c19066ab87f2f2545638e87d67ffaf31d7b01baeed85453c3025401c59fea86f05e13ad9829faac6cdf201b49969bcc0696d14c8a998eade7917c07b8b04b78f55054f7bcade7fde8780b0f1d78364161872851a2f01f4d8dc88d79d39b573bc8e8ac955a4fb0b0e00ae7ac8f754d94c26f9163bb8504e6d7a6d44e9dc36511a693147e0a8e77c0348d558da8749de6588ac3ee9365aa9efe802bbdc8dd57877810a63a456f3c00fb93e421bc325dee241d6066dddc974c56a4065f12128cbd1e88d79cb25820ee7d14e01d2a7e366c7b6d8fd6b547e532171c17b529598cb458244d35ad1e41e4e7b935f7a47973e2522bf4ca2e7578e0452a11692673ed48a0e5d9f6cedfa846bc0676b6648ce4963701099b7079bd8cc18efe717cd87154fbd5af3e1c314fe66c36054c364b32208ef57409144c0312bb91ebf490e65fcccedec29c90137da2cf255d54bde31703fd216e2785ec8bcb293617dcf755f9d2be9298aca5f79ab9ee527a2ec40e6ae10d583cc7c33330852e752899414d44baa1b09c2db121e3e8baa699c1805ac043aa73223a0a3e8f1996e53edb0c1d1c82434c1e812624b6a2e5ef6a8a21961e20c8b223834fe71926154bccaa5a33f8fbafdedc71b3bdd67ce561355eee94ad6cb723d81a3750044911a5e5d05821858320e104f4ef8c1df91a01a150492683be195a1d63db118fd9b467d3d023145220e11dd4e2dff5e56ee0228a7a37dba5f7954f779c6d6a06cb53629c7c8cd04faecab23ca380c37d1f629264c4319a49bec0f50d5c2d935f23c673a8dbc1b1990fb2068e9dafb7fd0a4366859cb5318687293af3003030353ba224c557c2d171fc116887f08f90a20b79163cdf39c15a05cb7ea4a95e787ade03da4df209a61ca572eb6ba7c589eeac602b1eaf3f5df01bba4e995d7af852061f1af5dd90ab954690f3503aaaa7ba99f6dc960084ccc4f2a6fd33ff46d15eae7b5f3eeae5e12f4316c776e4f08046c68ccd5886e768e84de5a4b39aa9e14b1eba960926532f20a2baf4552931254354f5d7d245bdd93fe07e4440651b917d3e3ded01ffaf504199612e32da2519cef4cd134155f457eacda46d6aa434383773ed01ee45b1f1b83c1166267e8b00d3ad5afbbe65faf247f00c684f02dcfe74bfdf35e3c20c41c8a0d4acf1b3d116e57d04d58d4e0b5f9f8b7f66dfa1ebf7d7681fddee24c89222e3553027ea53ca5146dcd631c441cf5ad9120bb7b10578e86aa05a66c50e16cabe8f306a484b90b598e4ae6c386fdaac0372fe683cba7545d1f57d2972acaab05d410ff726c3f191b9fcca1ab6190212675d7c70635601b24fc2dc7965939f232ec5f0c7c007316a55759a728ac0e8b2d539ef08940d967012fc5a930c117ac75777c17dfa2c6a20501904e5517b9b1a8e98fcefb0be06fb2a4626fcdc16d9cc269e98669af5af6e7f514a019635d14ec0f8d48b7fb08653d3c9a4e58fc281fbc5e29c7ef104a95c8311bb3d36e9179c48eb03bfeeb8c93180d53e3276b30148672e4df4ee44f5396f66f506ee3a0604cba6bac5441ecebc10cd805d9e806ea90ed625a85fcfcdbfbc92dceceeb25d9b953a859f2ae327464c6c4ce3e9da96688396b0da3d281a1eba01afd74f7ce283c0a6bb33cec4c4c2b99687b301439ce2ab4d7e8651ed755aa9e1c7b2140d5a04e0f7bd6658a6a0ff33f49039107d8cfd6db3f2e0918e3987ca9b50577ca1e03e5ecbb1916eabdbd9e80b7b6ad1ec5601ddb65e802800a5620913f672011972c567929360ef61e3299504ffd87cd78c0cc61c230c89da42ef12037b5a7bd19f8c28986bd6dcce56e2a1385ba1f7650899aa4046d2db9ed5aab690732e7a013772da8789085317df0c76bd0fbc0e6eeef4e7e3d1919dbd806c639e52d9e11dd2ee841e04226fa3d876ed6a32dd196a978c451d79fbb856999a2ec0a995331427e56a0cc1c67a87160fce844445e6de59e4981cafc25ac13f62e907808c01c6ed0ad90f268334544b6ad62ff0a90424038d5c449539ec8c0616cee0f727e15b234b9d7e7a8553570ef92b3717e3e65e989a8966a1ca7b662eb972d2506cb6f0c0030153e89c1a87a7fecf9b21b42465ee732fc5ed38bec71b097bbed3b102c580dfc0fa8f864522f3ebcbce240ecc2</script>
+  <div class="hbe hbe-content">
+    <div class="hbe hbe-input hbe-input-default">
+      <input class="hbe hbe-input-field hbe-input-field-default" type="password" id="hbePass">
+      <label class="hbe hbe-input-label hbe-input-label-default" for="hbePass">
+        <span class="hbe hbe-input-label-content hbe-input-label-content-default">您好, 这里需要密码.</span>
+      </label>
+    </div>
+  </div>
+</div>
+<script data-pjax src="/lib/hbe.js"></script><link href="/css/hbe.style.css" rel="stylesheet" type="text/css">]]></content>
+      <categories>
+        <category>需求</category>
+      </categories>
+      <tags>
+        <tag>private</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>需求上报</title>
+    <url>/2020/04/10/%E9%9C%80%E6%B1%82%E4%B8%8A%E6%8A%A5-1/</url>
+    <content><![CDATA[<div class="hbe hbe-container" id="hexo-blog-encrypt" data-wpm="抱歉, 这个密码看着不太对, 请再试试." data-whm="抱歉, 这个文章不能被校验, 不过您还是能看看解密后的内容.">
+  <script id="hbeData" type="hbeData" data-hmacdigest="074c971b928159d1cfe8ab5b498d80c27de481505ab8b9229790a564bca559fe">a531e13b27d4bffc69a9f4f9c25aa4be4e5285ec351a0648ef60298cad8048e03394e6a9f3d848ff0166163e8e241d2014bbad066008e94f1c3441f5d6cb407df64e0baed1c7849e61d23eba52e30b0228e91f28dcfd32d97ac84d614a020d21a707ff4a430c7acc825f330c8ef6e9ea5a2ebce2243fefb5953ec67078c29aa220af46aedf49addd6ad8c1c7e88c3aff41c192188e393c18fcb1d8e86cf961e8b4f90f33cca9f472079109c966eb3c3ce1751bb4be325c23d6f5515684521f2218cf6123a32b9fac900c27a594baa8c590a11cb050608dc4cb1a4eda127c420f314d5b4f4f8d47d4add31c95770d35d8b614c99295f836aac9c5570c91b913dc54e836710ffe91f12c25e446cd1d4b6d092f4b57d51d80e62dbf8bd0a2ef70a562ab03658fed737d1e3dd3ec2de60624e7d1820290273b48e25e8e8df504b9bfe0126fc182a2d87185d754d0735ae78427b4d41b6ff0b59c3e08fcdf4b6cd49fba900c9b4c5d2c44d9f7092c202424d544e41ec84bb2229fb4d922d40e05ade2697905bf0079ec9e142bbc2e6d58e9bffe1cfb61ac2f50f0371c9f651dbadee0da14095f8217d8fa7b9363d7f1b43f9ba4b9e11e10fff73adc105731b8980bd4c214abcdb5ba6fefc5d8fbd76dc4b5c447be1526987bb24856bffec89b6a0a1fd45b41e72b0aeaf58cdfa97e53540bafacfc0837f145a1ef31c7acc50b7bc6daad2006f860f467c2d3eb8f582a6bdaacea4d633b0588774fee466e1cf3ac8e0c655311df4d4a7ba9bcc57132c48a55eb9cc9804f0e200d0fc24d729f560339dbf7febd680ce2298f602897618d3e9709606af1d43d642d7e5c11131d4667d6785c1dc2e61ff3622848a0636bf0726a29c4c24bc71f4a8a1197d473934a5ba22d77250a0ee7f676c9ad4f23be06a3fa805cf3e6712c7e1390d92a9bf90b0f5fe108f66a1e734d6816c04ec8a6c5027278e9f531de2c5abd004b30abff8f180a9346a1c75928ab79277154bb22bdb09f9368f82ebf532c0fa4907222f6c7ccd0bb3371ee68fbc27460edce3780335f1f3d1001ce6410324f2b89d24054eeec4b97e50007fa4e07606feda606d3159dffc9826a36d1750834c1454a7b8febab2cb920afba18a6098d2726c5e1bed8b115024a1e8726c91c0eabae1d580b2424ed44afb27863f387089e6880f9c558fa71bf9813d30046d0ece97c9f95672f577c521df5a47899e0261d1f9e47c8c2eb3b10b77d6013c005a27af20907f0ae175400c628ca753c8bcd75ab4cf3c81bfd15482e01efc563698e5bb4389b8831ae640c1382393ef47e8b9b7609f6aeb6b7036e</script>
+  <div class="hbe hbe-content">
+    <div class="hbe hbe-input hbe-input-default">
+      <input class="hbe hbe-input-field hbe-input-field-default" type="password" id="hbePass">
+      <label class="hbe hbe-input-label hbe-input-label-default" for="hbePass">
+        <span class="hbe hbe-input-label-content hbe-input-label-content-default">您好, 这里需要密码.</span>
+      </label>
+    </div>
+  </div>
+</div>
+<script data-pjax src="/lib/hbe.js"></script><link href="/css/hbe.style.css" rel="stylesheet" type="text/css">]]></content>
       <tags>
         <tag>private</tag>
       </tags>
@@ -1535,6 +1474,28 @@ Identity added: id_rsa (id_rsa)
     <url>/2020/04/13/%E6%97%A5%E5%BF%9713/</url>
     <content><![CDATA[<div class="hbe hbe-container" id="hexo-blog-encrypt" data-wpm="抱歉, 这个密码看着不太对, 请再试试." data-whm="抱歉, 这个文章不能被校验, 不过您还是能看看解密后的内容.">
   <script id="hbeData" type="hbeData" data-hmacdigest="c37709be63f5f0ec2d001f034f5577647497b250e13e80fa8bd6b8c5574d89f2">a531e13b27d4bffc69a9f4f9c25aa4be32aa23a37b47b0f5cfec4153c8e5afd999e62b2a05c10c9daff0ab9ab6859a99e10c7f87563948b8da8b1440e2880dd7956a0715e0cb35aa03e69aff9480550c96beb7c118a354446672d584f95c707b5e8d4df23c97cb2a2dff89bdaecc1897d663feea15ab61f60ed45704bd0d1ea0e6b3b450a3b8c2f45dbfa2699b7d9e3d14a5c0acd47c2d2c3b96145130acbea6843d27e99e85ac39b927235cfeb48ac0a4cf7fae84b6d8762669d27bbc203309291f24e539babade3a8f2b5200c50da9aca39babe6d0cc93c1abc5bfd6da162a2ba7ae4ea43ace94855ab51755a7638af276095c1c90dd6a21b89fdfcf824fdff029de1643e84076472a32753bbfeefdf8174d0ed7f9acfad2e4de132d7a15aa48771bcba3e88f86f2d663cef49046f47481607be2d656cbdc0f816f664dbe3df4aa5c3fef97bb050f82b91d0cedb30959441bb7817cfdf8bf6e4b0f3336bfc95c5acc71a9e32e7a79ec7253285b41c0f6f035ee0c31aec94720b33611d66f5e48a3f601a7bcb344e5e3991ea9edbe03fdce25726775b23728fd0f893b14132b4d6e67f6b0848e411a1d57cc88be1dedbdfe0428555b88027e6bc14aba901e69955da6715702e7372845f877ab18c3cf8d552e25190e430bd6a4c19d4140a8c7b87f1d6b18f12876e1a863a3f1636d7cf860a40e51741f7ef22ca03b0a51c046385a79dafa7d2495c17aa1f7face15a94add9f46acfc60f4130e08cc9379e54e3df54975fd90a15e8a0429de49b9a53a42ac3bc7ff6a599f2ded33fbc2b2e92b748ec869b792fb7322c4e54639679ea438ba0e3edbef3578b7556801b4b403e6845b234f49eb6f5f534ed94393685b9e40958c2092ee20867515666ca842fbca2922153920335382c63a3c0491aa3f77c41a4fcec4b7f8b8eaaec4d542b70669b6f38c811a7604f0f7280ae4e3d85f9d91e01152409d5467f0419fecec8751dccfba571290f6c5e40a83f6ce5bc302523dd321d9eeaae0b7e11c2bf720b3ff1a1d48a92e315e382fed606e52d1bc28c97e11e02cc9cbdcdb61747e404bccde7a9f68c4f1463f114c24015bd98aedef5ea2df312837f256774c6ec8d9cb20d7e6fcdbc72c0f79c12d631359cc421748dc84f052dcbe4dc87fdbc93918cd0ea6f17363b4e0354767e8f587401be62947813c2a640f7502c94298e16f00e279be2545769b083b49033dc68eef4614e82666b39664b29283b6cbca70628e39936ae849048c9027aa0fc0765334bcd96aeac38b6d30c715934d3ff47e23faf5fcc9e916be142d7bf6e684d4f58025d08a0849d72909e2b77fb03ff682f05fc9539f8fb4f388b2ee56c3646928e02bc81bcb617905b08b1f941a0c07406e1af9bc50e9c90638a625b96a2fb3a83a1a97a8d79f06f2eed9da425e84dbec4c7ef4c5d56876ee3957580b71d56d9fb94bd3d0457700d916b9baf4e753dc0505342ebf563ae832b9a03413f21c1fa780721682b06136048b58f6e7d2943c6ce8e0552499ae6ed4d0f85da335e74e3d2176607d873f7f61005a0ec8d828f05cb7285dc6eed3a18534ce78e65b452b39fed87cd01deede4b25cd28e0958f74ca8e57a04e9f3d</script>
+  <div class="hbe hbe-content">
+    <div class="hbe hbe-input hbe-input-default">
+      <input class="hbe hbe-input-field hbe-input-field-default" type="password" id="hbePass">
+      <label class="hbe hbe-input-label hbe-input-label-default" for="hbePass">
+        <span class="hbe hbe-input-label-content hbe-input-label-content-default">您好, 这里需要密码.</span>
+      </label>
+    </div>
+  </div>
+</div>
+<script data-pjax src="/lib/hbe.js"></script><link href="/css/hbe.style.css" rel="stylesheet" type="text/css">]]></content>
+      <categories>
+        <category>worklog</category>
+      </categories>
+      <tags>
+        <tag>private</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>日志</title>
+    <url>/2020/04/11/%E6%97%A5%E5%BF%97/</url>
+    <content><![CDATA[<div class="hbe hbe-container" id="hexo-blog-encrypt" data-wpm="抱歉, 这个密码看着不太对, 请再试试." data-whm="抱歉, 这个文章不能被校验, 不过您还是能看看解密后的内容.">
+  <script id="hbeData" type="hbeData" data-hmacdigest="11db5c66dcdffb1ad932929f5c3ebd76626f903a5f8c838a66fcac5c26643ac4">a531e13b27d4bffc69a9f4f9c25aa4be32aa23a37b47b0f5cfec4153c8e5afd983238a28d1828f9e67fc928f352691288bf62849740cdda70297a9b1884f2c12e9b151c9a7e7a3257321da07ee96570dbbde561500f41ac799ceaf179cae60c9b06f450a3b752c1f8c164e2dd2367e8b482da1d2fe805f5a410a51b7d89eec4a365fee961a347f910bf928bcfef1237e975221988860015f7e708fff71639d9f07b524dcf2b1747a36c90aa737e222315330716e6be260b0e4f121a9ba129bf7c078b75b8748a2fafd1dc6a058b8f6b1bc6bb788ff0087df64e457ef3f9bf51deb9e18b8899d3ba45ebd003046c1ff7e0089c483325e83070d5705f654d23971b7621f23f26df3c5477d9cd4b516a91f20887e024e043e00e6241b3a8e92382296d15aedf0d34ec7647bb21d9c4a5c7f7bae15e2283ce3162ca61e3dbb96197b29dfadeebfae91742873f05904b1ddb05083e4cc8f40ad61cc091bce199ba6f22fd94f9b030480620fc4314391a665d7dc9149bcaf756d46065ae4ec6dccad2c3780e0fbda98e240453948acc72359d37db5c9937c0aed1f170b11628eaec0d76bdd60664cb1c9851ef9added00732583b99b77ea6056700bbaf3e9a86f98d5c7189690ddd73360acd65161bd9cabd2b030104a2a64ea58bf2c9163eb4da5d45d13c8bd6ccce74e852c60eb44bf3e09d06602ed4b5582287ee1ff709b82b2aee5b0c74a0b057d5f8462e2096061415c9069ca8551b38b118d33e14068d82bf8abc3bfa68884bbae87eca8e0bab8f6a3974d0283ac6d336c8cc65486de3ae93ac3a985a52051aa802fddf77a83ae39283f0d8bc8ecd772ea0db8e17830da9b74ce6c8f62f0838dfa29bde2212b8369fff74a2eb49304307cd6598f94ebc2730bc54038bde7a8fdffab566c1cc35cbab48ef751af2d0487be8af61b3c306bfb3e24857675abc74e671d13d23aa46ad2429d872e636a9fd88fe2c076ea9ad574271cbe812be802c3c7f01a18d4057172466a9c564f559e66022f47482c9d08447f9a099d4f2d3b1a4aee82e30e6b8b2034e485e176a5474511254b703e398898b8d9afa499cca8b419434e1adacfc58f0d08ef79e5d8008760003a0f29248e5e7d80735891115650f3a71a5a6f4b1719650fc6ab9cf1f0d285a9b2b46c80825fc9b95879031161457655f0c1ff3adccf66c17aa8ab09118698fce8e16316609b0129da30a0eef0c3b365c57cf5491fab28a1a41880aeb3d1e501781dae471e106c9c429920d9f220f11b6237a740d1f5313d4cf9743df4c05062bb619478169434d6853d7918f7b41441c0c8aa00e59062f3a96197dd7c063361df9b8faac9d58da0496de727440c3e5843b6d9f8672c18e9877e4f5b18bcc61686c244587d96b793742a71de4fc0198ddf9bd94fa31cb00832105cd59667d5d2b2f912b8d7a090bf5308c5f70ce97b3992947e47fa6d3451aba6285dfb03af0155fe673e09740296f25e2d44dfc8b5eb4d8e3386174cbdabaaef5e549ea787adb1b1b2934a61b1b48e60b937c33e1a67e1cbc643e942846e2d57ce02ba1ab1711eeaad8ecbf664cf8d5799029ff9028336edc065a7304f388fb4ff37620d3b50d31da7fafa6e2aca838c9a34cc57f07daaebfda8837f7e539a56ac8cc26a1fbd9b027eb0570051b41fab7b7be3b35777ddefe2b6235d6f2d3fd4e3ee8c4e9db5f1cf72b97a43f7f4e2cb21001826ba276d4854ba55ac106be2deda3369ecab958be0bdb96975a133fafe58ceeece5080fa3694a103e1cdfa72bc0867ef941abf7a068e765133b0b2cb3df47277558daa029024a0ea7ccabce5cced6b85b6484721d5aba42b3c400ada168dee963a0b8b58dcc1fa92a3cc3152148e430c6aab57481c7796a54cd5d</script>
   <div class="hbe hbe-content">
     <div class="hbe hbe-input hbe-input-default">
       <input class="hbe hbe-input-field hbe-input-field-default" type="password" id="hbePass">
@@ -1748,10 +1709,10 @@ Identity added: id_rsa (id_rsa)
       </categories>
   </entry>
   <entry>
-    <title>需求上报</title>
-    <url>/2020/04/10/%E9%9C%80%E6%B1%82%E4%B8%8A%E6%8A%A5-1/</url>
+    <title>日志22</title>
+    <url>/2020/04/22/%E6%97%A5%E5%BF%9722/</url>
     <content><![CDATA[<div class="hbe hbe-container" id="hexo-blog-encrypt" data-wpm="抱歉, 这个密码看着不太对, 请再试试." data-whm="抱歉, 这个文章不能被校验, 不过您还是能看看解密后的内容.">
-  <script id="hbeData" type="hbeData" data-hmacdigest="074c971b928159d1cfe8ab5b498d80c27de481505ab8b9229790a564bca559fe">a531e13b27d4bffc69a9f4f9c25aa4be4e5285ec351a0648ef60298cad8048e03394e6a9f3d848ff0166163e8e241d2014bbad066008e94f1c3441f5d6cb407df64e0baed1c7849e61d23eba52e30b0228e91f28dcfd32d97ac84d614a020d21a707ff4a430c7acc825f330c8ef6e9ea5a2ebce2243fefb5953ec67078c29aa220af46aedf49addd6ad8c1c7e88c3aff41c192188e393c18fcb1d8e86cf961e8b4f90f33cca9f472079109c966eb3c3ce1751bb4be325c23d6f5515684521f2218cf6123a32b9fac900c27a594baa8c590a11cb050608dc4cb1a4eda127c420f314d5b4f4f8d47d4add31c95770d35d8b614c99295f836aac9c5570c91b913dc54e836710ffe91f12c25e446cd1d4b6d092f4b57d51d80e62dbf8bd0a2ef70a562ab03658fed737d1e3dd3ec2de60624e7d1820290273b48e25e8e8df504b9bfe0126fc182a2d87185d754d0735ae78427b4d41b6ff0b59c3e08fcdf4b6cd49fba900c9b4c5d2c44d9f7092c202424d544e41ec84bb2229fb4d922d40e05ade2697905bf0079ec9e142bbc2e6d58e9bffe1cfb61ac2f50f0371c9f651dbadee0da14095f8217d8fa7b9363d7f1b43f9ba4b9e11e10fff73adc105731b8980bd4c214abcdb5ba6fefc5d8fbd76dc4b5c447be1526987bb24856bffec89b6a0a1fd45b41e72b0aeaf58cdfa97e53540bafacfc0837f145a1ef31c7acc50b7bc6daad2006f860f467c2d3eb8f582a6bdaacea4d633b0588774fee466e1cf3ac8e0c655311df4d4a7ba9bcc57132c48a55eb9cc9804f0e200d0fc24d729f560339dbf7febd680ce2298f602897618d3e9709606af1d43d642d7e5c11131d4667d6785c1dc2e61ff3622848a0636bf0726a29c4c24bc71f4a8a1197d473934a5ba22d77250a0ee7f676c9ad4f23be06a3fa805cf3e6712c7e1390d92a9bf90b0f5fe108f66a1e734d6816c04ec8a6c5027278e9f531de2c5abd004b30abff8f180a9346a1c75928ab79277154bb22bdb09f9368f82ebf532c0fa4907222f6c7ccd0bb3371ee68fbc27460edce3780335f1f3d1001ce6410324f2b89d24054eeec4b97e50007fa4e07606feda606d3159dffc9826a36d1750834c1454a7b8febab2cb920afba18a6098d2726c5e1bed8b115024a1e8726c91c0eabae1d580b2424ed44afb27863f387089e6880f9c558fa71bf9813d30046d0ece97c9f95672f577c521df5a47899e0261d1f9e47c8c2eb3b10b77d6013c005a27af20907f0ae175400c628ca753c8bcd75ab4cf3c81bfd15482e01efc563698e5bb4389b8831ae640c1382393ef47e8b9b7609f6aeb6b7036e</script>
+  <script id="hbeData" type="hbeData" data-hmacdigest="88bc1978ad4584859a68b10dddccbddd1aecfed58bde27eff89d627af173965f">a531e13b27d4bffc69a9f4f9c25aa4be32aa23a37b47b0f5cfec4153c8e5afd999e62b2a05c10c9daff0ab9ab6859a99dbe9ff34509d3776fa27b5288fab04626155d7f1d37fee1a74d15cc239ab8dfb62ba2c2819410ca7b0bfff0609cf4e5755f8df39cd4357230e4d19bcc06ebc586d13974d856688926a9489b0ba55dc4593db9ae05d5f28357200335b3555ca2a912c8c314d3a144293281bddcc3f1661aafa7ee6587813d4ea9042edcbaf64f64d2dccd676e4619479cdf06dbf601f0133af3491cd365b7517cf59fb37de5b29d43e8fc749764b80d1ae3377aa1487d9f81b8a1cc5ca9f79b5d5689ec349f13c37e64ba6b63710a51625e41fe539dfc87ec93644fdcb231d19eacfc71734e7292fd0467ba007aec404120fdce0b1e831cdeb5cb77af8dcbb39fdc91a5b008b575b8681df72be00669c50b5c16d671d64bffb872c1c5c4fd197fcbc5e86dce9910702490916a97dbd147b944eacb2eb7e930ab44d20c3d6280fda196c602c71f017d1199d34dd0f0ff4974cecaad719b671da23e5eb1dc8ed6d1aa6007cf93bad280342b1601d4fd134153efb972e96a1c2cb687cf38dfa5ad8fa424a51adf3ccf71e26dd4d24b4a1e325bf9ed12c70fab7ce060e41682254f6c64d50effa1e03ca40e834beb6c82ca5b4c9386dfb126185c035635e765c9e07a8e85340125e4c463c435e546af7a13d1e64212877735b9b5454b07c075e1984f4f61b9bb6d5ba163e761072c5753346af7a1c5051e29885fd7763f832262c2c2a99f06442f0635ca38d9beca4f4dcdd4a778bad79d1237d351bde390ed9a05eac93e8a3dab3ac7381529257f204b4482bb088c2e118b66ac2dc8ab0eb1ea845e952837696785f934235bd54c7d16b6cf0da90152204870c0ef25369fa93acbd749cc62d658d27746bc64a8e16e8041666d67a8277754f4cacc60e466544e6912a3a2a4810b7589925c68b39aecc73a3e326fdcd7bb55210950a7bf8b58d8621375fc4893823aeae07474dd359c696a6452b23351bb45044f38540f775ac0e0162739c0e80e06beee859b02b1698a1e47541b68d549998ebe7d33f11ed1c05dcc77ef0bae9640854e493bf91d8fe4962234a778fdc3f8284bc5372965463bda0be3051c2fbd10d3f32d6b4cbe7904a2ba18149d7bd16b9f2e0cf3498b26b31cd4be17db4fc995401c89258972b2d7b404ff9e1ec4534f4c1ca95244bdf4101410314d8564688a3f2c92d4f1284636dc929bc52e8a22b0fafc0129e084884fac245fbf6032266e6ca6277574376d2b7d65cbbca0781d3b057d80ef251974c181a43b4ec0a175aecb801b57fdcf6cf50a24061b98b918df237731ccb620e8aa2c6fc30046622a2b3ac5aae14b23494ada55f761b0373a94a28754cbe306f1bd45296dd2c00e05ac311140befe15ffdc5aba2cd0624bc8889ebfa300117ae89b77695e5b2ce5a0f32889a88a31d925444be890722de87b7e5c0e4e1ac0206654728d0cd1d0e2e1300a18dc357e1436cf38fb1a14ca3dfd5a7635291b518513b12224a79629f3f99051f3790d88177dd51cbf8db5fe24d6276629f841d280641a3b20611aeab4a9b4a627ab8a0104da805daf6749a15dfc58f929b181e5d5f65600c641495b76663f82641fa02e6a1476fafb7468631b778ad</script>
   <div class="hbe hbe-content">
     <div class="hbe hbe-input hbe-input-default">
       <input class="hbe hbe-input-field hbe-input-field-default" type="password" id="hbePass">
@@ -1762,15 +1723,18 @@ Identity added: id_rsa (id_rsa)
   </div>
 </div>
 <script data-pjax src="/lib/hbe.js"></script><link href="/css/hbe.style.css" rel="stylesheet" type="text/css">]]></content>
+      <categories>
+        <category>worklog</category>
+      </categories>
       <tags>
         <tag>private</tag>
       </tags>
   </entry>
   <entry>
-    <title>日志22</title>
-    <url>/2020/04/22/%E6%97%A5%E5%BF%9722/</url>
+    <title>日志24</title>
+    <url>/2020/04/24/%E6%97%A5%E5%BF%9724/</url>
     <content><![CDATA[<div class="hbe hbe-container" id="hexo-blog-encrypt" data-wpm="抱歉, 这个密码看着不太对, 请再试试." data-whm="抱歉, 这个文章不能被校验, 不过您还是能看看解密后的内容.">
-  <script id="hbeData" type="hbeData" data-hmacdigest="88bc1978ad4584859a68b10dddccbddd1aecfed58bde27eff89d627af173965f">a531e13b27d4bffc69a9f4f9c25aa4be32aa23a37b47b0f5cfec4153c8e5afd999e62b2a05c10c9daff0ab9ab6859a99dbe9ff34509d3776fa27b5288fab04626155d7f1d37fee1a74d15cc239ab8dfb62ba2c2819410ca7b0bfff0609cf4e5755f8df39cd4357230e4d19bcc06ebc586d13974d856688926a9489b0ba55dc4593db9ae05d5f28357200335b3555ca2a912c8c314d3a144293281bddcc3f1661aafa7ee6587813d4ea9042edcbaf64f64d2dccd676e4619479cdf06dbf601f0133af3491cd365b7517cf59fb37de5b29d43e8fc749764b80d1ae3377aa1487d9f81b8a1cc5ca9f79b5d5689ec349f13c37e64ba6b63710a51625e41fe539dfc87ec93644fdcb231d19eacfc71734e7292fd0467ba007aec404120fdce0b1e831cdeb5cb77af8dcbb39fdc91a5b008b575b8681df72be00669c50b5c16d671d64bffb872c1c5c4fd197fcbc5e86dce9910702490916a97dbd147b944eacb2eb7e930ab44d20c3d6280fda196c602c71f017d1199d34dd0f0ff4974cecaad719b671da23e5eb1dc8ed6d1aa6007cf93bad280342b1601d4fd134153efb972e96a1c2cb687cf38dfa5ad8fa424a51adf3ccf71e26dd4d24b4a1e325bf9ed12c70fab7ce060e41682254f6c64d50effa1e03ca40e834beb6c82ca5b4c9386dfb126185c035635e765c9e07a8e85340125e4c463c435e546af7a13d1e64212877735b9b5454b07c075e1984f4f61b9bb6d5ba163e761072c5753346af7a1c5051e29885fd7763f832262c2c2a99f06442f0635ca38d9beca4f4dcdd4a778bad79d1237d351bde390ed9a05eac93e8a3dab3ac7381529257f204b4482bb088c2e118b66ac2dc8ab0eb1ea845e952837696785f934235bd54c7d16b6cf0da90152204870c0ef25369fa93acbd749cc62d658d27746bc64a8e16e8041666d67a8277754f4cacc60e466544e6912a3a2a4810b7589925c68b39aecc73a3e326fdcd7bb55210950a7bf8b58d8621375fc4893823aeae07474dd359c696a6452b23351bb45044f38540f775ac0e0162739c0e80e06beee859b02b1698a1e47541b68d549998ebe7d33f11ed1c05dcc77ef0bae9640854e493bf91d8fe4962234a778fdc3f8284bc5372965463bda0be3051c2fbd10d3f32d6b4cbe7904a2ba18149d7bd16b9f2e0cf3498b26b31cd4be17db4fc995401c89258972b2d7b404ff9e1ec4534f4c1ca95244bdf4101410314d8564688a3f2c92d4f1284636dc929bc52e8a22b0fafc0129e084884fac245fbf6032266e6ca6277574376d2b7d65cbbca0781d3b057d80ef251974c181a43b4ec0a175aecb801b57fdcf6cf50a24061b98b918df237731ccb620e8aa2c6fc30046622a2b3ac5aae14b23494ada55f761b0373a94a28754cbe306f1bd45296dd2c00e05ac311140befe15ffdc5aba2cd0624bc8889ebfa300117ae89b77695e5b2ce5a0f32889a88a31d925444be890722de87b7e5c0e4e1ac0206654728d0cd1d0e2e1300a18dc357e1436cf38fb1a14ca3dfd5a7635291b518513b12224a79629f3f99051f3790d88177dd51cbf8db5fe24d6276629f841d280641a3b20611aeab4a9b4a627ab8a0104da805daf6749a15dfc58f929b181e5d5f65600c641495b76663f82641fa02e6a1476fafb7468631b778ad</script>
+  <script id="hbeData" type="hbeData" data-hmacdigest="d72c71e41e9a157df4f6e6af086a6e0e96c5a5c925ded3aa462fae63e2128678">a531e13b27d4bffc69a9f4f9c25aa4be32aa23a37b47b0f5cfec4153c8e5afd999e62b2a05c10c9daff0ab9ab6859a99e7627e5e0afd5fe7ced79d143b70f60f0fd0265ad32cb25cab0453e97ba1bf96ef2e91b0508f29a2b78a26564d9d7a94e2e4b8cf6e41dd355b8634e17298ed5696d3c416477a8acb08b5622e6b5b1761c5913d787fac3190665f1c160bb05023cfd908a0f0a3d1aa4f801874ba51575dc98c68cadd074c1181e14567e60eb797b58ff7f486278659d0e38cba60ec536196e03dd54a065885c6bc5a5b6e5fbd2991351d1409b1aa77a5f9d6461401bcdf7de1d13c1ae65a106a1ab736870d2079865bda849e8f75e37e08da0df0f5dc8ebebdc10ff6997a432a0e47708a9a4d4ba5c7e4994725ea4cb2579cc5deb2ef0017c5456a3b987befda8057774f629e9427091dc5cbfc05c998b5f7cd06e222e2dd9fca5904c9c95f95ce527cbd9c9c98f25a5cd3bf78357d59af76517017fefbeaad278e31f39f6c87443090236e5d04944fa7fa21e254e102f9bb8a63c9c25e91e2a22568dfa4d0315e3e987402619019f29e8c52cde1d28494bbd35a037bad67598d82dd143f0058e43a29487e3b8935a3d8544211c2d6a77664d07b3c1fd6c0e1ef4df5fc46e2b8b856cb1366e784d3416bfe738c09af3e1a0583bd07ceab8badc0b6437bde8a87192669f154c018efd12e4ca8a4e85e5ccb10b1095538ec93a8565a6b79e379e5aea50779e72e89a73cb3e2f0b1b382a54962faab093151b384c7154ccfa6b554fb5aa34e69690d2899ac130d1a28edb3a514ebcd50668619270288e9c367183d3429cd115489fc17f5af4d0d2fa258d028194b8aedb290fd34d37d7a8271d186b8f1335ef0103c5b570f6452c109724505876b1b0ee26a78a06b91fc11c38ed6b9e39d87f9dedcea6c3ba1e2e37c1867d491ee6c4158df34d69102b6b5880bac3645b5e12b76838c91d400bb4dd6a8c73d68bd5daa214a45913ab40e781ece467ef5feb35ee77c9a72382c76dea5d26bc0f479086f9e3dcd5ff91229464cb6839b2def3539ff32c447869d271d89e669ff48610f2f6abe3cd4a9ac2e810e9588147f8578f78136ffb8c06723dc73c4f244e150caa5a5e3c4cfb98cb76fa206d42387140aa82385321c9fcaf83de4f2515f1430636cf2a7b0065e106b894fc33afe31d86db0d1871a4b149847a6f5747feecfcb7c41943b97aa910b525351907dec61fcb3ca206cb7ae1f018a3a154f268ac92eb82bb8282fea1936475a8bf4ecac7dda76e7ce559858273ced85ace04428f1b543b135a07c1caf1e15abb9274f8fb63087c0c35629d175c02fbd7eeec0c2f809a2da9834929019c524be94bf580e692327ebb1e06b05ba9b481b9aef27835126c8f4b5cda76a4564df158055efeb3e4d0f660d83b9c8438e6ddb507952addb659104544cc67831e5e8470205b2197ac9ce62ae87fbbf5d4b13a33e76005461a7c94b568d27351aecf05052387126f5202de0b0a9150f3e2f0d2db46dbfa1fbc5f734d5e36c57d96eade2426efe022a9f553d4bc0185a1a233a5b0606e509478e4e1ab3abbbc95c33df6927e6ced3845d4ec0b173130cd903f53d6db378a7e5b65360476ebee5ec76c698a6ce56d2f87277558ef2f23bbda50159e415e44ef652e1748f311d276534555c5755775cdeb791c6a522bdf8c8e88609560064050f2d6c82cf1d97988c2f7d18315f89a66e193bca907515782bfc1b707f42759a4e32e65fe2812b6b0d05f14998643859b1d546ff89bb8d4f509200b9bb143baebe31a5a0e76294e5f49b54ee92e2264ffe37d5c775a13c2b46e19f917246853331ed6e04e7a08ce874fe984923053693a5044fa5b355694907a03805710e81af7982b9b995d0dc673340a4a523d6c7a70d7e5eec3479352147f35efe60a3fd3f5d8c4d557b8b81ee4e9c2ced83bcfc73be72489812894b3aa13456f49a68d14b7d59fa9b18ab4b46e833452c32bfdddeb75e9dae10767ab648180e1179fbe1782a327fce878bf4a816c6d0cf4304406dcde802bf07954ad9bd69da6ef1aa74584458f51c4270c940ba9fd13172fa41333442dc3fd258797a4ce9fc1c08c6d8e4056c0e443185fdbd11e5066fbd51bd447850886d4a921e0803a2539b217f2538b965f263108b1678aab09ae2b006c45353ead2786c62ee2522e3ecd573b22c93f6cf670dc55d1571c72da5aa9cdb93cdf26feb556b9229943c92c43bb9f0fd4e344144193f248d757b1e52cdfa34026792c783c09a544cf1f1968beab5185bd51160b12b85627e9ee492afeaabb51a764f8c5a5a8e5eca1789bfd01edb768fd4ed64557c76e991a54e6a3f43d631f38e83d0c6d06256f9ecea04adeb4b62f49f266e3250d2e60f9810de4326934e15e853533ca89ada5cad157d6025e96c45360424ca8a885b52134bfb56ab4a29a6d9d3f45be902c0deefbb7725545038806d6b8341c118b5f138e47f5c268b8770122c14b08f0523185b5ed75357f586df1b258d9fef2ca0ff458c0e499504db11878133de72d6e48268cfccf477b9ec556f14d1053bc13d87da2b9fef1aafcfd67bf047b5b0b2768ab0650f84cee56cd96d783ebd0bb0ad1b17980ec05f4ab8bc91fb48a4dac4eb368987babf40c357074c28f3da284524dce0ebc07696b843e9a0e1aed9a5e82ad167e5399bddb60cbb8e3958236379554e8bd5b7dbd6fdf06fc020551a1d69bda0288be0fb32e1827c99047db2403613bccb5fd6728549c1a938daec08eeb55e5ff8cae6d688a1455ab8f52d2f06efd47f9c8d7c6f58c015f28a3e6861175872097014b1488075c8fedb4879ab0691cfdb1f19c1114787bd21a57c0c3d4dda19a089ce201136353d755570f7d5c97423fd102330ca3b339a0c3ebe838d352acd9f49d49ce73df9b761a432b8efeadf3b1e8fd59b5a489e5d95174b22ab71a8a65a5c6ef4a7dafbd4e2431be34c5e4c342fe78890f24fd6b40ba85a76fa8cdc22a0efffea4f171ba96a7875ae478a9d50c51704b12da79b43ef2762a9127fcb980cb687012c29ea0d3b1901e18517be62d76e1140fc244e359c810380de566b3fb31a9df3b29c756f3b146e5098f7afc45dbe1f630cacebe3ef0169a1df3096bf43235f58e861b9d1ddefd433fd85d48a9cf5d631a602e4317d3372cd1a643ac1</script>
   <div class="hbe hbe-content">
     <div class="hbe hbe-input hbe-input-default">
       <input class="hbe hbe-input-field hbe-input-field-default" type="password" id="hbePass">
@@ -1803,28 +1767,6 @@ Identity added: id_rsa (id_rsa)
   </div>
 </div>
 <script data-pjax src="/lib/hbe.js"></script><link href="/css/hbe.style.css" rel="stylesheet" type="text/css">]]></content>
-      <tags>
-        <tag>private</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>日志24</title>
-    <url>/2020/04/24/%E6%97%A5%E5%BF%9724/</url>
-    <content><![CDATA[<div class="hbe hbe-container" id="hexo-blog-encrypt" data-wpm="抱歉, 这个密码看着不太对, 请再试试." data-whm="抱歉, 这个文章不能被校验, 不过您还是能看看解密后的内容.">
-  <script id="hbeData" type="hbeData" data-hmacdigest="d72c71e41e9a157df4f6e6af086a6e0e96c5a5c925ded3aa462fae63e2128678">a531e13b27d4bffc69a9f4f9c25aa4be32aa23a37b47b0f5cfec4153c8e5afd999e62b2a05c10c9daff0ab9ab6859a99e7627e5e0afd5fe7ced79d143b70f60f0fd0265ad32cb25cab0453e97ba1bf96ef2e91b0508f29a2b78a26564d9d7a94e2e4b8cf6e41dd355b8634e17298ed5696d3c416477a8acb08b5622e6b5b1761c5913d787fac3190665f1c160bb05023cfd908a0f0a3d1aa4f801874ba51575dc98c68cadd074c1181e14567e60eb797b58ff7f486278659d0e38cba60ec536196e03dd54a065885c6bc5a5b6e5fbd2991351d1409b1aa77a5f9d6461401bcdf7de1d13c1ae65a106a1ab736870d2079865bda849e8f75e37e08da0df0f5dc8ebebdc10ff6997a432a0e47708a9a4d4ba5c7e4994725ea4cb2579cc5deb2ef0017c5456a3b987befda8057774f629e9427091dc5cbfc05c998b5f7cd06e222e2dd9fca5904c9c95f95ce527cbd9c9c98f25a5cd3bf78357d59af76517017fefbeaad278e31f39f6c87443090236e5d04944fa7fa21e254e102f9bb8a63c9c25e91e2a22568dfa4d0315e3e987402619019f29e8c52cde1d28494bbd35a037bad67598d82dd143f0058e43a29487e3b8935a3d8544211c2d6a77664d07b3c1fd6c0e1ef4df5fc46e2b8b856cb1366e784d3416bfe738c09af3e1a0583bd07ceab8badc0b6437bde8a87192669f154c018efd12e4ca8a4e85e5ccb10b1095538ec93a8565a6b79e379e5aea50779e72e89a73cb3e2f0b1b382a54962faab093151b384c7154ccfa6b554fb5aa34e69690d2899ac130d1a28edb3a514ebcd50668619270288e9c367183d3429cd115489fc17f5af4d0d2fa258d028194b8aedb290fd34d37d7a8271d186b8f1335ef0103c5b570f6452c109724505876b1b0ee26a78a06b91fc11c38ed6b9e39d87f9dedcea6c3ba1e2e37c1867d491ee6c4158df34d69102b6b5880bac3645b5e12b76838c91d400bb4dd6a8c73d68bd5daa214a45913ab40e781ece467ef5feb35ee77c9a72382c76dea5d26bc0f479086f9e3dcd5ff91229464cb6839b2def3539ff32c447869d271d89e669ff48610f2f6abe3cd4a9ac2e810e9588147f8578f78136ffb8c06723dc73c4f244e150caa5a5e3c4cfb98cb76fa206d42387140aa82385321c9fcaf83de4f2515f1430636cf2a7b0065e106b894fc33afe31d86db0d1871a4b149847a6f5747feecfcb7c41943b97aa910b525351907dec61fcb3ca206cb7ae1f018a3a154f268ac92eb82bb8282fea1936475a8bf4ecac7dda76e7ce559858273ced85ace04428f1b543b135a07c1caf1e15abb9274f8fb63087c0c35629d175c02fbd7eeec0c2f809a2da9834929019c524be94bf580e692327ebb1e06b05ba9b481b9aef27835126c8f4b5cda76a4564df158055efeb3e4d0f660d83b9c8438e6ddb507952addb659104544cc67831e5e8470205b2197ac9ce62ae87fbbf5d4b13a33e76005461a7c94b568d27351aecf05052387126f5202de0b0a9150f3e2f0d2db46dbfa1fbc5f734d5e36c57d96eade2426efe022a9f553d4bc0185a1a233a5b0606e509478e4e1ab3abbbc95c33df6927e6ced3845d4ec0b173130cd903f53d6db378a7e5b65360476ebee5ec76c698a6ce56d2f87277558ef2f23bbda50159e415e44ef652e1748f311d276534555c5755775cdeb791c6a522bdf8c8e88609560064050f2d6c82cf1d97988c2f7d18315f89a66e193bca907515782bfc1b707f42759a4e32e65fe2812b6b0d05f14998643859b1d546ff89bb8d4f509200b9bb143baebe31a5a0e76294e5f49b54ee92e2264ffe37d5c775a13c2b46e19f917246853331ed6e04e7a08ce874fe984923053693a5044fa5b355694907a03805710e81af7982b9b995d0dc673340a4a523d6c7a70d7e5eec3479352147f35efe60a3fd3f5d8c4d557b8b81ee4e9c2ced83bcfc73be72489812894b3aa13456f49a68d14b7d59fa9b18ab4b46e833452c32bfdddeb75e9dae10767ab648180e1179fbe1782a327fce878bf4a816c6d0cf4304406dcde802bf07954ad9bd69da6ef1aa74584458f51c4270c940ba9fd13172fa41333442dc3fd258797a4ce9fc1c08c6d8e4056c0e443185fdbd11e5066fbd51bd447850886d4a921e0803a2539b217f2538b965f263108b1678aab09ae2b006c45353ead2786c62ee2522e3ecd573b22c93f6cf670dc55d1571c72da5aa9cdb93cdf26feb556b9229943c92c43bb9f0fd4e344144193f248d757b1e52cdfa34026792c783c09a544cf1f1968beab5185bd51160b12b85627e9ee492afeaabb51a764f8c5a5a8e5eca1789bfd01edb768fd4ed64557c76e991a54e6a3f43d631f38e83d0c6d06256f9ecea04adeb4b62f49f266e3250d2e60f9810de4326934e15e853533ca89ada5cad157d6025e96c45360424ca8a885b52134bfb56ab4a29a6d9d3f45be902c0deefbb7725545038806d6b8341c118b5f138e47f5c268b8770122c14b08f0523185b5ed75357f586df1b258d9fef2ca0ff458c0e499504db11878133de72d6e48268cfccf477b9ec556f14d1053bc13d87da2b9fef1aafcfd67bf047b5b0b2768ab0650f84cee56cd96d783ebd0bb0ad1b17980ec05f4ab8bc91fb48a4dac4eb368987babf40c357074c28f3da284524dce0ebc07696b843e9a0e1aed9a5e82ad167e5399bddb60cbb8e3958236379554e8bd5b7dbd6fdf06fc020551a1d69bda0288be0fb32e1827c99047db2403613bccb5fd6728549c1a938daec08eeb55e5ff8cae6d688a1455ab8f52d2f06efd47f9c8d7c6f58c015f28a3e6861175872097014b1488075c8fedb4879ab0691cfdb1f19c1114787bd21a57c0c3d4dda19a089ce201136353d755570f7d5c97423fd102330ca3b339a0c3ebe838d352acd9f49d49ce73df9b761a432b8efeadf3b1e8fd59b5a489e5d95174b22ab71a8a65a5c6ef4a7dafbd4e2431be34c5e4c342fe78890f24fd6b40ba85a76fa8cdc22a0efffea4f171ba96a7875ae478a9d50c51704b12da79b43ef2762a9127fcb980cb687012c29ea0d3b1901e18517be62d76e1140fc244e359c810380de566b3fb31a9df3b29c756f3b146e5098f7afc45dbe1f630cacebe3ef0169a1df3096bf43235f58e861b9d1ddefd433fd85d48a9cf5d631a602e4317d3372cd1a643ac1</script>
-  <div class="hbe hbe-content">
-    <div class="hbe hbe-input hbe-input-default">
-      <input class="hbe hbe-input-field hbe-input-field-default" type="password" id="hbePass">
-      <label class="hbe hbe-input-label hbe-input-label-default" for="hbePass">
-        <span class="hbe hbe-input-label-content hbe-input-label-content-default">您好, 这里需要密码.</span>
-      </label>
-    </div>
-  </div>
-</div>
-<script data-pjax src="/lib/hbe.js"></script><link href="/css/hbe.style.css" rel="stylesheet" type="text/css">]]></content>
-      <categories>
-        <category>worklog</category>
-      </categories>
       <tags>
         <tag>private</tag>
       </tags>
@@ -1926,28 +1868,6 @@ Identity added: id_rsa (id_rsa)
       </tags>
   </entry>
   <entry>
-    <title>日志30</title>
-    <url>/2020/04/30/%E6%97%A5%E5%BF%9730/</url>
-    <content><![CDATA[<div class="hbe hbe-container" id="hexo-blog-encrypt" data-wpm="抱歉, 这个密码看着不太对, 请再试试." data-whm="抱歉, 这个文章不能被校验, 不过您还是能看看解密后的内容.">
-  <script id="hbeData" type="hbeData" data-hmacdigest="910ade2fc4965f52b8863cd63e62dea02614dd124c6333721e9cf9004a0f59e1">a531e13b27d4bffc69a9f4f9c25aa4be32aa23a37b47b0f5cfec4153c8e5afd999e62b2a05c10c9daff0ab9ab6859a99ad3592dd4bac3aab680378b9727e8ca34762fffb60920fc8e6f76efb6510f95ad13a1cbfbffdd30ca65b5c917e6b19a99c78bbedbd1180ee21d36ff488ed3d649c0d4b9fd134228dc9e59286e16475a5c53970a46b111494750b7640c9f1552f3352c249a7b728d78636e28844a65793c2533eadebe9076d0099fe9ca12d5985a480e877a0c4aad552cb50beb36011d17b46dfb4b9e0b1b2c49b0c9fb9ecdc0a08b92355de523ae471194c91b74c056cc2fece1b843f0aff922e7906f3c646df940115be1d678f5ed65337227345f728e5552500efca0a783d331dc22326fa8e725c150562e1022c6e8d86d74da570919e4725486e66b035f3af33abd3d3f02a9bb6ea8c1346b1c62ef5d1f7351977a12d8155a304f3a8a21e9664be3f4bff0ffa5a9c2d57ea332b5a7a850ce8f45b7a8f732ef7d55dc03db48c18407aa7b3ee8374471929fc8a53ad2cfc031cd84a308e0f1007c3c60ce699f29fb9fe917282bba810f9e58b4fc2f60e4c7d76cc95c0eb9e21bc00f3a1009d1d1c20521198ac35ae5b63eb2065d4f962b826098706ae577e38bc8573ec22d60b2a54dfb57875fececd267bd5bc4b8bdb2c6aae62d1858c23c0b2fb55a1ca64a2ca2e48afe6c29ea77d81d89defc595734c7941d4821d72c878e1150546574470da3486371de175011bd30da53c98da427729ccb191b2446986095d35c491f15852da111d8ffea4735bdfd0bb8661ec33caad1187485b2c7942742385d4b824b05ed361957f6460ac581935bfb8733f45218f224ceea2c2cd67024109e6b02db0fc225b355c9a219860029c9a2750e78a7c1dc2386870fe82c1655665292854b97e8ca23bf1d7d33753ebf00cdd95cdce65bac885b39afdf345b86da017c7e8f4e7a60b03677c618f91369e907c4f21c8570f81356cdd21f6a134dbf152772a1b4daff0a61e9c6aa36a09d60e041e83a49cd1110c32d44b4115fcc12ed9360ade35f79649c83efc730797f350861fd3d8d5ec02ac34ccc928c4e0a02e9ee418c11c8ff8e63d4c0daff1a3eb5d0ff008a6f0489c57a14b2892ec83c2283c80a246cc8897aef6c0bfc7b28701703e28780a422220931f9e24c2cafcd7bd60abeadb1759ceda1c75876207a2076d31e41356af74a80a9b42204168ed70ff349b775ede8317b236250a13d1267450a469aa879263e5e6caef08061e97666c94d4b5d16190aa241d4513fce090ae8d11972613dd0a33da48ad339f5458a64952b684b29860ce674d3f9a59cac919360053858765002bbcc89cb9d9b8e4f4288bf8299335161409e141cee752598ba2d8d1aba322a8856da2e3a276dde795aeabfcfa99f1fba2e4e8667900ecdcf41503695a125e718bc50d6afaddbdc469c19875097ef78e1b04801f71593cc71d7abf80964d5efe4db705d5c98d79700ccff6600d797783d31f47b8778f8ede27e16de996b74c63ae5bf6494b1f04247bd8f8ca2bab9c0a19cd37fc3e645b511eea751023966ae1102d6011de718dcf19ef8fa43ec8b5b8d1f919c570b17487862f9aeed65224303cc3efd391b349fc0fe9a8412de5b4be0b9c1baecd18f6bc80aa9376f2e7856915cdc40bcd9c73a7f4f272ed92f63da4b553846615201c77f88e039d006bdc936d773ed472c34349b25ffcd969f36b1409e7755558d01ca236c0a7fbf2839a59e293ae6eac3f8a434a9cb6ee6fa69ab8af6e2d7d4cdce36cf43f6cdcf93a558361da79e8b80ce3b00c56f23790a3360724b20f01d8579ac1bab6006a0bb86113259f853cf1aaa6e6dc2bc02d4e893e9f3a72d8de7e1d87df87ef023c0ba7a9936470ad4db1c65aecd2d45f797d400a5736ff6985b66284af6f38c88c889b39c3e17255acd2e39120b42b3ddcc71543e46b47445cbfb459f2280dbbaaf6b3c511801d07585a0fb167a06d9244db2241ef102e3fd555fc44cfc0be49d254ba3dc551b044100404c7bdb729bc6e2c77bead3b71661cf91b4bb12e86fc068309479cf2195b1af13633293aaf805fe0dd4c78829f39d6f4c8117b5b46cd4306abd4f361d33179348301fe9981292ccc3e49b18e4b7482e7ade6cbf0b6318badc51071947d38b37c9fbcfcd03b9d56aea2ffdfa52381b66468475fdfcd9394986a2894767bc3e998f83ff6f1d63e9f66878bc4a64f24e44026d2c886e8e33f1e5a90242ee0712d162097f690af192085edc84bd768b23f9125d23842d3a08065048a1b65ea1ddbf6d2a868a5cd3feb7c75715e3a5376f97df25e308d8d7f8a224898d9ead5dc852aab86053c414a376550b303315d0ca585b4fd6666c8333187983b3ddac87c43a51756b0dcec9b3f90a882cff3554090</script>
-  <div class="hbe hbe-content">
-    <div class="hbe hbe-input hbe-input-default">
-      <input class="hbe hbe-input-field hbe-input-field-default" type="password" id="hbePass">
-      <label class="hbe hbe-input-label hbe-input-label-default" for="hbePass">
-        <span class="hbe hbe-input-label-content hbe-input-label-content-default">您好, 这里需要密码.</span>
-      </label>
-    </div>
-  </div>
-</div>
-<script data-pjax src="/lib/hbe.js"></script><link href="/css/hbe.style.css" rel="stylesheet" type="text/css">]]></content>
-      <categories>
-        <category>worklog</category>
-      </categories>
-      <tags>
-        <tag>private</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>Hexo之文章站内搜索</title>
     <url>/2020/05/04/Hexo%E4%B9%8B%E6%96%87%E7%AB%A0%E7%AB%99%E5%86%85%E6%90%9C%E7%B4%A2/</url>
     <content><![CDATA[<h3 id="背景"><a href="#背景" class="headerlink" title="背景"></a>背景</h3><p>前期在搭建Hexo过程中，因为有很多前期hexo知识点学习和实践，故一直遗留了一个搜索功能。目前博客已写了小几十篇文章，决定集成搜索功能，更方便查找博文！</p>
@@ -1972,6 +1892,28 @@ Identity added: id_rsa (id_rsa)
         <category>博客</category>
         <category>Hexo</category>
       </categories>
+  </entry>
+  <entry>
+    <title>日志30</title>
+    <url>/2020/04/30/%E6%97%A5%E5%BF%9730/</url>
+    <content><![CDATA[<div class="hbe hbe-container" id="hexo-blog-encrypt" data-wpm="抱歉, 这个密码看着不太对, 请再试试." data-whm="抱歉, 这个文章不能被校验, 不过您还是能看看解密后的内容.">
+  <script id="hbeData" type="hbeData" data-hmacdigest="910ade2fc4965f52b8863cd63e62dea02614dd124c6333721e9cf9004a0f59e1">a531e13b27d4bffc69a9f4f9c25aa4be32aa23a37b47b0f5cfec4153c8e5afd999e62b2a05c10c9daff0ab9ab6859a99ad3592dd4bac3aab680378b9727e8ca34762fffb60920fc8e6f76efb6510f95ad13a1cbfbffdd30ca65b5c917e6b19a99c78bbedbd1180ee21d36ff488ed3d649c0d4b9fd134228dc9e59286e16475a5c53970a46b111494750b7640c9f1552f3352c249a7b728d78636e28844a65793c2533eadebe9076d0099fe9ca12d5985a480e877a0c4aad552cb50beb36011d17b46dfb4b9e0b1b2c49b0c9fb9ecdc0a08b92355de523ae471194c91b74c056cc2fece1b843f0aff922e7906f3c646df940115be1d678f5ed65337227345f728e5552500efca0a783d331dc22326fa8e725c150562e1022c6e8d86d74da570919e4725486e66b035f3af33abd3d3f02a9bb6ea8c1346b1c62ef5d1f7351977a12d8155a304f3a8a21e9664be3f4bff0ffa5a9c2d57ea332b5a7a850ce8f45b7a8f732ef7d55dc03db48c18407aa7b3ee8374471929fc8a53ad2cfc031cd84a308e0f1007c3c60ce699f29fb9fe917282bba810f9e58b4fc2f60e4c7d76cc95c0eb9e21bc00f3a1009d1d1c20521198ac35ae5b63eb2065d4f962b826098706ae577e38bc8573ec22d60b2a54dfb57875fececd267bd5bc4b8bdb2c6aae62d1858c23c0b2fb55a1ca64a2ca2e48afe6c29ea77d81d89defc595734c7941d4821d72c878e1150546574470da3486371de175011bd30da53c98da427729ccb191b2446986095d35c491f15852da111d8ffea4735bdfd0bb8661ec33caad1187485b2c7942742385d4b824b05ed361957f6460ac581935bfb8733f45218f224ceea2c2cd67024109e6b02db0fc225b355c9a219860029c9a2750e78a7c1dc2386870fe82c1655665292854b97e8ca23bf1d7d33753ebf00cdd95cdce65bac885b39afdf345b86da017c7e8f4e7a60b03677c618f91369e907c4f21c8570f81356cdd21f6a134dbf152772a1b4daff0a61e9c6aa36a09d60e041e83a49cd1110c32d44b4115fcc12ed9360ade35f79649c83efc730797f350861fd3d8d5ec02ac34ccc928c4e0a02e9ee418c11c8ff8e63d4c0daff1a3eb5d0ff008a6f0489c57a14b2892ec83c2283c80a246cc8897aef6c0bfc7b28701703e28780a422220931f9e24c2cafcd7bd60abeadb1759ceda1c75876207a2076d31e41356af74a80a9b42204168ed70ff349b775ede8317b236250a13d1267450a469aa879263e5e6caef08061e97666c94d4b5d16190aa241d4513fce090ae8d11972613dd0a33da48ad339f5458a64952b684b29860ce674d3f9a59cac919360053858765002bbcc89cb9d9b8e4f4288bf8299335161409e141cee752598ba2d8d1aba322a8856da2e3a276dde795aeabfcfa99f1fba2e4e8667900ecdcf41503695a125e718bc50d6afaddbdc469c19875097ef78e1b04801f71593cc71d7abf80964d5efe4db705d5c98d79700ccff6600d797783d31f47b8778f8ede27e16de996b74c63ae5bf6494b1f04247bd8f8ca2bab9c0a19cd37fc3e645b511eea751023966ae1102d6011de718dcf19ef8fa43ec8b5b8d1f919c570b17487862f9aeed65224303cc3efd391b349fc0fe9a8412de5b4be0b9c1baecd18f6bc80aa9376f2e7856915cdc40bcd9c73a7f4f272ed92f63da4b553846615201c77f88e039d006bdc936d773ed472c34349b25ffcd969f36b1409e7755558d01ca236c0a7fbf2839a59e293ae6eac3f8a434a9cb6ee6fa69ab8af6e2d7d4cdce36cf43f6cdcf93a558361da79e8b80ce3b00c56f23790a3360724b20f01d8579ac1bab6006a0bb86113259f853cf1aaa6e6dc2bc02d4e893e9f3a72d8de7e1d87df87ef023c0ba7a9936470ad4db1c65aecd2d45f797d400a5736ff6985b66284af6f38c88c889b39c3e17255acd2e39120b42b3ddcc71543e46b47445cbfb459f2280dbbaaf6b3c511801d07585a0fb167a06d9244db2241ef102e3fd555fc44cfc0be49d254ba3dc551b044100404c7bdb729bc6e2c77bead3b71661cf91b4bb12e86fc068309479cf2195b1af13633293aaf805fe0dd4c78829f39d6f4c8117b5b46cd4306abd4f361d33179348301fe9981292ccc3e49b18e4b7482e7ade6cbf0b6318badc51071947d38b37c9fbcfcd03b9d56aea2ffdfa52381b66468475fdfcd9394986a2894767bc3e998f83ff6f1d63e9f66878bc4a64f24e44026d2c886e8e33f1e5a90242ee0712d162097f690af192085edc84bd768b23f9125d23842d3a08065048a1b65ea1ddbf6d2a868a5cd3feb7c75715e3a5376f97df25e308d8d7f8a224898d9ead5dc852aab86053c414a376550b303315d0ca585b4fd6666c8333187983b3ddac87c43a51756b0dcec9b3f90a882cff3554090</script>
+  <div class="hbe hbe-content">
+    <div class="hbe hbe-input hbe-input-default">
+      <input class="hbe hbe-input-field hbe-input-field-default" type="password" id="hbePass">
+      <label class="hbe hbe-input-label hbe-input-label-default" for="hbePass">
+        <span class="hbe hbe-input-label-content hbe-input-label-content-default">您好, 这里需要密码.</span>
+      </label>
+    </div>
+  </div>
+</div>
+<script data-pjax src="/lib/hbe.js"></script><link href="/css/hbe.style.css" rel="stylesheet" type="text/css">]]></content>
+      <categories>
+        <category>worklog</category>
+      </categories>
+      <tags>
+        <tag>private</tag>
+      </tags>
   </entry>
   <entry>
     <title>5月需求</title>
@@ -2018,121 +1960,179 @@ Identity added: id_rsa (id_rsa)
       </tags>
   </entry>
   <entry>
-    <title>Hexo之高效编写文章</title>
-    <url>/2020/04/07/Hexo%E4%B9%8B%E9%AB%98%E6%95%88%E7%BC%96%E5%86%99%E6%96%87%E7%AB%A0/</url>
-    <content><![CDATA[<h3 id="背景"><a href="#背景" class="headerlink" title="背景"></a>背景</h3><p>为了Hexo更好地撰写博客，一直想找个符合个人想法的markdown编辑器，试用过SublimeText3、Gitbook、小书匠，看过主流笔记类编辑器，总不能满足自己的需求。</p>
-<a id="more"></a>
-<p>经过长期探索，发现一款很不错的HexoEditor，专为Hexo博客实现的编辑器，颜值高、纯白的画面太美；但是在Windows、Mac上均尝试后，还是发现一些瑕疵，比如</p>
+    <title>Markdown标准语法</title>
+    <url>/2020/03/31/Markdown%E6%A0%87%E5%87%86%E8%AF%AD%E6%B3%95/</url>
+    <content><![CDATA[<p>Part Ⅰ. Standard Markdown</p>
+<p>Strong and Emphasize<br><em>emphasize</em>   <strong>strong</strong><br><em>emphasize</em>   <strong>strong</strong><br>Links and Email<br>Inline:</p>
+<p>An <a href="http://url.com/" target="_blank" rel="noopener" title="Title">example</a><br>Reference-style labels (titles are optional):</p>
+<p>An <a href="http://example.com/" target="_blank" rel="noopener" title="Title">example</a>. Then, anywhere<br>else in the doc, define the link:</p>
+<p>Email:</p>
+<p>An email <a href="mailto:&#x65;&#x78;&#x61;&#109;&#112;&#108;&#101;&#64;&#x65;&#x78;&#97;&#109;&#x70;&#108;&#101;&#x2e;&#99;&#111;&#109;">&#x65;&#x78;&#x61;&#109;&#112;&#108;&#101;&#64;&#x65;&#x78;&#97;&#109;&#x70;&#108;&#101;&#x2e;&#99;&#111;&#109;</a> link.<br>Images<br>Inline (titles are optional):</p>
+<p><img src="/path/img.jpg" alt="alt text" title="Title"><br>Reference-style:</p>
+<p><img src="http://example.com/" alt="alt text" title="Title"></p>
+<p>Headers<br>Setext-style:</p>
+<h1 id="Header-1"><a href="#Header-1" class="headerlink" title="Header 1"></a>Header 1</h1><h2 id="Header-2"><a href="#Header-2" class="headerlink" title="Header 2"></a>Header 2</h2><p>atx-style (closing #’s are optional):</p>
+<h1 id="Header-1-1"><a href="#Header-1-1" class="headerlink" title="Header 1"></a>Header 1</h1><h2 id="Header-2-1"><a href="#Header-2-1" class="headerlink" title="Header 2"></a>Header 2</h2><h6 id="Header-6"><a href="#Header-6" class="headerlink" title="Header 6"></a>Header 6</h6><p>Lists<br>Ordered, without paragraphs:</p>
 <ol>
-<li>新建Post经常无反应，不能成功创建md文档</li>
-<li>创建Post md成功了，文件名称是固定的时间串202004051730.md，手动修改title后，自动修改的文件名不会带时间格式，不可以生成_config.xml配置的自定义格式</li>
-<li>设置了Hexo配置文件_config.xml，却不起作用</li>
-<li>设置Tag模板目录不能添加，还不懂什么意思</li>
-<li>右键Hexo同步文件名，会去除文件名的时间格式，仅保留title为文件名 等等</li>
+<li>Foo</li>
+<li>Bar<br>Unordered, with paragraphs:</li>
 </ol>
-<h3 id="调研"><a href="#调研" class="headerlink" title="调研"></a>调研</h3><p>在baidu google搜索了很久，看了很多文章，仍然没有一个我需要的解决方案；但终究有几篇文章，各自提供了一点思路。在这些思路的帮助下，我最终硬着头皮尝试并总结出一套适合自己的方案，并且这个方案，帮我达到了更高效的撰写博客。<br>在此，先列出对我高效方案有益的几篇文章，以示感谢：</p>
-<ol>
-<li><a href="https://blog.csdn.net/zkzk96871/article/details/84344853?depth_1-utm_source=distribute.pc_relevant.none-task-blog-BlogCommendFromBaidu-2&utm_source=distribute.pc_relevant.none-task-blog-BlogCommendFromBaidu-2" target="_blank" rel="noopener">在Hexo new之后立即打开Markdown文稿</a> </li>
-<li><a href="https://blog.csdn.net/senupp/article/details/103986447" target="_blank" rel="noopener">Hexo写文章创建文件自动打开编辑器</a></li>
-<li><a href="https://blog.csdn.net/maosidiaoxian/article/details/85220394" target="_blank" rel="noopener">如何在Hexo中对文章md文件分类</a></li>
-<li><a href="https://akilarlxh.github.io/post/1da4f99e" target="_blank" rel="noopener">Hexo-editor专用的编辑器</a></li>
-</ol>
-<p>简要说下，上面3篇文章，其实写的不怎么样，但提供的思路有两个：</p>
 <ul>
-<li>hexo new生成的md文件，按年月在_posts里进行目录分类，不同于categories分类哦！</li>
-<li>hexo new生成md文件后，自动打开HexoEditor编辑器，省去后期在大量文章里寻找刚创建的md文件。</li>
+<li><p>A list item.</p>
+<p>With multiple paragraphs.</p>
+</li>
+<li><p>Bar<br>You can nest them:</p>
+</li>
+<li><p>Abacus</p>
+<ul>
+<li>answer</li>
 </ul>
-<h3 id="实践方案"><a href="#实践方案" class="headerlink" title="实践方案"></a>实践方案</h3><ol>
-<li><p>HexoEditor设置Hexo配置、渲染主题、图片(虽然很容易配置七牛，但不太敢上传，暂时用hexo qiniu s进行上传图片)</p>
-<img src="http://cdn.shendawei.cn/cdn/images//2020-04-07-Hexo之高效编写文章/20200408022525497.png">
-<img src="http://cdn.shendawei.cn/cdn/images//2020-04-07-Hexo之高效编写文章/20200408014341364.png">
-<img src="http://cdn.shendawei.cn/cdn/images//2020-04-07-Hexo之高效编写文章/20200408014510501.png"></li>
-<li><p>修改站点配置_config.xml，实现md文件按年月进行目录分类，方便后期对文章的管理查阅</p>
-<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">permalink: :year&#x2F;:month&#x2F;:day&#x2F;:title&#x2F; # blog article link</span><br><span class="line">new_post_name: :year-:month&#x2F;:year-:month-:day-:title.md # File name of new posts</span><br></pre></td></tr></table></figure>
-<blockquote>
-<p>每个时间field前面必须跟着:冒号，这是语法，否则取不到对应的时间。</p>
-</blockquote>
 </li>
-<li><p>安装shelljs插件，实现自动部署加载JS脚本</p>
-<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">npm install --save shelljs</span><br></pre></td></tr></table></figure></li>
-<li><p>创建scripts目录，编写auto_open.js脚本，hexo new后自动调用命令，打开HexoEditor</p>
-<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">在hexo根目录下</span><br><span class="line">mkdir scripts&amp;&amp;cd scripts</span><br><span class="line">touch auto_open.js</span><br><span class="line">vim auto_open.js</span><br><span class="line">输入代码</span><br><span class="line">var exec &#x3D; require(&#39;child_process&#39;).exec;</span><br><span class="line"></span><br><span class="line">hexo.on(&#39;new&#39;, function(data) &#123;</span><br><span class="line">    exec(&#39;open -a &quot;&#x2F;Applications&#x2F;HexoEditor.app&quot;  &#39; + [data.path]);</span><br><span class="line">&#125;);</span><br><span class="line">保存退出:wq</span><br></pre></td></tr></table></figure></li>
-<li><p>hexo new新文档测试，自动打开HexoEditor。编写md文档文本内容，利用HexoEditor预览、与发布后的博客同样的主题效果</p>
-<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">hexo new autoopen</span><br><span class="line">...</span><br><span class="line">INFO  -----------------------------------------------------------</span><br><span class="line">INFO  qiniu state: online</span><br><span class="line">INFO  qiniu sync:  true</span><br><span class="line">INFO  qiniu local dir:  cdn</span><br><span class="line">INFO  qiniu url:   http:&#x2F;&#x2F;cdn.shendawei.cn&#x2F;cdn</span><br><span class="line">INFO  -----------------------------------------------------------</span><br><span class="line">INFO  Created: ~&#x2F;Development&#x2F;hexo&#x2F;shendawei&#x2F;source&#x2F;_posts&#x2F;2020-04&#x2F;2020-04-07-autoopen.md</span><br></pre></td></tr></table></figure>
-<blockquote>
-<p>这样生成的2020-04-07-autoopen.md，就存在于_posts/2020-04/目录下，实现了目录分类效果<br>自动打开HexoEditor，并且打开的是2020-04-07-autoopen.md文档<br>尽情编写md文档，右侧预览的效果，即是发布后的效果！！  </p>
-</blockquote>
+<li><p>Bubbles</p>
+<ol>
+<li>bunk</li>
+<li>bupkis<ul>
+<li>BELITTLER</li>
+</ul>
 </li>
-<li><p>截图粘贴图片，生成可用的md语法图片引用，主要是获取图片路径，不手动填写图片路径</p>
-<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">微信Control + Command + A快捷键截图</span><br><span class="line">Control + V粘贴到md文档</span><br><span class="line">以2020-04-07-templatetest.md文档为例子，粘贴后效果</span><br><span class="line">image</span><br><span class="line">![](&#x2F;2020-04-07-templatetest&#x2F;20200407110022073.png)</span><br><span class="line">且在图片设置的默认资源库&#x2F;cdn&#x2F;images&#x2F;下，自动生成复制的图片20200407110022073.png，且以文档文件名为相对目录。</span><br></pre></td></tr></table></figure>
-<blockquote>
-<p>md语法引用本地相对路径，本地预览可以看到图片，但发布到博客后，将加载不出来。<br>HexoEditor粘贴生成的图片名，仍以长时间串为格式，只能委屈接受了；如果图片名必须展示意义，就做个手动改名吧。。</p>
-</blockquote>
-<p> image<br> <img src="/2020-04-07-templatetest/20200407110022073.png" alt=""></p>
-</li>
-<li><p>采用Hexo标签插件语法，改造图片引用</p>
-<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">label 七牛标签引用格式</span><br><span class="line">&#123;% qnimg &#x2F;2020-04-07-templatetest&#x2F;20200407110022073.png %&#125;</span><br></pre></td></tr></table></figure>
-<blockquote>
-<p>使用七牛标签引用相对路径，本地预览看不到图片，但发布到博客后，可以正常显示图片，且自动转换为七牛图床对应的图片外链。<br>正常文档里，引用改造后，应删除md语法的图片引用。</p>
-</blockquote>
-<p> label</p>
- <img src="http://cdn.shendawei.cn/cdn/images//2020-04-07-templatetest/20200407110022073.png"></li>
-<li><p>完成博客撰写后，在GithubDesktop里，commit改动文档</p>
-<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">git add .</span><br><span class="line">git commit -m &quot;&quot;</span><br></pre></td></tr></table></figure></li>
-<li><p>Terminal终端执行git push修改到文档到服务器仓库</p>
-<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">git push</span><br></pre></td></tr></table></figure></li>
-<li><p>发布博客</p>
-<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">hexo d -g</span><br></pre></td></tr></table></figure></li>
-<li><p>七牛插件，上传图片到七牛图床</p>
-<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">hexo qiniu s</span><br></pre></td></tr></table></figure>
-
-</li>
+<li>burper</li>
 </ol>
-<h3 id="结语"><a href="#结语" class="headerlink" title="结语"></a>结语</h3><p>最后，谨以列出本文的目录结构致敬！</p>
-<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">~&#x2F;Development&#x2F;hexo&#x2F;shendawei&#x2F;source&#x2F;_posts&#x2F;2020-04&#x2F;2020-04-07-Hexo之高效编写文章.md</span><br></pre></td></tr></table></figure>]]></content>
+</li>
+<li><p>Cunning<br>Blockquotes</p>
+<blockquote>
+<p>Email-style angle brackets<br>are used for blockquotes.</p>
+</blockquote>
+</li>
+</ul>
+<blockquote>
+<blockquote>
+<p>And, they can be nested.</p>
+</blockquote>
+</blockquote>
+<blockquote>
+<h4 id="Headers-in-blockquotes"><a href="#Headers-in-blockquotes" class="headerlink" title="Headers in blockquotes"></a>Headers in blockquotes</h4><ul>
+<li>You can quote a list.</li>
+<li>Etc.<br>Inline Code<br><code>&lt;code&gt;</code> spans are delimited<br>by backticks.</li>
+</ul>
+</blockquote>
+<p>You can include literal backticks<br>like <code>`this`</code>.<br>Block Code<br>Indent every line of a code block by at least 4 spaces or 1 tab.</p>
+<p>This is a normal paragraph.</p>
+<pre><code>This is a preformatted
+code block.</code></pre><p>Horizontal Rules<br>Three or more dashes or asterisks:</p>
+<hr>
+<hr>
+<hr>
+<p>Hard Line Breaks<br>End a line with two or more spaces:</p>
+<p>Roses are red,<br>Violets are blue.<br>Part Ⅱ. Extra Syntax</p>
+<p>Footnotes<br>Footnotes work mostly like reference-style links. A footnote is made of two things: a marker in the text that will become a superscript number; a footnote definition that will be placed in a list of footnotes at the end of the document. A footnote looks like this:</p>
+<p>That’s some text with a footnote.[^1]</p>
+<p>[^1]: And that’s the footnote.<br>Strikethrough<br>Wrap with 2 tilde ~ characters:</p>
+<p><del>Strikethrough</del><br>Fenced Code Blocks<br>Start with a line containing 3 or more backtick <code>characters, and ends with the first line with the same number of backtick</code>:</p>
+<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">Fenced code blocks are like Stardard</span><br><span class="line">Markdown’s regular code blocks, except that</span><br><span class="line">they’re not indented and instead rely on a</span><br><span class="line">start and end fence lines to delimit the code</span><br><span class="line">block.</span><br></pre></td></tr></table></figure>
+<p>Tables<br>A simple table looks like this:</p>
+<table>
+<thead>
+<tr>
+<th>First Header</th>
+<th>Second Header</th>
+<th>Third Header</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>Content Cell</td>
+<td>Content Cell</td>
+<td>Content Cell</td>
+</tr>
+<tr>
+<td>Content Cell</td>
+<td>Content Cell</td>
+<td>Content Cell</td>
+</tr>
+<tr>
+<td>If you wish, you can add a leading and tailing pipe to each line of the table:</td>
+<td></td>
+<td></td>
+</tr>
+</tbody></table>
+<table>
+<thead>
+<tr>
+<th>First Header</th>
+<th>Second Header</th>
+<th>Third Header</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>Content Cell</td>
+<td>Content Cell</td>
+<td>Content Cell</td>
+</tr>
+<tr>
+<td>Content Cell</td>
+<td>Content Cell</td>
+<td>Content Cell</td>
+</tr>
+<tr>
+<td>Specify alignement for each column by adding colons to separator lines:</td>
+<td></td>
+<td></td>
+</tr>
+</tbody></table>
+<table>
+<thead>
+<tr>
+<th align="left">First Header</th>
+<th align="center">Second Header</th>
+<th align="right">Third Header</th>
+</tr>
+</thead>
+<tbody><tr>
+<td align="left">Left</td>
+<td align="center">Center</td>
+<td align="right">Right</td>
+</tr>
+<tr>
+<td align="left">Left</td>
+<td align="center">Center</td>
+<td align="right">Right</td>
+</tr>
+<tr>
+<td align="left">Anchor</td>
+<td align="center"></td>
+<td align="right"></td>
+</tr>
+<tr>
+<td align="left">You can also add an anchor for an element such as Headers, then you can link to this anchor anywhere, when you click that link in the Preview view, it’ll auto scroll to the place of the destination anchor.</td>
+<td align="center"></td>
+<td align="right"></td>
+</tr>
+</tbody></table>
+<p>For example below is a normal h2 Header:</p>
+<h2 id="This-is-an-example"><a href="#This-is-an-example" class="headerlink" title="This is an example"></a>This is an example</h2><p>Now we add an anchor for it, here we use the name “anchor1” for the anchor, of course you can use any name you want.</p>
+<h2 id="This-is-an-example-1"><a href="#This-is-an-example-1" class="headerlink" title="This is an example"></a><a href="id:anchor1">This is an example</a></h2><p>If you want to link to this anchor, simply write like this:</p>
+<p>Click this <a href="#anchor1">link</a> in the Preview view will auto scroll to the place of the destination anchor.</p>
+]]></content>
       <categories>
-        <category>博客</category>
-        <category>Hexo</category>
+        <category>Markdown</category>
       </categories>
   </entry>
   <entry>
-    <title>Hexo之七牛图床</title>
-    <url>/2020/04/06/Hexo%E4%B9%8B%E4%B8%83%E7%89%9B%E5%9B%BE%E5%BA%8A/</url>
-    <content><![CDATA[<h3 id="注册"><a href="#注册" class="headerlink" title="注册"></a>注册</h3><p>七牛注册<a href="https://portal.qiniu.com/signup" target="_blank" rel="noopener">官网</a></p>
-<h3 id="登录"><a href="#登录" class="headerlink" title="登录"></a>登录</h3><p>七牛登录<a href="https://sso.qiniu.com/?client_id=PIapUKqa3u6S24H868BelwrG0OFu8dS7AxVQ8oz8HznLXhgrl2BnjaO9cs9LzxK2&redirect_url=https:%2F%2Fportal.qiniu.com%2Fapi%2Fgaea%2Fsso%2Fsignin%3F" target="_blank" rel="noopener">官网</a><br>帐号信息：163邮箱 绑定手机号</p>
-<a id="more"></a>
-<h3 id="入门文档"><a href="#入门文档" class="headerlink" title="入门文档"></a>入门文档</h3><p><a href="https://developer.qiniu.com/kodo/manual/1233/console-quickstart" target="_blank" rel="noopener">对象存储快速入门</a><br><a href="https://developer.qiniu.com/kodo/manual/3978/the-basic-concept" target="_blank" rel="noopener">对象存储基本概念</a><br><a href="https://developer.qiniu.com/kodo/manual/1202/download-token" target="_blank" rel="noopener">安全机制－下载私有空间资源</a><code>只能程序化获取了</code><br><a href="https://developer.qiniu.com/faq?tag=%E5%85%A5%E9%97%A8%E7%AD%94%E7%96%91" target="_blank" rel="noopener">入门答疑</a></p>
-<h3 id="创建资源空间：对象存储"><a href="#创建资源空间：对象存储" class="headerlink" title="创建资源空间：对象存储"></a>创建资源空间：对象存储</h3><ul>
-<li>空间名称<br>以前的七牛(记得是18年初)，自己随便起名字images就可以；今天起名称，发现<br>名称会被校验是否占用，开始试了好几个名字，都被占用，最后才找到一个合适可用的名称sycres。</li>
-<li>存储区域<br>选择离自己较近的区域”华北”，以前随便选的华东，只是用来玩玩。</li>
-<li>访问控制<br>分为公共空间和私有空间。必须设为公共空间，因为私有空间不可复制外链、外链不可访问(cdn测试域名，可以预览和复制外链，但只有一个月有效期)。通过查阅下载凭证文档，了解了私有空间的资源，需要通过sdk和客户端程序来使用。</li>
-<li>CDN域名<br>正常情况下，必须绑定一个自定义域名，最多可绑定10个域名。没有外链域名时，无法预览、下载、复制外链。</li>
-<li>CDN测试域名<br>创建一个空间时，七牛会自动分配一个测试域名。七牛融合 CDN 测试域名（以 clouddn.com/qiniucdn.com/qnssl.com/qbox.me 结尾），每个域名每日限总流量 10GB，每个测试域名自创建起30个自然日后系统会自动回收，仅供测试使用并且不支持 Https 访问，详情查看<a href="https://developer.qiniu.com/fusion/kb/1319/test-domain-access-restriction-rules" target="_blank" rel="noopener">七牛测试域名使用规范</a>。<br>sycres的测试域名是q8cq2ed7c.bkt.clouddn.com，有效期至05.06。</li>
-</ul>
-<h3 id="管理资源"><a href="#管理资源" class="headerlink" title="管理资源"></a>管理资源</h3><p>空间创建好以后，控制台空间文件管理，就可以进行上传图片，复制图片链接，就可在博客引用访问了。</p>
-<h3 id="上传图片工具"><a href="#上传图片工具" class="headerlink" title="上传图片工具"></a>上传图片工具</h3><p>如果每次都需要像上面一样上传图片的操作就比较麻烦了。幸运的是，现在已经有很多三方工具和插件了，使用工具或插件，才能简单方便地上传和使用外链。</p>
-<ul>
-<li>网上推荐的工具：<br><a href="http://mpic.lzhaofu.cn/" target="_blank" rel="noopener">MPic</a> 看官网，没有mac支持<br><a href="https://github.com/Molunerfinn/PicGo" target="_blank" rel="noopener">PicGo</a><br>现在用Hexo写博客，就先不研究上面的工具了。</li>
-<li>插件：<br>采用hexo-qiniu-sync插件<br><a href="https://github.com/gyk001/hexo-qiniu-sync" target="_blank" rel="noopener">hexo-qiniu-sync</a><br>github before 3year star 358，配置细分详细。<br><a href="https://github.com/qiniu" target="_blank" rel="noopener">github-七牛</a><br><a href="https://github.com/howardliu-cn/hexo-deployer-qiniucloud2" target="_blank" rel="noopener">hexo-deployer-qiniucloud2</a><br>github before 3month star 1，配置简单</li>
-</ul>
-<h3 id="插件参考文章"><a href="#插件参考文章" class="headerlink" title="插件参考文章"></a>插件参考文章</h3><ol>
-<li><a href="http://blog.rexking6.top/2017/03/28/hexo%E7%9A%84%E5%9B%BE%E7%89%87%E4%BB%A5%E5%8F%8A%E5%9B%BE%E5%BA%8A/" target="_blank" rel="noopener">hexo的图片以及图床</a></li>
-<li><a href="https://yuchen-lea.github.io/2016-01-21-use-qiniu-store-file-for-hexo/" target="_blank" rel="noopener">使用七牛为Hexo存储图片等资源</a></li>
-<li><a href="https://www.jianshu.com/p/6991e8e7f01b" target="_blank" rel="noopener">Hexo七牛插件安装与使用</a></li>
-</ol>
-<blockquote>
-<p>使用七牛插件后引用图片  </p>
-</blockquote>
-<p>md语法</p>
-<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">![进京证](http:&#x2F;&#x2F;cdn.shendawei.cn&#x2F;cdn&#x2F;images&#x2F;%E4%BA%91%E9%A1%B6%E9%AB%98%E5%8E%9F.jpg)</span><br><span class="line">图片中文名称，会被转义成字符，所以尽量使用英文命名。</span><br></pre></td></tr></table></figure>
-<p><img src="http://cdn.shendawei.cn/cdn/images/%E4%BA%91%E9%A1%B6%E9%AB%98%E5%8E%9F.jpg" alt="进京证"><br>hexo标签插件</p>
-<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">&#123;% qnimg 云顶高原.jpg %&#125;</span><br></pre></td></tr></table></figure>
-<img src="http://cdn.shendawei.cn/cdn/images/云顶高原.jpg">
-<p>发布博客同步图片流程</p>
-<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">git add, git commit</span><br><span class="line">git push</span><br><span class="line">&#x2F;&#x2F;hexo clean 修改主题式样时，执行clean</span><br><span class="line">hexo d -g</span><br><span class="line">hexo qiniu s</span><br></pre></td></tr></table></figure>]]></content>
-      <categories>
-        <category>博客</category>
-        <category>Hexo</category>
-      </categories>
+    <title>妈药费纪录</title>
+    <url>/2020/04/10/%E5%A6%88%E8%8D%AF%E8%B4%B9%E7%BA%AA%E5%BD%95/</url>
+    <content><![CDATA[<div class="hbe hbe-container" id="hexo-blog-encrypt" data-wpm="抱歉, 这个密码看着不太对, 请再试试." data-whm="抱歉, 这个文章不能被校验, 不过您还是能看看解密后的内容.">
+  <script id="hbeData" type="hbeData" data-hmacdigest="b44329d2da19990ac1a439093c61acaabd2d249cbf22d22a0196c6aac577d405">a531e13b27d4bffc69a9f4f9c25aa4beb650dc50d7c7faa35b8c77e0467ccd872ddd7aafc648131582fa1ba37a23934c9499362038b0b5aaf7fca0554b19c4af5fc3ad5707e20b2a6f88bf0d81989efe271dcf3550c52a72646c03764a7e425310b494e28c84048225c3d35e98c6ccc1871571afd86b5c7d48435bf5aea90007c3b666f5455fe321837a9e7e392482a4768de6ba695e21dc7519b28b214655659ecfbbc2366612301e7a7e72e6b10a1f9f523a17e80ab23c35d8b4b7a5698a5d43c628463b6e18fea751172fa41094045d3525924c78f48c73c4b7e001d9266bbaca97b409496a43e87db85232672cf108aee413ba137d104561b4dbd80f586c24534acbd4130b4a640f1e2e625164dcf36b338fe51a1116e5f075f09cc97456a1a797ded09c93761fa61ded3540d49f512f11e960f4ab775c52565671b546fee1633f720a93aac166b7b5f0d523bae5dbffccd45453a01609fbf103dad16175af8a9bf2fe8c23036c59eea6e4c3c52427a0f2da90ec045185b598d6b4c3d55ce8917fe407fd83727261383fafb1c89e2f18e7154b317b7fce66b63e394ca85d9fe9324bd0da625a825665100023edd6b970206774ad725f42e5730b458ee52e27e4440f85b6eb3f5b740ec98cec6249a6911320d87d6fb38db9b87a28f162cd1913c408b9b7a1890247cc7a9a5f0dd05fed1019376d21b72d5163d5c879d9ea19e9e4b5cebf35ab13017ed12b8a3bf455d71ac0b15eaa730d9dfa2fecf888b0ac50325b500e402a64738fd42076361b4d6b9e298febad957852923134f7116abaf381aaaa38eb1ec33910156e2b504a1c303aab69c623c3fec5d4fc2c0918aebd689014ec9e2d39b08404cab92fad3ca7a8e163d16fd72853cba1460cd20d15eceb50b27aa71f8c84dacd0567e71fe91bdc1dd42c21faaaea2bb5dbc872f3d043f4c70db7153d7a61223bc430e51107808347006d277e721f79accf80f9416b9a6291872d56d8343c5fb13592e276513ca3dae91dcd1593acfeaae27c2310420113ada8815518d4b2d8c597999b3fc756b54f510cda42fe4beb588050bbba8b3d6810d980bd6907b308468d964668eab4f698cdfa848b075c9104188a8c4fb79569633e0dda80015bc0863912e9c6a35b3a0957401efbf8cc87ebb0a8daf87fc8515e4edd5fbcb40eb9dc92cfbc385ccc0b94c8e868630e54c395f3cee0945d8116e56860e86bd76cacf8970214dd88f04954c092b899851d7e2377cbd9654a53b2bf01e6a42c5387777ddd6e06b6ae61ed763a6c5a498fc15672d5bf421a6687281c0b1ec3a590c051de5b777df9740430a3bb12bd3fb4e48e13d66459502de626094a30c39103c3a926a6135b949ac6397b0ff2f37349301a6c3738f089363dba485aff75453eb4e6f2ee31d75ec0128462ae569aa0a610517f22f140f73c46c85d3fea1fc60a2bca2bff9b81b0cdcd7c6b4abdc0ea1e3d40045c4bf8836511d7a8efd31a17cc0aba8f979447d6549d8ef3c40ac415714629d651eb689b83edb68c0cbfc36c3bd5d8946282f773d3ce5e1506da1ca22515b8bbc30fbbdae3b4151b4634bcc667b71d64474d7fc40223e4ba77e0423a6a31e072579de954cb191954dc67b2c180e0be1732c44884074d03b301ec17d91bcded22f48a996d8eaa84c8f093730608c2b01bbe6026b7b0aced13d47c2dd8db4a256496343d405d827cebe2648cadb2267f464a0764eb64fc0d7a9f903032ff72a4923a3820e063526de4092539a4e4bdcbd2bf13634a3d0f17996ca2a7edc01f692d6aa263d507c7578aab9749f1b704d3a3b8ace2b0909a6d339101267a99bc632f4cdf9a5fb3479bc3ec4bc2320a48c4520a5c9f89a279e0cbdb28dcc1a1a8cca4b00feba9fea1cd712bf81541e1f7ed4b5beb7e849170a82fefcfa62dfe81847b2061eab2073b06b92812bb4b97995545bfffedca2b12c4499fdb48681df0fda61ef6b5a4942c38b90962233158e23bba63343c8ff184147256fda8f5ed1535a14b4a55195c581de14f54497adb5bad54cde7ea0a97e8f506826a3edc2940076f574bfd794d121ca908f96359ad4d8c3b7a1dd6b1abbbeaaec00c7d9e8c9cfe3d11e90a6e1094ba56adc28d55bb04cd8e1d51b55796fb964ec4ffff4df98677722835a56544b03cbbc4781d7ed0153932b103db86429bb5db073e499e774956b1e6cff603f610da7b87d014b96fcb84ce83ac9740f1f8b2d14df4521e2e21e4a7338b36a6d8e4a4f79d5c8f1da4c1f8deba9c47d4b599aa270cf8cd98a1701ffb884b0d536f137000f5c06c9b82fb04b091d4963e12b4c8d67d61f734014ed32757ba892167ec65fd6c69d8cfcb34cdacd5a8f6e58cc15b595b1d8b913c65680206bbf923c0b062586dab06860318d5ed56c63a006f</script>
+  <div class="hbe hbe-content">
+    <div class="hbe hbe-input hbe-input-default">
+      <input class="hbe hbe-input-field hbe-input-field-default" type="password" id="hbePass">
+      <label class="hbe hbe-input-label hbe-input-label-default" for="hbePass">
+        <span class="hbe hbe-input-label-content hbe-input-label-content-default">您好, 这里需要密码.</span>
+      </label>
+    </div>
+  </div>
+</div>
+<script data-pjax src="/lib/hbe.js"></script><link href="/css/hbe.style.css" rel="stylesheet" type="text/css">]]></content>
+      <tags>
+        <tag>private</tag>
+      </tags>
   </entry>
 </search>

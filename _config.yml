@@ -92,7 +92,7 @@ theme: next
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: git@shendawei.cn:/home/git/repos/Doc.git
+  repo: git@github.com:shendawei/shendawei.github.io.git
   branch: blog
 
 # 注意，不要在plugins下面添加hexo-qiniu-sync的配置项，否则会导致错误
